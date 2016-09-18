@@ -1,7 +1,7 @@
 %%
 % Generate pixelization.
 
-name = 'ens4';
+name = 'ens5';
 
 rep = 'results/';
 if not(exist(rep))
