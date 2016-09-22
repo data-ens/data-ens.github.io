@@ -4,5 +4,5 @@
   room: "CONF IV (physic dpt)"
   affiliation: Mines ParisTech, Institut Curie and ENS
   url: "http://cbio.mines-paristech.fr/~jvert/"
-  title: "TBA"
-  abstract: TBA
+  title: "Can Big Data cure Cancer?"
+  abstract: "As the cost and throughput of genomic technologies reach a point where DNA sequencing is close to becoming a routine exam at the clinics, there is a lot of hope that treatments of diseases like cancer can dramatically improve by a digital revolution in medicine, where smart algorithms analyze « big medical data »  to help doctors take the best decisions for each patient or to suggest new directions for drug development. While artificial intelligence and machine learning-based algorithms have indeed had a great impact on many data-rich fields, their application on genomic data raises numerous computational and mathematical challenges that I will illustrate on a few examples of patient stratification or drug response prediction from genomic data."
