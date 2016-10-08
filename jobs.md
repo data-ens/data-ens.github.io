@@ -12,6 +12,7 @@ The Laplace chair aims at recruiting outstanding candidates in theoretical stati
 The successful candidates will carry out (deep) research and (light) teaching at the ENS. Applications should be send before November 30th, 2016 [by email](mailto:florent.krzakala at ens.fr).
 
 Applications should consist of:
+
 - A cover letter ;
 - A complete CV including a list of publications ;
 - A research statement (maximum 4 pages in A4 format) taking into account possible interactions with research groups/faculty within the different department of ENS (Computer science, Mathematics, Physics, Biology, etc.) ;

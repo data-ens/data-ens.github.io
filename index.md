@@ -7,13 +7,13 @@ header-img: "img/ens1.png"
 
 Welcome to the [CFM](https://www.cfm.fr/)-[ENS](http://www.ens.fr) Chaire "_Modèles et Sciences des Données_" of the [ENS](http://www.ens.fr/).
 
-This chaire is organized around data sciences in a broad sense with the goal of bringing together researchers with diverse backgrounds (including for instance mathematics, computer science, physics, chemistry and neuroscience) but a common interest in dealing with large scale or high dimensional data.
+This chaire is organized around data sciences in a broad sense with the goal of bringing together researchers with diverse backgrounds (including for instance [mathematics](http://www.math.ens.fr/), [computer science](https://www.di.ens.fr/), [physics](https://www.phys.ens.fr/), [chemistry](http://www.chimie.ens.fr/) and [neuroscience](http://www.biologie.ens.fr/depbio/)) but a common interest in dealing with large scale or high dimensional data.
 
 The main activities of the chaire are:
 
-- It organizes the monthly [Data Science Colloquium of the ENS](seminar/).
-- It hosts the "_Laplace Junior Professor Chair in Data Science_" program, see the job [openings announcements](jobs/) for more details.
-- It supports the [Challenge Data program](https://challengedata.ens.fr/en/home).
+- It organizes the monthly [_Data Science Colloquium of the ENS_](seminar/).
+- It hosts the "_Laplace Junior Professor Chair in Data Science_" program, see the [job openings announcements](jobs/) for more details.
+- It supports the [_Challenge Data_ program](https://challengedata.ens.fr/en/home).
 
 Scientific Committee
 ============================
@@ -23,7 +23,7 @@ Scientific Committee
 - [Gabriel Peyré](http://gpeyre.github.io/) (CNRS and ENS).
 - ...
 
-Thanks
+Supported by
 ===========================
 
 
