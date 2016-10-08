@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Data Science Colloquium"
-description: "Seminar at ENS"
+description: "of the ENS"
 header-img: "img/ens2.png"
 ---
 
@@ -13,15 +13,12 @@ backgrounds (including for instance mathematics, computer science,
 physics, chemistry and neuroscience) but a common interest in dealing
 with large scale or high dimensional data.
 
-The seminar takes place, unless exceptionally noted, on the first
-Tuesday of each month at 12h00 at the [Physics
-Department of ENS, 24 rue Lhomond](http://www.phys.ens.fr/spip.php?article579&lang=en), in room CONF IV (2nd floor).
+The seminar takes place, unless exceptionally noted, on the first Tuesday of each month at 12h00 at the [Physics Department of ENS, 24 rue Lhomond](http://www.phys.ens.fr/spip.php?article579&lang=en), in room CONF IV (2nd floor).
 
- The colloquium is followed by an open buffet around which
-participants can meet and discuss collaborations.
+The colloquium is followed by an open buffet around which participants can meet and discuss collaborations.
 
-These seminars are made possible by the support of the CFM-ENS
-Chaire "Mod&egrave;les et Sciences des Donn&eacute;es".
+These seminars are made possible by the support of the [CFM-ENS
+Chaire "_Modèles et Sciences des Données_"](https://data-ens.github.io).
 
 You can check the list of the following seminars bellow and the [list of past seminars](past/).
 
@@ -31,8 +28,9 @@ Organizers
 
 
 The colloquium is organized by:
-- [Florent Krzakala](http://krzakala.org/) (ENS and UPMC) ;
-- [Stéphane Mallat](https://www.di.ens.fr/~mallat/) (ENS) ;
+
+- [Florent Krzakala](http://krzakala.org/) (ENS and UPMC),
+- [Stéphane Mallat](https://www.di.ens.fr/~mallat/) (ENS),
 - [Gabriel Peyré](http://gpeyre.github.io/) (CNRS and ENS).
 
 
