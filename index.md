@@ -10,6 +10,7 @@ Welcome to the [CFM](https://www.cfm.fr/)-[ENS](http://www.ens.fr) Chaire "_Mod√
 This chaire is organized around data sciences in a broad sense with the goal of bringing together researchers with diverse backgrounds (including for instance mathematics, computer science, physics, chemistry and neuroscience) but a common interest in dealing with large scale or high dimensional data.
 
 The main activities of the chaire are:
+
 - It organizes the monthly [Data Science Colloquium of the ENS](seminar/).
 - It hosts the "_Laplace Junior Professor Chair in Data Science_" program, see the job [openings announcements](jobs/) for more details.
 - It supports the [Challenge Data program](https://challengedata.ens.fr/en/home).
