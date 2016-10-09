@@ -16,7 +16,6 @@ The successful candidates will carry out (deep) research and (light) teaching at
 - A cover letter ;
 - A complete CV including a list of publications ;
 - A research statement (maximum 4 pages in A4 format) taking into account possible interactions with research groups/faculty within the different department of ENS (Computer science, Mathematics, Physics, Biology, etc.) ;
-
 - Three letters of recommendation from senior scientists, to be sent directly [by email](mailto:florent.krzakala at ens.fr)
 
 More information about the scientific environnement of this program can be found on the webpage of the [Data Science Chaire of the ENS](https://data-ens.github.io).
