@@ -4,5 +4,5 @@
   room: "CONF IV (physic dpt)"
   affiliation: Santa Fe Institute
   url: "http://tuvalu.santafe.edu/~moore/"
-  title: "Can Big Data cure Cancer?"
+  title: "What physics can tell us about inference"
   abstract: "There is a deep analogy between statistical inference and statistical physics; I will give a friendly introduction to both of these fields. I will then discuss phase transitions in two problems of interest to a broad range of data sciences: community detection in social and biological networks, and clustering of sparse high-dimensional data. In both cases, if our data becomes too sparse or too noisy, it suddenly becomes impossible to find the underlying pattern, or even tell if there is one. Physics both helps us locate these phase transiitons, and design optimal algorithms that succeed all the way up to this point. Along the way, I will visit ideas from computational complexity, random graphs, random matrices, and spin glass theory."
