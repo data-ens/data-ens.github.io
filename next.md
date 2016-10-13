@@ -18,8 +18,6 @@ Next seminars:
 {% endfor %}
 
 
-For 2016-2017, the planed dates are:
-
-- tuesday 11/10
+The next dates are:
 - tuesday 8/11
 - tuesday 13/12
