@@ -11,7 +11,7 @@ The Laplace chair aims at recruiting outstanding candidates in all areas of data
 
 Appointments will be for two years with a possible extension for a third year. Salary is competitive, according to international experience and qualification.
 
-The successful candidates will carry out (deep) research, with reduced teaching duties, which will be adapted. Applications should consist of a single file and be send before November 30th, 2016 [by email](mailto:florent.krzakala at ens.fr).
+The successful candidate will carry out research in ENS, with reduced teaching duties which will be adapted. Applications should consist of a single file and be send before November 30th, 2016 [by email](mailto:florent.krzakala at ens.fr).
 
 - A cover letter ;
 - A complete CV including a list of publications ;
