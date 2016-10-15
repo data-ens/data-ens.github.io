@@ -9,7 +9,7 @@ The [Ecole Normale Supérieure (ENS Paris)](http://www.ens.fr) invites applicati
 
 The Laplace chair aims at recruiting outstanding candidates in all areas of data sciences including theoretical statistics, machine learning, signal processing, computer science, applied mathematics and statistical physics, or working on applications to other sciences such as physics, biology, medecine or social sciences and economics.
 
-Appointments will be for two years with a possible extension for a third year. Salary is competitive, according to international experience and qualification.
+Appointments will be for two years with a possible extension for a third year. Salary is competitive and the positions are endowed with travel resources.
 
 The successful candidate will carry out research in ENS, with reduced teaching duties which will be adapted. Applications should consist of a single file and be send before November 30th, 2016 [by email](mailto:laplacechair2017@gmail.com).
 
