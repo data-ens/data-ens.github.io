@@ -20,6 +20,7 @@ Scientific Committee
 
 - [Florent Krzakala](http://krzakala.org/) (ENS and UPMC): director ;
 - [Stéphane Mallat](https://www.di.ens.fr/~mallat/) (ENS) ;
+- [Pascal Mamassian](http://mamassian.free.fr/free/Home.html) (CNRS and ENS) ; 
 - [Gabriel Peyré](http://gpeyre.github.io/) (CNRS and ENS).
 
 Supported by
