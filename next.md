@@ -16,8 +16,3 @@ Next seminars:
   <b>Abstract:</b> {{ oneitem.abstract }}
   </p>
 {% endfor %}
-
-
-The next dates are:
-- tuesday 8/11
-- tuesday 13/12

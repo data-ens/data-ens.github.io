@@ -1,3 +1,12 @@
+- speaker: "Cristopher Moore"
+  date: Nov. 8th, 2016
+  time: 12h-14h
+  room: "CONF IV (physic dpt)"
+  affiliation: Santa Fe Institute
+  url: "http://tuvalu.santafe.edu/~moore/"
+  title: "What physics can tell us about inference?"
+  abstract: "There is a deep analogy between statistical inference and statistical physics; I will give a friendly introduction to both of these fields. I will then discuss phase transitions in two problems of interest to a broad range of data sciences: community detection in social and biological networks, and clustering of sparse high-dimensional data. In both cases, if our data becomes too sparse or too noisy, it suddenly becomes impossible to find the underlying pattern, or even tell if there is one. Physics both helps us locate these phase transiitons, and design optimal algorithms that succeed all the way up to this point. Along the way, I will visit ideas from computational complexity, random graphs, random matrices, and spin glass theory."
+
 - speaker: "Jean-Philippe Vert"
   date: Oct. 11th, 2016
   time: 12h-14h
@@ -6,4 +15,3 @@
   url: "http://cbio.mines-paristech.fr/~jvert/"
   title: "Can Big Data cure Cancer?"
   abstract: "As the cost and throughput of genomic technologies reach a point where DNA sequencing is close to becoming a routine exam at the clinics, there is a lot of hope that treatments of diseases like cancer can dramatically improve by a digital revolution in medicine, where smart algorithms analyze « big medical data »  to help doctors take the best decisions for each patient or to suggest new directions for drug development. While artificial intelligence and machine learning-based algorithms have indeed had a great impact on many data-rich fields, their application on genomic data raises numerous computational and mathematical challenges that I will illustrate on a few examples of patient stratification or drug response prediction from genomic data."
-
