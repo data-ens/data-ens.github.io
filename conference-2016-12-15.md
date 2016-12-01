@@ -18,7 +18,7 @@ Schedule
 * 16:00-16:30: Coffee break.
 * 16:30-17:00: [Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/indexfr.html) (EHESS), TBA.
 * 17:00-17:30: [Marc Potters](https://www.cfm.fr/) (CFM), _Overfitting big data, a random matrix toy model_.
-* 17:30-18:00: [Francis Bach](INRIA and ENS), _Large-scale optimization for machine learning_.
+* 17:30-18:00: [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA and ENS), _Large-scale optimization for machine learning_.
 * 18:15-19:00: [Marc Mezard](http://lptms.u-psud.fr/membres/mezard/) (Director of the ENS): _Intelligence des données : mythe ou révolution scientifique?_.
 
 
