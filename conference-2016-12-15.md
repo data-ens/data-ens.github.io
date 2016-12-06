@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Inauguration of the Chaire CFM-ENS"
+title: "Inauguration of the Chair CFM-ENS"
 description: "Modèles et Sciences des Données"
 header-img: "img/ens1.png"
 ---
 
 
-The [ENS](http://www.ens.fr) and [CFM](https://www.cfm.fr/) organizes the inauguration conference of the Chaire "_Modèles et Sciences des Données_".
+The [ENS](http://www.ens.fr) and [CFM](https://www.cfm.fr/) organizes the inauguration conference of the Chair "_Modèles et Sciences des Données_".
 
 
 When
