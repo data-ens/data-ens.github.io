@@ -1,24 +1,24 @@
 ---
 layout: page
 title: "Data @ ENS"
-description: "CMF-ENS Data Science Chaire"
+description: "CFM-ENS Data Science Chair"
 header-img: "img/ens1.png"
 ---
 
-Welcome to the [CFM](https://www.cfm.fr/)-[ENS](http://www.ens.fr) Chaire "_Modèles et Sciences des Données_" of the [ENS](http://www.ens.fr/).
+Welcome to the [CFM](https://www.cfm.fr/)-[ENS](http://www.ens.fr) Chair "_Modèles et Sciences des Données_" of the [ENS](http://www.ens.fr/).
 
 Inauguration
 ============================
 
-The [inauguration conference](conference-2016-12-15/) of the chaire will take place on Thursday, December 15th 2016, 14:00-19:00. More details on [this page](conference-2016-12-15/).
+The [inauguration conference](conference-2016-12-15/) of the chair will take place on Thursday, December 15th 2016, 14:00-19:00. More details on [this page](conference-2016-12-15/).
 
 
 Goal
 ============================
 
-This chaire is organized around data sciences in a broad sense with the goal of bringing together researchers with diverse backgrounds (including for instance [mathematics](http://www.math.ens.fr/), [computer science](https://www.di.ens.fr/), [physics](https://www.phys.ens.fr/), [chemistry](http://www.chimie.ens.fr/) and [neuroscience](http://www.biologie.ens.fr/depbio/)) but a common interest in dealing with large scale or high dimensional data.
+This chair is organized around data sciences in a broad sense with the goal of bringing together researchers with diverse backgrounds (including for instance [mathematics](http://www.math.ens.fr/), [computer science](https://www.di.ens.fr/), [physics](https://www.phys.ens.fr/), [chemistry](http://www.chimie.ens.fr/) and [neuroscience](http://www.biologie.ens.fr/depbio/)) but a common interest in dealing with large scale or high dimensional data.
 
-The main activities of the chaire are:
+The main activities of the chair are:
 
 - It organizes the monthly [_Data Science Colloquium of the ENS_](seminar/).
 - It hosts the "_Laplace Junior Professor Chair in Data Science_" program, see the [job openings announcements](jobs/) for more details.
