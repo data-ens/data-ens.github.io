@@ -1,9 +1,9 @@
 # Usign the Clean Blog theme
 
-title: ENS-CFM Data Science Chaire
+title: ENS-CFM Data Science Chair
 author: data-ens
 email: gabriel.peyre@ens.fr
-description: ENS-CFM Data Science Chaire
+description: ENS-CFM Data Science Chair
 baseurl: ""
 url: "http://data-ens.github.io/"
 github_username:  data-ens
@@ -14,7 +14,7 @@ permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
 
-name: Data Seminar @ ENS
+name: Data Sciences @ ENS
 gems:
   - jekyll-feed
   - jekyll-paginate
