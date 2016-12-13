@@ -18,7 +18,7 @@ The seminar takes place, unless exceptionally noted, on the first Tuesday of eac
 The colloquium is followed by an open buffet around which participants can meet and discuss collaborations.
 
 These seminars are made possible by the support of the [CFM-ENS
-Chaire "_Modèles et Sciences des Données_"](https://data-ens.github.io).
+Chair "_Modèles et Sciences des Données_"](https://data-ens.github.io).
 
 You can check the list of the following seminars bellow and the [list of past seminars](../past/).
 
