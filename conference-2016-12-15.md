@@ -28,11 +28,7 @@ Schedule
 
 * 14:15-14:30: Welcome presentation.
 * 14:30-15:00: [Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/indexfr.html) (EHESS), TBA.
-<<<<<<< HEAD
 * 15:00-15:30: [Jean-Philippe Vert](http://cbio.mines-paristech.fr/~jvert/) (Mines ParisTech, Institut Curie, ENS), _Cancer prognosis on the symmetric group_.
-=======
-* 15:00-15:30: [Henri Verdier](https://fr.wikipedia.org/wiki/Henri_Verdier) : directeur interministériel du numérique et du système d'information et de communication de l'État
->>>>>>> origin/master
 * 15:30-16:00: [Jean-Yves Audibert](https://www.cfm.fr/) (CFM), _Machine Learning at CFM_.
 * 16:00-16:30: Coffee break.
 * 16:30-17:00: [Simona Cocco](http://www.lps.ens.fr/~cocco/) (CNRS, ENS), _Functional biological networks: a Statistical Physics Approach_.
