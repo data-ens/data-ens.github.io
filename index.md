@@ -7,12 +7,6 @@ header-img: "img/ens1.png"
 
 Welcome to the [CFM](https://www.cfm.fr/)-[ENS](http://www.ens.fr) Chair "_Modèles et Sciences des Données_" of the [ENS](http://www.ens.fr/).
 
-Inauguration
-============================
-
-The [inauguration conference](conference-2016-12-15/) of the chair will take place on Thursday, December 15th 2016, 14:00-19:00. More details on [this page](conference-2016-12-15/).
-
-
 Goal
 ============================
 
