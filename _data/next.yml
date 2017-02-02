@@ -1,10 +1,26 @@
-- speaker: "Bertrand Thirion"
-  date: Jan. 10th, 2016
+- speaker: "Yann Ollivier"
+  date: Feb. 21st, 2017
   time: 12h-14h
   room: "CONF IV (physic dpt)"
-  affiliation: "INRIA and Neurospin"
-  url: "https://team.inria.fr/parietal/bertrand-thirions-page/"
-  title: "A big data approach towards functional brain mapping"
-  abstract: "Functional neuroimaging offers a unique view on brain functional organization, which is broadly characterized by two features: the   segregation of brain territories into functionally specialized regions, and the integration of these regions into networks of coherent
-  activity.  Functional Magnetic Resonance Imaging yields a spatially resolved, yet noisy view of this organization. It also yields useful measurements of brain integrity to compare populations and characterize brain diseases.
-  To extract information from these data, a popular strategy is to rely on  supervised classification settings, where signal patterns are used to predict the experimental task performed by the subject during a given  experiment, which is a proxy for the cognitive or mental state of this  subject.  In this talk we will describe how the reliance on large data copora changes the picture: it boosts the generalizability of the results and provides meaningful priors to analyze novel datasets.  We will discuss the challenges posed by these analytic approaches, with an emphasis on computational aspects, and how the use of non-labelled data can be further used to improve the model learned from brain  activity data."
+  affiliation: "CNRS and Paris-Sud"
+  url: "http://www.yann-ollivier.org/"
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: "Francis Bach"
+  date: March. 7th, 2017
+  time: 12h-14h
+  room: "CONF IV (physic dpt)"
+  affiliation: "INRIA"
+  url: "http://www.di.ens.fr/~fbach/"
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: "Guillermo Sapiro"
+  date: June 27th, 2017
+  time: 11h
+  room: "TBA"
+  affiliation: "Duke University"
+  url: "http://ece.duke.edu/faculty/guillermo-sapiro"
+  title: "TBA"
+  abstract: "TBA"
