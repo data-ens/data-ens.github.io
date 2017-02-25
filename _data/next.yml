@@ -1,35 +1,3 @@
-- speaker: "Yann Ollivier"
-  date: Feb. 21st, 2017
-  time: 12h-14h
-  room: "CONF IV (physic dpt)"
-  affiliation: "CNRS and Paris-Sud"
-  url: "http://www.yann-ollivier.org/"
-  title: "Intelligence artificielle et raisonnement inductif : de la théorie de
-l'information aux réseaux de neurones artificiels"
-  abstract: "Les problèmes de raisonnement inductif ou d'extrapolation comme \"deviner
-            la suite d'une série de nombres\", ou plus généralement, \"comprendre la
-            structure cachée dans des observations\", sont fondamentaux si l'on veut
-            un jour construire une intelligence artificielle. On a parfois
-            l'impression que ces problèmes ne sont pas mathématiquement bien définis.
-            Or il existe une théorie mathématique rigoureuse du raisonnement inductif
-            et de l'extrapolation, basée sur la théorie de l'information. Cette
-            théorie est très élégante, mais difficile à appliquer.
-            <br/>
-            En pratique aujourd'hui, ce sont les réseaux de neurones qui donnent les
-            meilleurs résultats sur toute une série de problèmes concrets d'induction
-            et d'apprentissage (vision, reconnaissance de la parole, récemment le jeu
-            de Go ou les voitures sans pilote...) Je ferai le point sur quelques-uns
-            des principes mathématiques sous-jacents et sur leur lien avec la théorie
-            de l'information.
-            <br/>
-            <i>Short bio:</i> Yann Ollivier is a researcher in computer science and
-            mathematics at the CNRS, LRI, Université Paris-Saclay. After starting his
-            career in pure mathematics, with topics ranging from probability to group
-            theory, he decided to move to artificial intelligence, with an emphasis
-            on artificial neural network training, deep learning, and their links
-            with information theory. In 2011 he was awarded the bronze medal of the
-            CNRS for his work."
-
 - speaker: "Francis Bach"
   date: March. 7th, 2017
   time: 12h-14h
@@ -42,7 +10,7 @@ l'information aux réseaux de neurones artificiels"
 - speaker: "Guillermo Sapiro"
   date: June 27th, 2017
   time: 11h
-  room: "TBA"
+  room: "Amphi Burg, Institut Curie, 12 rue Lhomond, sous-sol"
   affiliation: "Duke University"
   url: "http://ece.duke.edu/faculty/guillermo-sapiro"
   title: "TBA"
