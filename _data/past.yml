@@ -1,3 +1,12 @@
+- speaker: "Francis Bach"
+  date: March. 7th, 2017
+  time: 12h30
+  room: "Salle Jaurès at Ecole Normale Superieure, 29 rue d'Ulm"
+  affiliation: "INRIA"
+  url: "http://www.di.ens.fr/~fbach/"
+  title: "Beyond stochastic gradient descent for large-scale machine learning"
+  abstract: "Many machine learning and signal processing problems are traditionally cast as convex optimization problems. A common difficulty in solving these problems is the size of the data, where there are many observations ('large n') and each of these is large ('large p'). In this setting, online algorithms such as stochastic gradient descent which pass over the data only once, are usually preferred over batch algorithms, which require multiple passes over the data. In this talk, I will show how the smoothness of loss functions may be used to design novel algorithms with improved behavior, both in theory and practice: in the ideal infinite-data setting, an efficient novel Newton-based stochastic approximation algorithm leads to a convergence rate of O(1/n) without strong convexity assumptions, while in the practical finite-data setting, an appropriate combination of batch and online algorithms leads to unexpected behaviors, such as a linear convergence rate for strongly convex problems, with an iteration cost similar to stochastic gradient descent. (joint work with Nicolas Le Roux, Eric Moulines and Mark Schmidt)."
+
 - speaker: "Yann Ollivier"
   date: Feb. 21st, 2017
   time: 12h-14h
