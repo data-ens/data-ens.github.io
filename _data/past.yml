@@ -1,3 +1,13 @@
+
+- speaker: "Sophie Deneve"
+  date: Tuesday, May 16th, 2017
+  time: 12h
+  room: "Salle Jean Jaurès, 29 rue d’Ulm (sous-sol)"
+  affiliation: "ENS"
+  url: "http://iec-lnc.ens.fr/group-for-neural-theory/members-34/faculty-in-alphabetical-order/deneve-sophie/?lang=en"
+  title: "The brain as an optimal efficient adaptive learner"
+  abstract: "Understanding how neural networks can learn to predict and represent time-varying variables is a fundamental challenge in neuroscience. A key complication is the error credit assignment problem: how to determine the local contribution of each synapse to the network’s global output error. Previous work on solving this problem in spiking networks has either been restricted to linear systems (Boerlin, Machens, Deneve 2013; Bourdoukan, Deneve 2015), or to non-local learning rules (FORCE learning; Sussillo, Abbott 2009; Thalmeier et al 2016). Here we show how to learn arbitrary non-linear dynamical systems with local learning rules. Our approach uses tools from adaptive control theory, and applies them to a spiking network with nonlinear dendrites. The spiking network receives its own tracking error through feedback and learns to approximate a nonlinear dynamical systems using a purely local learning rule. The local credit assignment problem is solved because each neuron effectively contains partial information of the error made by the entire network. This error is captured by the tightly balanced voltage of each neuron. Here, a balanced network effectively acts as a predictive auto-encoder that learns to cancel its own error and feedback. The resulting network is extremely efficient in terms of the number of spikes fired, and it is highly robust to noise and neural elimination. It produces asynchronous, irregular spiking activity matching the Poisson-like neural variability observed experimentally. Our framework has several important implications. It suggests that a global learning problem, like learning to implement complex nonlinear dynamics from examples, can be solved with local rules, as long as output errors are fed back as driving input signals. Our approach inherits the analytical tools of control theory such as convergence and stability theorems that can now be applied to learning in spiking networks."
+
 - speaker: "Francis Bach"
   date: March. 7th, 2017
   time: 12h30
