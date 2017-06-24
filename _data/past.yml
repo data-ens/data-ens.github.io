@@ -13,6 +13,7 @@
   time: 12h30
   room: "Salle Jaurès at Ecole Normale Superieure, 29 rue d'Ulm"
   affiliation: "INRIA"
+  video: http://savoirs.ens.fr/expose.php?id=2937
   url: "http://www.di.ens.fr/~fbach/"
   title: "Beyond stochastic gradient descent for large-scale machine learning"
   abstract: "Many machine learning and signal processing problems are traditionally cast as convex optimization problems. A common difficulty in solving these problems is the size of the data, where there are many observations ('large n') and each of these is large ('large p'). In this setting, online algorithms such as stochastic gradient descent which pass over the data only once, are usually preferred over batch algorithms, which require multiple passes over the data. In this talk, I will show how the smoothness of loss functions may be used to design novel algorithms with improved behavior, both in theory and practice: in the ideal infinite-data setting, an efficient novel Newton-based stochastic approximation algorithm leads to a convergence rate of O(1/n) without strong convexity assumptions, while in the practical finite-data setting, an appropriate combination of batch and online algorithms leads to unexpected behaviors, such as a linear convergence rate for strongly convex problems, with an iteration cost similar to stochastic gradient descent. (joint work with Nicolas Le Roux, Eric Moulines and Mark Schmidt)."
@@ -54,6 +55,7 @@ l'information aux réseaux de neurones artificiels"
   time: 12h-14h
   room: "CONF IV (physic dpt)"
   affiliation: "INRIA and Neurospin"
+  video: http://savoirs.ens.fr/expose.php?id=2848
   url: "https://team.inria.fr/parietal/bertrand-thirions-page/"
   title: "A big data approach towards functional brain mapping"
   abstract: "Functional neuroimaging offers a unique view on brain functional organization, which is broadly characterized by two features: the   segregation of brain territories into functionally specialized regions, and the integration of these regions into networks of coherent
@@ -75,6 +77,7 @@ l'information aux réseaux de neurones artificiels"
   time: 12h-14h
   room: "CONF IV (physic dpt)"
   affiliation: Santa Fe Institute
+  video: http://savoirs.ens.fr/expose.php?id=2696
   url: "http://tuvalu.santafe.edu/~moore/"
   title: "What physics can tell us about inference?"
   abstract: "There is a deep analogy between statistical inference and statistical physics; I will give a friendly introduction to both of these fields. I will then discuss phase transitions in two problems of interest to a broad range of data sciences: community detection in social and biological networks, and clustering of sparse high-dimensional data. In both cases, if our data becomes too sparse or too noisy, it suddenly becomes impossible to find the underlying pattern, or even tell if there is one. Physics both helps us locate these phase transiitons, and design optimal algorithms that succeed all the way up to this point. Along the way, I will visit ideas from computational complexity, random graphs, random matrices, and spin glass theory."
@@ -83,6 +86,7 @@ l'information aux réseaux de neurones artificiels"
   date: Oct. 11th, 2016
   time: 12h-14h
   room: "CONF IV (physic dpt)"
+  video: http://savoirs.ens.fr/expose.php?id=2677
   affiliation: Mines ParisTech, Institut Curie and ENS
   url: "http://cbio.mines-paristech.fr/~jvert/"
   title: "Can Big Data cure Cancer?"
