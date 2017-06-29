@@ -5,7 +5,7 @@ description: "Past seminars"
 header-img: "img/ens3.png"
 ---
 
-List of past seminars.
+You can find below the list of past seminars. Videos of some of the past seminars [are available online](https://www.youtube.com/channel/UCAhx5LLlJDi8pTLI2EICKjQ/videos).
 
 
 
