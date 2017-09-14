@@ -1,11 +1,8 @@
-
-
-
-- speaker: "Guillermo Sapiro"
-  date: June 27th, 2017
-  time: 11h
-  room: "Amphi Burg, Institut Curie, 12 rue Lhomond, sous-sol"
-  affiliation: "Duke University"
+- speaker: "Jean-Luc Starck"
+  date: Oct. 3rd, 2017
+  time: 12h
+  room: "TBA"
+  affiliation: "CEA"
   url: "http://ece.duke.edu/faculty/guillermo-sapiro"
-  title: "Learning to Succeed while Teaching to Fail: Privacy in Closed Machine Learning Systems"
-  abstract: "Security, privacy, and fairness have become critical in the era of data science and machine learning. More and more we see that achieving universally secure, private, and fair systems is practically impossible. We have seen for example how generative adversarial networks can be used to learn about the expected private training data; how the exploitation of additional data can reveal private information in the original one; and how what seems as unrelated features can teach us about each other. Confronted with this challenge, in this work we open a new line of research, where the security, privacy, and fairness is in a closed environment. The goal is to ensure that a given entity, trusted to infer certain information with our data, is blocked from inferring protected information from it. For example, a hospital might be allowed to produce diagnosis on the patient (the positive task), without being able to infer the irrelevant gender of the subject (negative task). Similarly, a company can guarantee they internally are not using the provided data for any undesired task, an important goal that is not contradicting the virtually impossible challenge of blocking everybody from the undesired task. We design a system that learns to perform the positive task while simultaneously being trained to fail at the negative one, and illustrate this with challenging cases where the positive task is actually harder than the negative one. The particular framework and examples open to door to security, privacy, and fairness in very important closed scenarios. Joint work with Jure Sokolic and Miguel Rodrigues."
+  title: "Cosmostatistics: Tackling Big Data from the Sky"
+  abstract: "Since the dawn of time, humans have been wondering about their place in the Universe.  Over the past century, advances in modern physics, technology and engineering, along with the unique possibilities offered by space missions, have opened new windows to explore the cosmos. All-sky surveys, with observations across the entire electromagnetic spectrum, are the best strategy to fully understand and model the Universe in detail. Major upcoming research facilities, such as the Large Synoptic Survey Telescope (LSST), the Square Kilometer Array (SKA) and the Euclid space telescopes will provide key elements to addressing this challenge, by producing high quality data of petabyte volumes. These surveys prove to be a major “big data" challenge, which require the development of innovative statistical methods essential both for the data analysis and their physical interpretation. I will present some highlights of this methodology and more specifically show how novel techniques of sparsity and compressed sensing open new perspectives in analysing cosmological data. These enable us to answer fundamental questions about the nature of our Universe with impressive accuracy."
