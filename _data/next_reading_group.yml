@@ -1,11 +1,3 @@
-- speaker: "Elizabeth Purdom"
-  date: Oct. 20th, 2017
-  time: 13h30-14h30
-  room: "W, DMA, ENS (45 rue d'Ulm)"
-  affiliation: "Berkeley"
-  url: "https://www.stat.berkeley.edu/~epurdom/"
-  title: "Robust strategies for analysis of single cell mRNA data"
-  abstract: "mRNA sequencing of single cells is a relatively recent biological technology that allows researchers to query what genes are active in a single cell. This allows for many detailed biological queries that were not possible previously. However, because of the complexities of the experimental process, single cell mRNA-Seq results in quite noisy measurements. In this talk we will introduce for a general audience the data that is being produced and discussed the data challenges that are present in this data in the area of clustering and other forms of estimation. We will then introduce some of our strategies for the analysis of single cell mRNA-Seq."
 
 - speaker: "Paul Hand"
   date: Nov. 24th, 2017
