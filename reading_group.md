@@ -5,10 +5,10 @@ description: "of the ENS"
 header-img: "img/ens3.png"
 ---
 
-Welcome to the "Laplace" reading group, a series of small seminars and informal discussions organized by the [CFM-ENS
+Welcome to the "Laplace" reading group, a series of seminars and informal discussions organized by the [CFM-ENS
 Chair "_Modèles et Sciences des Données_"](https://data-ens.github.io).
 
-In these meetings, researchers can give short presentations about their current research interests or discuss interesting papers. As with the [Data Science Colloquium](https://data-ens.github.io/seminar), the goal is to initiate discussions between researchers from different fields that all have a common interest in large scale or high-dimensional data.
+In these meetings, researchers can give presentations about their current research interests or discuss interesting papers. As with the [Data Science Colloquium](https://data-ens.github.io/seminar), the goal is to initiate discussions between researchers from different fields that all have a common interest in large scale or high-dimensional data.
 
 All are welcome to attend, feel free to propose topics that you would like to see discussed, or work that you would like to present (contact at the bottom).
 
