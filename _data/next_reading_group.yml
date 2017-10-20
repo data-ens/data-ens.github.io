@@ -1,8 +1,17 @@
 - speaker: "Elizabeth Purdom"
   date: Oct. 20th, 2017
-  time: 13h30-15h00
+  time: 13h30-14h30
   room: "W, DMA, ENS (45 rue d'Ulm)"
   affiliation: "Berkeley"
   url: "https://www.stat.berkeley.edu/~epurdom/"
   title: "Robust strategies for analysis of single cell mRNA data"
   abstract: "mRNA sequencing of single cells is a relatively recent biological technology that allows researchers to query what genes are active in a single cell. This allows for many detailed biological queries that were not possible previously. However, because of the complexities of the experimental process, single cell mRNA-Seq results in quite noisy measurements. In this talk we will introduce for a general audience the data that is being produced and discussed the data challenges that are present in this data in the area of clustering and other forms of estimation. We will then introduce some of our strategies for the analysis of single cell mRNA-Seq."
+
+- speaker: "Paul Hand"
+  date: Nov. 24th, 2017
+  time: 14h00-15h00
+  room: "Room W, DMA, ENS (45 rue d'Ulm, 4th floor)"
+  affiliation: "Rice University"
+  url: "http://www.caam.rice.edu/~hand/"
+  title: "Global Guarantees for Enforcing Deep Generative Priors by Empirical Risk"
+  abstract: "We examine the theoretical properties of enforcing priors provided by generative deep neural networks via empirical risk minimization. In particular we consider two models, one in which the task is to invert a generative neural network given access to its last layer and another which entails recovering a latent code in the domain of a generative neural network from compressive linear observations of its last layer. We establish that in both cases, in suitable regimes of network layer sizes and a randomness assumption on the network weights, that the non-convex objective function given by empirical risk minimization does not have any spurious stationary points. That is, we establish that with high probability, at any point away from small neighborhoods around two scalar multiples of the desired solution, there is a descent direction. These results constitute the first theoretical guarantees which establish the favorable global geometry of these non-convex optimization problems, and bridge the gap between the empirical success of deep learning and a rigorous understanding of non-linear inverse problems."
