@@ -1,11 +1,23 @@
 - speaker: "Rémi Monasson"
   date: Nov. 14th, 2017
-  time: 11h00-12h30
-  room: "TBA"
+  time: 12h00-13h00
+  room: "CONF IV (physic dpt, Rue Lhomond)"
   affiliation: "ENS"
   url: "http://www.phys.ens.fr/~monasson/"
-  title: "TBA"
-  abstract: "TBA"
+  title: "Searching for interaction networks in proteins: from statistical physics
+to machine learning, and back"
+  abstract: "Over the last century, statistical physics was extremely successful to
+predict the collective behaviour of many physical systems from detailed
+knowledge about their microscopic components. However, complex systems,
+whose properties result from the delicate interplay of many strong and
+heterogenous interactions, are notoriously difficult to tackle with
+first-principle approaches. It is therefore tempting to use data to infer
+adequate  microscopic models. I will present some efforts made along this
+direction for proteins, based on the well-known Potts model of statistical
+mechanics, with an emphasis on computational and theoretical aspects. I
+will then show how machine learning, whose unsupervised models encompass
+the Potts model, can be an inspiring source of new questions for
+statistical mechanics."
   
 - speaker: "Maureen Clerc"
   date: Feb. 6th, 2018
