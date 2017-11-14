@@ -12,7 +12,7 @@ CFM-ENS "_Modèles et Sciences des Données_" Chair with a conference taking pla
 The conference is centered on the broad topic of data science, with the intention of bringing together researchers from diverse
 backgrounds, including mathematics, computer science, physics, chemistry, and neurosciences, who have a common interest in tackling complex and large-scale data problems.
 
-This year, several invited speakers will put a particular focus on the theme "Physics for machine learning".
+This year, several invited speakers will put a particular focus on the theme "Physics & machine learning".
 
 
 When
