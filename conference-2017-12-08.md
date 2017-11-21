@@ -18,7 +18,7 @@ This year, several invited speakers will put a particular focus on the theme "Ph
 When
 ============================
 
-Thursday, December 8th 2017, 12:00-17:00.
+Friday, December 8th 2017, 12:00-17:00.
 
 Where
 ============================
