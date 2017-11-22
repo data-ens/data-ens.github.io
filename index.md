@@ -10,7 +10,7 @@ Welcome to the [CFM](https://www.cfm.fr/)-[ENS](http://www.ens.fr) Chair "_Modè
 > ### Annual conference
 >
 > The [ENS](http://www.ens.fr) and [CFM](https://www.cfm.fr/) are pleased to celebrate the 1-year anniversary of the
-CFM-ENS "_Modèles et Sciences des Données_" Chair with a conference taking place on **December 8th, from 12:00 to 17:00** (with lunch banquet at 13:00) in the Salle Jaurès at Ecole Normale Superieure, 29 rue d’Ulm, in Paris.
+CFM-ENS "_Modèles et Sciences des Données_" Chair with a conference taking place on **December 8th, from 12:00 to 17:00** (with lunch buffet at 13:00) in the Salle Jaurès at Ecole Normale Superieure, 29 rue d’Ulm, in Paris.
 >
 > The program can be found [here](/conference-2017-12-08).
 
