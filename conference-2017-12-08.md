@@ -7,7 +7,7 @@ header-img: "img/ens2.png"
 
 
 The [ENS](http://www.ens.fr) and [CFM](https://www.cfm.fr/) are pleased to celebrate the 1-year anniversary of the
-CFM-ENS "_Modèles et Sciences des Données_" Chair with a conference taking place on December 8th, from 12:00 to 17:00 (with lunch at 13:00) in the Salle Jaurès at Ecole Normale Superieure, 29 rue d’Ulm, in Paris.
+CFM-ENS "_Modèles et Sciences des Données_" Chair with a conference taking place on December 8th, from 12:00 to 17:00 (with lunch banquet at 13:00) in the Salle Jaurès at Ecole Normale Superieure, 29 rue d’Ulm, in Paris.
 
 The conference is centered on the broad topic of data science, with the intention of bringing together researchers from diverse
 backgrounds, including mathematics, computer science, physics, chemistry, and neurosciences, who have a common interest in tackling complex and large-scale data problems.
