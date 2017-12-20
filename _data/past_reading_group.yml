@@ -6,3 +6,21 @@
   url: "https://www.stat.berkeley.edu/~epurdom/"
   title: "Robust strategies for analysis of single cell mRNA data"
   abstract: "mRNA sequencing of single cells is a relatively recent biological technology that allows researchers to query what genes are active in a single cell. This allows for many detailed biological queries that were not possible previously. However, because of the complexities of the experimental process, single cell mRNA-Seq results in quite noisy measurements. In this talk we will introduce for a general audience the data that is being produced and discussed the data challenges that are present in this data in the area of clustering and other forms of estimation. We will then introduce some of our strategies for the analysis of single cell mRNA-Seq."
+
+- speaker: "Paul Hand"
+  date: Nov. 24th, 2017
+  time: 14h00-15h00
+  room: "Salle R, passage rouge 2e sous-sol"
+  affiliation: "Rice University"
+  url: "http://www.caam.rice.edu/~hand/"
+  title: "Deep Compressed Sensing"
+  abstract: "Combining principles of compressed sensing with deep neural network-based generative image priors has recently been empirically shown to require 10X fewer measurements than traditional compressed sensing in certain scenarios. As deep generative priors (such as those obtained via generative adversarial training) improve, analogous improvements in the performance of compressed sensing and other inverse problems may be realized across the imaging sciences. In joint work with Vladislav Voroninski, we provide a theoretical framework for studying inverse problems subject to deep generative priors. In particular, we prove that with high probability, the non-convex empirical risk objective for enforcing random deepgenerative priors subject to compressive random linear observations of the last layer of the generator has no spurious local minima, and that for a fixed network depth, these guarantees hold at order-optimal sample complexity."
+  
+- speaker: "Michael Elad"
+  date: Dec. 18th, 2017
+  time: 14h00-15h00
+  room: "Room W, DMA, ENS (45 rue d'Ulm, 4th floor)"
+  affiliation: "Technion"
+  url: "http://www.cs.technion.ac.il/~elad/"
+  title: "Sparse Modeling in Image Processing and Deep Learning"
+  abstract: "Sparse approximation is a well-established theory, with a profound impact on the fields of signal and image processing. In this talk we start by presenting this model and its features, and then turn to describe two special cases of it – the convolutional sparse coding (CSC) and its multi-layered version (ML-CSC). Amazingly, as we will carefully show, ML-CSC provides a solid theoretical foundation to … deep-learning. Alongside this main message of bringing a theoretical backbone to deep-learning, another central message that will accompany us throughout the talk: Generative models for describing data sources enable a systematic way to design algorithms, while also providing a complete mechanism for a theoretical analysis of these algorithms' performance. This talk is meant for newcomers to this field - no prior knowledge on sparse approximation is assumed."
