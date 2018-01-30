@@ -24,3 +24,33 @@
   url: "http://www.cs.technion.ac.il/~elad/"
   title: "Sparse Modeling in Image Processing and Deep Learning"
   abstract: "Sparse approximation is a well-established theory, with a profound impact on the fields of signal and image processing. In this talk we start by presenting this model and its features, and then turn to describe two special cases of it – the convolutional sparse coding (CSC) and its multi-layered version (ML-CSC). Amazingly, as we will carefully show, ML-CSC provides a solid theoretical foundation to … deep-learning. Alongside this main message of bringing a theoretical backbone to deep-learning, another central message that will accompany us throughout the talk: Generative models for describing data sources enable a systematic way to design algorithms, while also providing a complete mechanism for a theoretical analysis of these algorithms' performance. This talk is meant for newcomers to this field - no prior knowledge on sparse approximation is assumed."
+  
+- speaker: "Augustin Cosse"
+  date: Jan. 12th, 2018
+  time: 14h00-15h00
+  room: "Room W, DMA, ENS (45 rue d'Ulm, 4th floor)"
+  affiliation: "ENS, DMA"
+  url: "http://www.augustincosse.com/"
+  title: "Semidefinite programming in the era of big data"
+  abstract: "Semidefinite programming (SDP) has now emerged as a powerful tool to
+  derive approximations to hard problems (such as maxCut), or as a stable
+  algorithm to compute exact solutions to some particular (computationally
+  tractable) instances of such problems (such as in phase retrieval and
+  matrix completion).
+  
+  The work of Shor, Nesterov, Parrilo and Lasserre brought semidefinite
+  programming to another level by introducing hierarchies of semidefinite
+  programs. In those hierarchies, an original polynomial optimization
+  problem is approximated by a sequence of SDPs on variables of increasing
+  size. Despite their theoretical interest in terms of approximability and
+  stability, the use of such hierarchies is hindered by the size of the
+  variables involved.
+
+  In this talk I will address applications of semidefinite programming to
+  some large scale problems from engineering and information theory. In
+  particular, I will start by discussing how SDP hierarchies can be used to
+  improve the current convex relaxation for rank one matrix completion which
+  is based on the minimization of the nuclear norm. Going against the
+  conventional wisdom, I will also discuss possible scalable numerical
+  schemes for those hierarchies. As additional applications, I will briefly
+  address inverse scattering as well as deconvolution and super-resolution."
