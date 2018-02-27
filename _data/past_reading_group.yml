@@ -54,3 +54,13 @@
   conventional wisdom, I will also discuss possible scalable numerical
   schemes for those hierarchies. As additional applications, I will briefly
   address inverse scattering as well as deconvolution and super-resolution."
+  
+- speaker: "<a href='https://tomas-angles.github.io/'>Tomas Angles</a>, <a href='https://audeg.github.io/'>Aude Genevay</a>"
+  date: Feb. 16th, 2018
+  time: 10h30-12h00
+  room: "Room W, DMA, ENS (45 rue d'Ulm, 4th floor)"
+  affiliation: "ENS, DI, DMA"
+  title: "Learning generative models beyond GANs"
+  abstract: "Generative Models (i.e. high dimensional probabilistic models that are supported on low dimensional manifolds) have become a popular topic in machine learning after the now famous paper on Generative Adversarial Networks (Goodfellow et al. ‘14) that introduced an intuitive algorithm to learn those types of models to generate images resembling those of a given dataset.
+  This two part tutorial will start by an introduction to generative models, and focus on some of their theoretical aspects such as structure in the latent space, and an auto-encoding perspective.
+  The second part will focus on learning such models with algorithms that minimize a certain divergence between the model distribution and the ‘true’ distribution of the data. This state-of-the-art approach has a strong connection to the     original GAN algorithm but is both more stable and better formulated from a mathematical point of view."
