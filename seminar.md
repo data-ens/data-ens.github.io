@@ -20,7 +20,7 @@ The colloquium is followed by an open buffet around which participants can meet 
 These seminars are made possible by the support of the [CFM-ENS
 Chair "_Modèles et Sciences des Données_"](https://data-ens.github.io).
 
-You can check the list of the following seminars bellow and the [list of past seminars](../past/).
+You can check the list of the next seminars below and the [list of past seminars](../past/).
 
 Videos of some of the past seminars [are available online](https://www.youtube.com/channel/UCAhx5LLlJDi8pTLI2EICKjQ/videos).
 
