@@ -2,7 +2,7 @@
   date: Feb. 16th, 2018
   time: 10h30-12h00
   room: "Room W, DMA, ENS (45 rue d'Ulm, 4th floor)"
-  affiliation: "ENS, DI, DMA"
+  affiliation: "ENS (DI, DMA)"
   title: "Learning generative models beyond GANs"
   abstract: "Generative Models (i.e. high dimensional probabilistic models that are supported on low dimensional manifolds) have become a popular topic in machine learning after the now famous paper on Generative Adversarial Networks (Goodfellow et al. ‘14) that introduced an intuitive algorithm to learn those types of models to generate images resembling those of a given dataset.
   This two part tutorial will start by an introduction to generative models, and focus on some of their theoretical aspects such as structure in the latent space, and an auto-encoding perspective.
