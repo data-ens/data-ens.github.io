@@ -1,3 +1,12 @@
+- speaker: "Maureen Clerc"
+  date: Feb. 6th, 2018
+  time: 12h00-13h00
+  room: "Salle Jean Jaurès, 29 rue d’Ulm (sous-sol)"
+  affiliation: "INRIA"
+  url: "http://www-sop.inria.fr/members/Maureen.Clerc/index.php"
+  title: "Brain-computer interfaces: two concurrent learning problems"
+  abstract: "Brain-Computer Interfaces (BCI) are systems which provide real-time interaction through brain activity, bypassing traditional interfaces such as keyboard or mouse. A target application of BCI is to restore mobility or autonomy to severely disabled patients. In BCI, new modes of perception and interaction come into play, which users must learn, just as infants learn to explore their sensorimotor system. Feedback is central in this learning. From the point of view of the system, features must be extracted from the brain activity, and translated into commands. Feature extraction and classification issues, are important components of a BCI. Adaptive learning strategies, because of the high variability of the brain signals. Moreoever, additional markers may also be extracted to modulate the system's behavior. It is for instance possible to monitor the brain's reaction to the BCI outcome.  In this talk I will present some of the current machine learning methods which are used in BCI, and the adaptation of BCI to users' needs. "
+
 - speaker: "Rémi Monasson"
   date: Nov. 14th, 2017
   time: 12h00-13h00

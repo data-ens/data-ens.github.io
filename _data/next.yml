@@ -1,14 +1,5 @@
 
 
-- speaker: "Maureen Clerc"
-  date: Feb. 6th, 2018
-  time: 12h00-13h00
-  room: "Salle Jean Jaurès, 29 rue d’Ulm (sous-sol)"
-  affiliation: "INRIA"
-  url: "http://www-sop.inria.fr/members/Maureen.Clerc/index.php"
-  title: "Brain-computer interfaces: two concurrent learning problems"
-  abstract: "Brain-Computer Interfaces (BCI) are systems which provide real-time interaction through brain activity, bypassing traditional interfaces such as keyboard or mouse. A target application of BCI is to restore mobility or autonomy to severely disabled patients. In BCI, new modes of perception and interaction come into play, which users must learn, just as infants learn to explore their sensorimotor system. Feedback is central in this learning. From the point of view of the system, features must be extracted from the brain activity, and translated into commands. Feature extraction and classification issues, are important components of a BCI. Adaptive learning strategies, because of the high variability of the brain signals. Moreoever, additional markers may also be extracted to modulate the system's behavior. It is for instance possible to monitor the brain's reaction to the BCI outcome.  In this talk I will present some of the current machine learning methods which are used in BCI, and the adaptation of BCI to users' needs. "
-
 
 - speaker: "Elizabeth Purdom"
   date: March 13rd, 2018
@@ -16,5 +7,5 @@
   room: "CONF IV (physic dpt, Rue Lhomond)"
   affiliation: "Berkeley"
   url: "https://www.stat.berkeley.edu/~epurdom/"
-  title: "TBA"
-  abstract: "TBA"
+  title: "Statistical challenges in analyzing high-dimensional experiments in molecular biology"
+  abstract: "Molecular biology experiments frequently measure tens of thousands of measurements on a cell in order to obtain a full snapshot of the activity of the cell. Analysis of these experiments requires the integration of statistical techniques to the unique biological aspects of these experiments. In this talk I will give an overview the data challenges faced in these settings, as well as highlight how the solutions to these problems compare to those used in the wider data science community. I will illustrate these points with examples from my research in developing methods for the analysis of the measurements of mRNA abundance of cells."
