@@ -1,7 +1,7 @@
 - speaker: "Marine Le Morvan"
   date: Mar. 16th, 2018
   time: 14h00-15h00
-  room: "Room W, DMA, ENS (45 rue d'Ulm, 4th floor)"
+  room: "W, DMA, ENS (45 rue d'Ulm, 4th floor)"
   affiliation: "Mines-Paristech"
   title: "Scaling up the LASSO with interaction features"
   abstract: "Learning sparse linear models with two-way interactions is desirable in many application
@@ -15,3 +15,12 @@
   search problem. We apply WHInter to simulated and real genetic data and show that it is more
   scalable and two orders of magnitude faster than the state of the art."
   url: "https://hal.archives-ouvertes.fr/search/index/q/*/authFullName_s/Marine+Le+Morvan"
+  
+- speaker: "Aaron Tranter"
+  date: Mar. 30th, 2018
+  time: 14h00-15h00
+  room: "W, DMA, ENS (45 rue d'Ulm, 4th floor)"
+  affiliation: "Australian National University"
+  title: "Deep learning cold atomic systems for quantum memories"
+  abstract: "Quantum memories are integral to the realization of quantum information networks and quantum information processing. A promising platform is gradient echo memory (GEM) in cold atomic systems with demonstrated efficiencies of ~=87%. We demonstrate the first application of a deep learning algorithm to a cold atomic system in order to increase the optical depth (OD) of our atomic trap and thus increase memory efficiency. We demonstrate an improvement in OD from 530 +- 8 to 970 +- 20 by performing an optimization over 63 experimental parameters. We also observe a physical change in the atomic cloud corresponding to the spatial distribution of the atom cloud and apply the optimization to the GEM protocol."
+  url: "https://physics.anu.edu.au/people/profile.php?ID=1984&tab=available_projects"
