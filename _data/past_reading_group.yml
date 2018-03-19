@@ -1,3 +1,21 @@
+- speaker: "Marine Le Morvan"
+  date: Mar. 16th, 2018
+  time: 14h00-15h00
+  room: "W, DMA, ENS (45 rue d'Ulm, 4th floor)"
+  affiliation: "Mines-Paristech"
+  title: "Scaling up the LASSO with interaction features"
+  abstract: "Learning sparse linear models with two-way interactions is desirable in many application
+  domains such as genomics. l1-regularised linear models are popular to estimate sparse models,
+  yet standard implementations fail to address specifically the quadratic explosion of candidate
+  two-way interactions in high dimensions, and typically do not scale to genetic data with hundreds
+  of thousands of features. Here we present WHInter, a working set algorithm to solve large l1-
+  regularised problems with two-way interactions for binary design matrices. The novelty of
+  WHInter stems from a new bound to efficiently identify working sets while avoiding to scan
+  all features, and on fast computations inspired from solutions to the maximum inner product
+  search problem. We apply WHInter to simulated and real genetic data and show that it is more
+  scalable and two orders of magnitude faster than the state of the art."
+  url: "https://hal.archives-ouvertes.fr/search/index/q/*/authFullName_s/Marine+Le+Morvan"
+
 - speaker: "<a href='https://tomas-angles.github.io/'>Tomas Angles</a>, <a href='https://audeg.github.io/'>Aude Genevay</a>"
   date: Feb. 16th, 2018
   time: 10h30-12h00

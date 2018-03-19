@@ -1,26 +1,21 @@
-- speaker: "Marine Le Morvan"
-  date: Mar. 16th, 2018
-  time: 14h00-15h00
-  room: "W, DMA, ENS (45 rue d'Ulm, 4th floor)"
-  affiliation: "Mines-Paristech"
-  title: "Scaling up the LASSO with interaction features"
-  abstract: "Learning sparse linear models with two-way interactions is desirable in many application
-  domains such as genomics. l1-regularised linear models are popular to estimate sparse models,
-  yet standard implementations fail to address specifically the quadratic explosion of candidate
-  two-way interactions in high dimensions, and typically do not scale to genetic data with hundreds
-  of thousands of features. Here we present WHInter, a working set algorithm to solve large l1-
-  regularised problems with two-way interactions for binary design matrices. The novelty of
-  WHInter stems from a new bound to efficiently identify working sets while avoiding to scan
-  all features, and on fast computations inspired from solutions to the maximum inner product
-  search problem. We apply WHInter to simulated and real genetic data and show that it is more
-  scalable and two orders of magnitude faster than the state of the art."
-  url: "https://hal.archives-ouvertes.fr/search/index/q/*/authFullName_s/Marine+Le+Morvan"
   
 - speaker: "Aaron Tranter"
-  date: Mar. 30th, 2018
+  date: March 30th, 2018
   time: 14h00-15h00
   room: "U/V, DMA, ENS (45 rue d'Ulm, basement)"
   affiliation: "Australian National University"
   title: "Deep learning cold atomic systems for quantum memories"
   abstract: "Quantum memories are integral to the realization of quantum information networks and quantum information processing. A promising platform is gradient echo memory (GEM) in cold atomic systems with demonstrated efficiencies of ~=87%. We demonstrate the first application of a deep learning algorithm to a cold atomic system in order to increase the optical depth (OD) of our atomic trap and thus increase memory efficiency. We demonstrate an improvement in OD from 530 +- 8 to 970 +- 20 by performing an optimization over 63 experimental parameters. We also observe a physical change in the atomic cloud corresponding to the spatial distribution of the atom cloud and apply the optimization to the GEM protocol."
   url: "https://physics.anu.edu.au/people/profile.php?ID=1984&tab=available_projects"
+
+ 
+- speaker: "Jerome Tubiana"
+  date: April 13th, 2018
+  time: 10h30-11h30
+  room: "W, DMA, ENS (4 rue d'Ulm, 4th floor)"
+  affiliation: "ENS, LPT"
+  title: "Compositional Representations in Restricted Boltzmann Machines: theory and applications."
+  abstract: "Restricted Boltzmann Machines (RBM) form a family of probability distributions simple yet powerful for modeling high-dimensional, complex data sets. Besides learning a generative model, they also extract features, producing a graded and distributed representation of data. However, not all variants of RBM perform equally well, and little theoretical arguments exist for these empirical observations. By analyzing an ensemble of RBMs with random weights using statistical physics tools, we characterize the structural conditions (statistics of weights, choice of non-linearity…) allowing the emergence of such efficient representations.
+  
+  Lastly, we present a new application of RBMs: the analysis of protein sequences alignments. We show that RBMs extract high-order patterns of coevolution that arise from the structural and functional constraints of the protein family. These patterns can be recombined to generate artificial protein sequences with prescribed chemical properties."
+  url: "https://www.lpt.ens.fr/?page=membre&id=708"
