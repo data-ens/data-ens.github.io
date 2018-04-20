@@ -5,8 +5,13 @@
   time: 14h-15h
   room: "W, DMA, ENS (45 rue d'Ulm, 4th floor)"
   affiliation: "ENS, DMA"
-  title: "TBA"
-  abstract: "TBA"
+  title: "Riemannian Geometry for Computational Anatomy"
+  abstract: "How can one do statistics on datasets deprived of a suitable (0,+,*) algebraic structure?
+  Can we compute the mean and PCA of a population of 3D meshes while guaranteeing the preservation of each shape's topology?<br>
+  
+  A Riemannian structure on a dataset (i.e. a collection of local euclidean metrics) is the most general tool allowing us to speak of \"angles\" and \"continuous straight paths\" between samples. Focusing on the case of 3D meshes endowed with a tearing-adverse structure, we will show that Riemannian priors can be enforced through the use of a generic 5-line program: the Hamiltonian shooting routine.<br>
+  
+  As automatic differentiation libraries now relieve us from the hassle of computing our metrics' derivatives, this talk may help you to consider using Riemannian manifolds in situations where linear models are too limited. "
   url: "http://www.math.ens.fr/~feydy/"
 
 - speaker: "Jonathan Dong"
