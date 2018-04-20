@@ -1,3 +1,12 @@
+- speaker: "Elizabeth Purdom"
+  date: March 13rd, 2018
+  time: 12h00-13h00
+  room: "CONF IV (physic dpt, 24 Rue Lhomond, 2nd floor)"
+  affiliation: "Berkeley"
+  url: "https://www.stat.berkeley.edu/~epurdom/"
+  title: "Statistical challenges in analyzing high-dimensional experiments in molecular biology"
+  abstract: "Molecular biology experiments frequently measure tens of thousands of measurements on a cell in order to obtain a full snapshot of the activity of the cell. Analysis of these experiments requires the integration of statistical techniques to the unique biological aspects of these experiments. In this talk I will give an overview the data challenges faced in these settings, as well as highlight how the solutions to these problems compare to those used in the wider data science community. I will illustrate these points with examples from my research in developing methods for the analysis of the measurements of mRNA abundance of cells."
+
 - speaker: "Maureen Clerc"
   date: Feb. 6th, 2018
   time: 12h00-13h00
