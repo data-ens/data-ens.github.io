@@ -1,9 +1,9 @@
 
-- speaker: "Jonathan Dong"
-  date: May 18th, 2018
+- speaker: "Mathieu Blondel"
+  date: June 8th, 2018
   time: 11h-12h
-  room: "U/V, DMA, ENS (45 rue d'Ulm, basement)"
-  affiliation: "LKB"
-  title: "Scaling up Random Projections with multiple light scattering"
-  abstract: "Random Projections have proven extremely useful in many signal processing and machine learning applications. However, they often require either to store a very large random matrix, or to use a different, structured matrix to reduce the computational and memory costs. We overcome this difficulty with an analog, optical device, that performs the random projections literally at the speed of light without having to store any matrix in memory. This is achieved using the physical properties of multiple coherent scattering of light in random media. These efficient optical random projections are used in two different settings: to generate Random Features for kernel approximation and to iterate an Echo-State Network (a Recurrent Neural Network with fixed internal weights). This new method is fast, power efficient and easily scalable to very large networks: we reach sizes that exceed the RAM memory limit."
-  url: "http://www.lkb.upmc.fr/opticalimaging/jonathan-dong/"
+  room: "W, DMA, ENS (45 rue d'Ulm, 4th floor)"
+  affiliation: "NTT (Kyoto)"
+  title: "Smoothing / Regularization Techniques for Probabilistic and Structured Classification"
+  abstract: "In this talk, I will present how smoothing / regularization techniques can be used to turn a prediction function that outputs a hard decision (e.g top-scoring class or top-scoring sequence) into a differentiable \"soft\" decision with a probabilistic perspective. I will present a novel principled loss family to learn such \"soft\" prediction functions from training data. In addition, I will show how to use them as a layer in a neural network trained end-to-end by backpropagation. Finally, I will present  experimental results on natural language processing applications such as named entity recognition, dependency parsing and machine translation. <br> Joint work with Vlad Niculae, André Martins, Claire Cardie, Arthur Mensch <br> The talk will be a condensed overview of the following papers: <br> [1] https://arxiv.org/abs/1802.04223 (ICML 2018) <br> [2] https://arxiv.org/abs/1802.03676 (ICML 2018) <br> [3] https://arxiv.org/abs/1805.09717 (arXiv preprint)"
+  url: "http://mblondel.org/"
