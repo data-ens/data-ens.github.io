@@ -1,9 +1,18 @@
 
 - speaker: "Mathieu Blondel"
   date: June 8th, 2018
-  time: 11h-12h
+  time: 10h-11h
   room: "W, DMA, ENS (45 rue d'Ulm, 4th floor)"
   affiliation: "NTT (Kyoto)"
   title: "Smoothing / Regularization Techniques for Probabilistic and Structured Classification"
   abstract: "In this talk, I will present how smoothing / regularization techniques can be used to turn a prediction function that outputs a hard decision (e.g top-scoring class or top-scoring sequence) into a differentiable \"soft\" decision with a probabilistic perspective. I will present a novel principled loss family to learn such \"soft\" prediction functions from training data. In addition, I will show how to use them as a layer in a neural network trained end-to-end by backpropagation. Finally, I will present  experimental results on natural language processing applications such as named entity recognition, dependency parsing and machine translation. <br> Joint work with Vlad Niculae, André Martins, Claire Cardie, Arthur Mensch <br> The talk will be a condensed overview of the following papers: <br> [1] https://arxiv.org/abs/1802.04223 (ICML 2018) <br> [2] https://arxiv.org/abs/1802.03676 (ICML 2018) <br> [3] https://arxiv.org/abs/1805.09717 (arXiv preprint)"
   url: "http://mblondel.org/"
+  
+- speaker: "Alberto Bietti"
+  date: June 8th, 2018
+  time: 11h-12h
+  room: "W, DMA, ENS (45 rue d'Ulm, 4th floor)"
+  affiliation: "Inria"
+  title: "TBA"
+  abstract: "TBA"
+  url: "http://alberto.bietti.me/"
