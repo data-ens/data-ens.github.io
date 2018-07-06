@@ -4,7 +4,7 @@
   time: 11h-12h
   room: "R3, DMA, ENS (45 rue d'Ulm, basement)"
   affiliation: "Universidad Técnica Federico Santa María (Chile)"
-  title: "TBA"
-  abstract: "TBA"
+  title: "Inertial proximal algorithms for maximally monotone operators"
+  abstract: "We present a Regularized Inertial Proximal Algorithm to solve convex optimization problems and variational inequalities. It is obtained by means of a convenient finite-difference discretization of a second-order differential equation with vanishing damping, governed by the Yosida regularization of a maximally monotone operator with time-varying index. These systems are the counterpart to accelerated forward–backward algorithms in the context of maximally monotone operators. A simple example illustrates the behavior of these systems compared with some of their close relatives."
   url: "http://jpeypou.mat.utfsm.cl/"
   
