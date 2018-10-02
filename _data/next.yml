@@ -1,14 +1,10 @@
-- speaker: "Joan Bruna"
-  date: June 12th, 2018
+- speaker: "Emmanuel Dupoux"
+  date: October 17th, 2018
   time: 12h00-13h00
-  room: "Salle Jean Jaurès, 29 rue d’Ulm (sous-sol)"
-  affiliation: "New York University"
-  url: "https://cims.nyu.edu/~bruna/"
-  title: "Learning Graph Inverse Problems with Neural Networks"
-  abstract: "Inverse Problems on graphs encompass many areas of physics, algorithms and statistics,
-and are a confluence of powerful methods, ranging from computational harmonic analysis and high-dimensional statistics to statistical physics.
-Similarly as with inverse problems in signal processing, learning has emerged as an intriguing alternative to regularization and other computationally tractable relaxations, opening up new questions in which high-dimensional optimization, neural networks and data play a prominent role.
-In this talk, I will argue that several tasks that are ‘geometrically stable’ can be well approximated with Graph Neural Networks, a natural
-extension of Convolutional Neural Networks on graphs. I will present recent work on supervised community detection, quadratic assignment, neutrino detection and beyond showing the flexibility of GNNs to extend classic algorithms such as Belief Propagation.<br>
+  room: "CONF IV (physic dpt, 24 Rue Lhomond, 2nd floor)"
+  affiliation: "EHESS"
+  url: "http://www.lscp.net/persons/dupoux/"
+  title: "Towards developmental AI"
+  abstract: Even though current machine learning techniques yield systems that achieve parity with humans on several high level tasks, the learning algorithms themselves are orders of magnitude less data efficient than those used by humans, as evidenced by the speed and resilience with which infants learn language and common sense. I review some of our recent attempts to reverse engineer such abilities in the area of unsupervised or weakly supervised learning of speech representations, the segmentation of speech terms, and the learning the laws of intuitive physics by observation of videos. I argue that a triple effort in data collection, algorithm development and fine grained human/machine comparisons is needed to uncover these developmental algorithms.
 
-  <b>Bio:</b> Joan Bruna is an Assistant Professor of Computer Science, Data Science and Mathematics (affiliated) at the Courant Institute of Mathematical Sciences, New York University, and at the Center for Data Science. His research interests touch several areas of Machine Learning, Signal Processing and High-Dimensional Statistics. In particular, in the past few years he has been working on Convolutional Neural Networks, studying some of its theoretical properties, extensions to more general geometries, and applications to physical sciences and statistics. Before that, he worked at FAIR (Facebook AI Research) in New York. Prior to that, he was a postdoctoral researcher at Courant Institute, NYU. He completed his PhD in 2013 at Ecole Polytechnique, France. He is the recipient of an Alfred. P. Sloan Fellowship (2018), and he has organized multiple tutorials and workshops on geometric deep learning, including NIPS and CVPR in 2017."
+  <b>Bio:</b>E. Dupoux is full professor at the Ecole des Hautes Etudes en Sciences Sociales (EHESS), and directs the Cognitive Machine Learning team at the Ecole Normale Supérieure (ENS) in Paris and INRIA (www.syntheticlearner.com).  His education includes a PhD in Cognitive Science (EHESS), a MA in Computer Science (Orsay University) and a BA in Applied Mathematics (Pierre & Marie Curie University, ENS). His research mixes developmental science, cognitive neuroscience, and machine learning, with a focus on the reverse engineering of infant language and cognitive development using unsupervised or weakly supervised learning. He is the recipient of an Advanced ERC grant, the organizer of the Zero Ressource Speech Challenge (2015, 2017), the Intuitive Physics Benchmark (2017) and led in 2017 a Jelinek Summer Workshop at CMU on multimodal speech learning. He has authored 150 articles in various peer reviewed outlets."
