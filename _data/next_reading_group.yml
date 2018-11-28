@@ -3,7 +3,7 @@
   date: Nov. 29th, 2018
   time: 10h30-11h30
   room: "W, DMA, ENS (45 rue d'Ulm, 4th floor)"
-  affiliation: "ENS"
+  affiliation: "Wuhan University"
   title: "Texture Synthesis with Conditional Generative CNNs"
   abstract: "Example-based texture synthesis (EBTS) is a well-studied yet challenging problem in computer vision and graphics, it aims to produce textures that are visually similar to given exemplars. Although some breakthroughs have been achieved by recently proposed methods using deep neural networks, they still have some difficulties in synthesizing textures with complex structures, e.g. non-local and near-/regular geometric patterns. Moreover, most of them rely on large-scale deep networks pre-trained for recognition tasks. Aiming at better generation of highly structured textures with lighter deep neural networks, we  present a conditional generative convolutional neural net-work (cgCNN) model for texture synthesis in this paper. Given an exemplar, our model defines a conditional distribution of synthesized textures using a light-weight CNN. Our model is then trained by iteratively learning and sampling from the conditional distribution. Instead of using a pre-trained CNN, our model learns the weights of CNN in the training process. Furthermore, our model can be easily extended to synthesize dynamic textures by directly adding a temporal dimension to the convolution kernels. Experiments demonstrate that our model achieve state-of-the-art performances, especially on highly structured textures."
   url: "http://captain.whu.edu.cn/xia_En.html"
