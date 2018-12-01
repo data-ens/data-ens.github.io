@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Data Science in ENS"
+title: "Data Sciences in ENS"
 description: "A morning of conference"
 header-img: "img/ens2.png"
 ---
