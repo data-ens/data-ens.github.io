@@ -29,4 +29,4 @@ Schedule
 * 11:00-11:40:  [Marco Cuturi](http://marcocuturi.net/) (ENSAE and Google Brain), TBA
 * 11:40-12:20: Alexios beveratos (CFM),TBA
 * 12:20-13:00: [Giulio Biroli](https://www.ipht.fr/Pisp/giulio.biroli/cours.php) (ENS Paris), TBA
-* 13:00: Lunch
+* 13:00: Lunch in the Hall of the Physics department
