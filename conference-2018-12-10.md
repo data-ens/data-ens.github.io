@@ -5,7 +5,7 @@ description: "A morning of conference"
 header-img: "img/ens2.png"
 ---
 
-The [CFM](https://www.cfm.fr/)-[ENS](http://www.ens.fr) chair "_Modèles et Sciences des Données_" organize a morning of conferences on Data Sciences on December 10th, from 12:00 to 17:00 (with lunch buffet at 13:00) in the [Physics Department of ENS, 24 rue Lhomond](http://www.phys.ens.fr/spip.php?article579&lang=en), in room CONF IV (2nd floor).
+The [CFM](https://www.cfm.fr/)-[ENS](http://www.ens.fr) chair "_Modèles et Sciences des Données_" organize a morning of conferences on Data Sciences on December 10th, from 9:00 to 13:00 (with lunch buffet at 13:00) in the [Physics Department of ENS, 24 rue Lhomond](http://www.phys.ens.fr/spip.php?article579&lang=en), in room CONF IV (2nd floor).
 
 
 When
