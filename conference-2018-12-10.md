@@ -22,7 +22,7 @@ Schedule
 ============================
 
 
-* 09h00: Welcome coffee
+* 09h00: Welcome reception
 * 09h20:10:00: [Lenka Zdeborova](http://artax.karlin.mff.cuni.cz/~zdebl9am/) (CNRS & CEA Saclay), Computational and information-theoretic phase transitions in learning problems 
 * 10:00-10:40: Florent Benaych-Georges (CFM), RIE for cross-covariance matrices
 * 10:40-11:00: Coffee break
