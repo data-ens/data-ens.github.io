@@ -1,3 +1,14 @@
+- speaker: "Emmanuel Dupoux"
+  date: October 17th, 2018
+  time: 12h00-13h00
+  room: "CONF IV (physic dpt, 24 Rue Lhomond, 2nd floor)"
+  affiliation: "EHESS"
+  url: "http://www.lscp.net/persons/dupoux/"
+  title: "Towards developmental AI"
+  abstract: "Even though current machine learning techniques yield systems that achieve parity with humans on several high level tasks, the learning algorithms themselves are orders of magnitude less data efficient than those used by humans, as evidenced by the speed and resilience with which infants learn language and common sense. I review some of our recent attempts to reverse engineer such abilities in the area of unsupervised or weakly supervised learning of speech representations, the segmentation of speech terms, and the learning the laws of intuitive physics by observation of videos. I argue that a triple effort in data collection, algorithm development and fine grained human/machine comparisons is needed to uncover these developmental algorithms.
+
+  <b>Bio:</b>E. Dupoux is full professor at the Ecole des Hautes Etudes en Sciences Sociales (EHESS), and directs the Cognitive Machine Learning team at the Ecole Normale Supérieure (ENS) in Paris and INRIA (www.syntheticlearner.com).  His education includes a PhD in Cognitive Science (EHESS), a MA in Computer Science (Orsay University) and a BA in Applied Mathematics (Pierre & Marie Curie University, ENS). His research mixes developmental science, cognitive neuroscience, and machine learning, with a focus on the reverse engineering of infant language and cognitive development using unsupervised or weakly supervised learning. He is the recipient of an Advanced ERC grant, the organizer of the Zero Ressource Speech Challenge (2015, 2017), the Intuitive Physics Benchmark (2017) and led in 2017 a Jelinek Summer Workshop at CMU on multimodal speech learning. He has authored 150 articles in various peer reviewed outlets."
+
 - speaker: "Joan Bruna"
   date: June 12th, 2018
   time: 12h00-13h00
