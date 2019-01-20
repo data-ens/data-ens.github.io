@@ -98,6 +98,10 @@
                 </li>
                 
                 <li>
+                    <a href="/conference-2018-12-10/">Data Sciences in ENS</a>
+                </li>
+                
+                <li>
                     <a href="/">Data @ ENS</a>
                 </li>
                 
@@ -164,6 +168,34 @@
 	<div class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 			<p>You can find below the list of past Laplace reading groups.</p>
+
+<p>
+  Nov. 8th, 2018, <a href="http://www.amensch.fr/">Arthur Mensch</a> (ENS)
+  <br />
+  <b>Title:</b> <i>Learning representations from functional MRI data</i><br />
+  <b>Abstract:</b> Thanks to the advent of functional brain-imaging technologies, cognitive neuroscience is accumulating maps of neural activity responses to specific tasks or stimuli, or of spontaneous activity. In this work, we consider data from functional Magnetic Resonance Imaging (fMRI), that we study in a machine learning setting: we learn a model of brain activity that should generalize on unseen data. After reviewing the standard fMRI data analysis techniques, we propose new methods and models to benefit from the recently released large fMRI data repositories. Our goal is to learn richer representations of brain activity. We first focus on unsupervised analysis of terabyte-scale fMRI data acquired on subjects at rest (resting-state fMRI). We perform this analysis using matrix factorization. We present new methods for running sparse matrix factorization/dictionary learning on hundreds of fMRI records in reasonable time. Our leading approach relies on introducing randomness in stochastic optimization loops and provides speed-up of an order of magnitude on a variety of settings and datasets. We provide an extended empirical validation of our stochastic subsampling approach, for datasets from fMRI, hyperspectral imaging and collaborative filtering. We derive convergence properties for our algorithm, in a theoretical analysis that reaches beyond the matrix factorization problem. We then turn to work with fMRI data acquired on subject undergoing behavioral protocols (task fMRI). We investigate how to aggregate data from many source studies, acquired with many different protocols, in order to learn more accurate and interpretable decoding models, that predicts stimuli or tasks from brain maps. Our multi-study shared-layer model learns to reduce the dimensionality of input brain images, simultaneously to learning to decode these images from their reduced representation. This fosters transfer learning in between studies, as we learn the undocumented cognitive common aspects that the many fMRI studies share. As a consequence, our multi-study model performs better than single-study decoding. Our approach identifies universally relevant representation of brain activity, supported by a few task-optimized networks learned during model fitting. Finally, on a related topic, we show how to use dynamic programming within end-to-end trained deep networks, with applications in natural language processing.
+  </p>
+
+<p>
+  July 11th, 2018, <a href="http://jpeypou.mat.utfsm.cl/">Juan Peypouquet</a> (Universidad Técnica Federico Santa María (Chile))
+  <br />
+  <b>Title:</b> <i>Inertial proximal algorithms for maximally monotone operators</i><br />
+  <b>Abstract:</b> We present a Regularized Inertial Proximal Algorithm to solve convex optimization problems and variational inequalities. It is obtained by means of a convenient finite-difference discretization of a second-order differential equation with vanishing damping, governed by the Yosida regularization of a maximally monotone operator with time-varying index. These systems are the counterpart to accelerated forward–backward algorithms in the context of maximally monotone operators. A simple example illustrates the behavior of these systems compared with some of their close relatives.
+  </p>
+
+<p>
+  June 8th, 2018, <a href="http://mblondel.org/">Mathieu Blondel</a> (NTT (Kyoto))
+  <br />
+  <b>Title:</b> <i>Smoothing / Regularization Techniques for Probabilistic and Structured Classification</i><br />
+  <b>Abstract:</b> In this talk, I will present how smoothing / regularization techniques can be used to turn a prediction function that outputs a hard decision (e.g top-scoring class or top-scoring sequence) into a differentiable "soft" decision with a probabilistic perspective. I will present a novel principled loss family to learn such "soft" prediction functions from training data. In addition, I will show how to use them as a layer in a neural network trained end-to-end by backpropagation. Finally, I will present  experimental results on natural language processing applications such as named entity recognition, dependency parsing and machine translation. <br /> Joint work with Vlad Niculae, André Martins, Claire Cardie, Arthur Mensch <br /> The talk will be a condensed overview of the following papers: <br /> [1] https://arxiv.org/abs/1802.04223 (ICML 2018) <br /> [2] https://arxiv.org/abs/1802.03676 (ICML 2018) <br /> [3] https://arxiv.org/abs/1805.09717 (arXiv preprint)
+  </p>
+
+<p>
+  June 8th, 2018, <a href="http://alberto.bietti.me/">Alberto Bietti</a> (Inria)
+  <br />
+  <b>Title:</b> <i>Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations</i><br />
+  <b>Abstract:</b> The success of deep convolutional architectures is often attributed in part to their ability to learn multiscale and invariant representations of natural signals. However, a precise study of these properties and how they affect learning guarantees is still missing. In this work, we consider deep convolutional representations of signals; we study their invariance to translations and to more general groups of transformations, their stability to the action of diffeomorphisms, and their ability to preserve signal information. This analysis is carried by introducing a multilayer kernel based on convolutional kernel networks and by studying the geometry induced by the kernel mapping. We then characterize the corresponding reproducing kernel Hilbert space (RKHS), showing that it contains a large class of convolutional neural networks with homogeneous activation functions. This analysis allows us to separate data representation from learning, and to provide a canonical measure of model complexity, the RKHS norm, which controls both stability and generalization of any learned model. In addition to models in the constructed RKHS, our stability analysis also applies to convolutional networks with generic activations such as rectified linear units, and we discuss its relationship with recent generalization bounds based on spectral norms. <br /> https://arxiv.org/abs/1706.03078
+  </p>
 
 <p>
   May 18th, 2018, <a href="http://www.lkb.upmc.fr/opticalimaging/jonathan-dong/">Jonathan Dong</a> (LKB)
@@ -276,7 +308,7 @@ In this talk I will address applications of semidefinite programming to some lar
                     
                 </ul>
                 <!--
-                  <p class="copyright text-muted">Copyright &copy; ENS-CFM Data Science Chair 2018</p>
+                  <p class="copyright text-muted">Copyright &copy; ENS-CFM Data Science Chair 2019</p>
                 -->
             </div>
         </div>
