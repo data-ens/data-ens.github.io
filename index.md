@@ -16,7 +16,7 @@ The main activities of the chair are:
 
 - It organizes the monthly [_Data Science Colloquium of the ENS_](seminar/).
 - It hosts the "_Laplace Junior Professor Chair in Data Science_" program, see the [job openings announcements](jobs/) for more details.
-- It supports the [_Challenge Data_ program](https://challengedata.ens.fr/en/home).
+- It supports the [_Challenge Data_ program](https://challengedata.ens.fr/).
 
 Scientific Committee
 ============================
