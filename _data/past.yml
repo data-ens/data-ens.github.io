@@ -1,3 +1,14 @@
+- speaker: "Matthieu Husson"
+  date: May 9th, 2019
+  time: 12h00-13h00
+  room: "Salle Jean Jaurès, 29 rue d’Ulm (sous-sol)"
+  affiliation: "Observatoire de Paris"
+  url: "https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson"
+  title: "Artificial Intelligence and data sets from the history of astronomy: new opportunities?"
+  abstract: "The recent development of Digital Humanities and the exigences of publishing research data besides research results transform the availability of historical sources, along with the means to analyse, edit, and relate them.
+  In this context, DISHAS relies on a network of international projects in Chinese, Sanskrit, Arabic, Latin and Hebrew sources in the history of astral sciences and aims at providing tools to edit and analyse the different types of sources usually treated in the field, namely, prose and versified texts, iconography and technical/geometrical diagrams, and astronomical tables.
+  This leads to the progressive constitution of precisely described datasets that are a promissing field of experimentation for data sciences in general and artificial intelligence in particular. In this presentation we want to introduce our datasets, their characteristics and historical meaning. We will discuss different lines of research that could converge toward data sciences topics, with a specific focus on the understanding of historical actors computations from the analysis of the numerical tables they produced."
+
 - speaker: "Béatrice Prunel and Gregory Chatonsky"
   date: March 25th, 2019
   time: 12h00-13h00

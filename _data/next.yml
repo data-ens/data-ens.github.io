@@ -1,16 +1,5 @@
 
 
-- speaker: "Matthieu Husson"
-  date: May 9th, 2019
-  time: 12h00-13h00
-  room: "Salle Jean Jaurès, 29 rue d’Ulm (sous-sol)"
-  affiliation: "Observatoire de Paris"
-  url: "https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson"
-  title: "Artificial Intelligence and data sets from the history of astronomy: new opportunities?"
-  abstract: "The recent development of Digital Humanities and the exigences of publishing research data besides research results transform the availability of historical sources, along with the means to analyse, edit, and relate them.
-  In this context, DISHAS relies on a network of international projects in Chinese, Sanskrit, Arabic, Latin and Hebrew sources in the history of astral sciences and aims at providing tools to edit and analyse the different types of sources usually treated in the field, namely, prose and versified texts, iconography and technical/geometrical diagrams, and astronomical tables.
-  This leads to the progressive constitution of precisely described datasets that are a promissing field of experimentation for data sciences in general and artificial intelligence in particular. In this presentation we want to introduce our datasets, their characteristics and historical meaning. We will discuss different lines of research that could converge toward data sciences topics, with a specific focus on the understanding of historical actors computations from the analysis of the numerical tables they produced."
-
 
 - speaker: "Jean-Remi King"
   date: June 11th, 2019
@@ -18,5 +7,5 @@
   room: "Salle Jean Jaurès, 29 rue d’Ulm (sous-sol)"
   affiliation: "ENS"
   url: "https://sites.google.com/site/jeanremiking/"
-  title: "TBA"
-  abstract: "TBA"
+  title: "From brains to algorithms: parsing neuroimaging data to infer the computational architecture of human cognition."
+  abstract: "While machine learning is an autonomous research field, a number of historical (e.g. artificial neural networks) as well as more recent computational strategies (e.g. attentional gating) have been influenced by cognitive and neuroscientific findings. To what extent can cognitive neuroscience continue to guide and intersect with the development of machine learning? To highlight potential directions to this major issue, I will present three studies that investigate the computational organization of brain processing. For each of them, I will show that we can use non-invasive neuroimaging techniques with high temporal precision to parse the computational stages of visual processing in the healthy human brain. Our results show that the raw visual input that bombards our retina is progressively transformed into meaningful representations by a hierarchical algorithm, distributed both over time and space. Finally, I will briefly show how these methods can now be applied to understand language processing in humans, and thus help us tackle the modern challenges of machine learning."
