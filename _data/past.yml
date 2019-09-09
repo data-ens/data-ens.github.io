@@ -1,3 +1,12 @@
+- speaker: "Jean-Remi King"
+  date: June 11th, 2019
+  time: 12h00-13h00
+  room: "Salle Jean Jaurès, 29 rue d’Ulm (sous-sol)"
+  affiliation: "ENS"
+  url: "https://sites.google.com/site/jeanremiking/"
+  title: "From brains to algorithms: parsing neuroimaging data to infer the computational architecture of human cognition."
+  abstract: "While machine learning is an autonomous research field, a number of historical (e.g. artificial neural networks) as well as more recent computational strategies (e.g. attentional gating) have been influenced by cognitive and neuroscientific findings. To what extent can cognitive neuroscience continue to guide and intersect with the development of machine learning? To highlight potential directions to this major issue, I will present three studies that investigate the computational organization of brain processing. For each of them, I will show that we can use non-invasive neuroimaging techniques with high temporal precision to parse the computational stages of visual processing in the healthy human brain. Our results show that the raw visual input that bombards our retina is progressively transformed into meaningful representations by a hierarchical algorithm, distributed both over time and space. Finally, I will briefly show how these methods can now be applied to understand language processing in humans, and thus help us tackle the modern challenges of machine learning."
+
 - speaker: "Matthieu Husson"
   date: May 9th, 2019
   time: 12h00-13h00

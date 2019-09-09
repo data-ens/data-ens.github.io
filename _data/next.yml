@@ -1,11 +1,23 @@
 
 
-
-- speaker: "Jean-Remi King"
-  date: June 11th, 2019
+- speaker: "Nathan Srebro"
+  date: Sept. 17th, 2019
   time: 12h00-13h00
-  room: "Salle Jean Jaurès, 29 rue d’Ulm (sous-sol)"
-  affiliation: "ENS"
-  url: "https://sites.google.com/site/jeanremiking/"
+  room: "CONF IV (physic dpt, Rue Lhomond)"
+  affiliation: "Optimization's Hidden Gift to Learning: Implicit Regularization"
+  url: "https://ttic.uchicago.edu/~nati/"
   title: "From brains to algorithms: parsing neuroimaging data to infer the computational architecture of human cognition."
-  abstract: "While machine learning is an autonomous research field, a number of historical (e.g. artificial neural networks) as well as more recent computational strategies (e.g. attentional gating) have been influenced by cognitive and neuroscientific findings. To what extent can cognitive neuroscience continue to guide and intersect with the development of machine learning? To highlight potential directions to this major issue, I will present three studies that investigate the computational organization of brain processing. For each of them, I will show that we can use non-invasive neuroimaging techniques with high temporal precision to parse the computational stages of visual processing in the healthy human brain. Our results show that the raw visual input that bombards our retina is progressively transformed into meaningful representations by a hierarchical algorithm, distributed both over time and space. Finally, I will briefly show how these methods can now be applied to understand language processing in humans, and thus help us tackle the modern challenges of machine learning."
+  abstract: "It is becoming increasingly clear that implicit regularization
+  afforded by the optimization algorithms play a central role in machine
+  learning, and especially so when using large, deep, neural networks.
+  We have a good understanding of the implicit regularization afforded
+  by stochastic approximation algorithms, such as SGD, for convex problem,
+  and we understand and can characterize the implicit bias of
+  different algorithms, and can design algorithms with specific biases.
+  But in this talk I will focus on implicit biases of local search algorithms
+  for non-convex underdetermined problem, such as deep networks.
+  In an effort to uncover the implicit biases of gradient-based optimization
+  of neural networks, which holds the key to their empirical success, I will discuss recent
+  work on implicit regularization for matrix factorization, linear convolutional networks,
+  and two-layer ReLU networks, as well as a general bottom-up understanding
+  on implicit regularization in terms of optimization geometry."
