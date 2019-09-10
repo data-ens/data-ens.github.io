@@ -4,9 +4,9 @@
   date: Sept. 17th, 2019
   time: 12h00-13h00
   room: "CONF IV (physic dpt, Rue Lhomond)"
-  affiliation: "Optimization's Hidden Gift to Learning: Implicit Regularization"
+  affiliation: "Toyota Technological Institute at Chicago"
   url: "https://ttic.uchicago.edu/~nati/"
-  title: "From brains to algorithms: parsing neuroimaging data to infer the computational architecture of human cognition."
+  title: "Optimization's Hidden Gift to Learning: Implicit Regularization"
   abstract: "It is becoming increasingly clear that implicit regularization
   afforded by the optimization algorithms play a central role in machine
   learning, and especially so when using large, deep, neural networks.
