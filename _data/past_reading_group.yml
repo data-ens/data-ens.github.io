@@ -1,3 +1,12 @@
+- speaker: "Matthew Colbrook"
+  date: May 10th, 2019
+  time: 11h00-12h00
+  room: "W, DMA, ENS (45 rue d'Ulm, 4th floor)"
+  affiliation: "Cambridge University"
+  title: "Can neural networks always be trained? On the boundaries of deep learning "
+  abstract: "Deep learning has emerged as a competitive new tool in image reconstruction. However, recent results demonstrate such methods are typically highly unstable – tiny, almost undetectable perturbations cause severe artefacts in the reconstruction, a major concern in practice. This is paradoxical given the existence of stable state-of-the-art methods for these problems. Thus, approximation theoretical results non-constructively imply the existence of stable and accurate neural networks. Hence the fundamental question: Can we explicitly construct/train stable and accurate neural networks for image reconstruction? I will discuss two results in this direction. The first is a negative result, saying such constructions are in general impossible, even given access to the solutions of common optimisation algorithms such as basis pursuit. The second is a positive result, saying that under sparsity assumptions, such neural networks can be constructed. These neural networks are stable and theoretically competitive with state-of-the-art results from other methods. Numerical examples of competitive performance are also provided. "
+  url: "https://www.maths.cam.ac.uk/postgrad/cca/people/mjc249.html"
+
 - speaker: "Gui-Song Xia"
   date: Nov. 29th, 2018
   time: 10h30-11h30
@@ -33,7 +42,7 @@
   title: "Smoothing / Regularization Techniques for Probabilistic and Structured Classification"
   abstract: "In this talk, I will present how smoothing / regularization techniques can be used to turn a prediction function that outputs a hard decision (e.g top-scoring class or top-scoring sequence) into a differentiable \"soft\" decision with a probabilistic perspective. I will present a novel principled loss family to learn such \"soft\" prediction functions from training data. In addition, I will show how to use them as a layer in a neural network trained end-to-end by backpropagation. Finally, I will present  experimental results on natural language processing applications such as named entity recognition, dependency parsing and machine translation. <br> Joint work with Vlad Niculae, André Martins, Claire Cardie, Arthur Mensch <br> The talk will be a condensed overview of the following papers: <br> [1] https://arxiv.org/abs/1802.04223 (ICML 2018) <br> [2] https://arxiv.org/abs/1802.03676 (ICML 2018) <br> [3] https://arxiv.org/abs/1805.09717 (arXiv preprint)"
   url: "http://mblondel.org/"
-  
+
 - speaker: "Alberto Bietti"
   date: June 8th, 2018
   time: 11h-12h
@@ -60,9 +69,9 @@
   title: "Riemannian Geometry for Computational Anatomy"
   abstract: "How can one do statistics on datasets deprived of a suitable (0,+,*) algebraic structure?
   Can we compute the mean and PCA of a population of 3D meshes while guaranteeing the preservation of each shape's topology?<br>
-  
+
   A Riemannian structure on a dataset (i.e. a collection of local euclidean metrics) is the most general tool allowing us to speak of \"angles\" and \"continuous straight paths\" between samples. Focusing on the case of 3D meshes endowed with a tearing-adverse structure, we will show that Riemannian priors can be enforced through the use of a generic 5-line program: the Hamiltonian shooting routine.<br>
-  
+
   As automatic differentiation libraries now relieve us from the hassle of computing our metrics' derivatives, this talk may help you to consider using Riemannian manifolds in situations where linear models are too limited. "
   url: "http://www.math.ens.fr/~feydy/"
 
@@ -73,7 +82,7 @@
   affiliation: "ENS, LPT"
   title: "Compositional Representations in Restricted Boltzmann Machines: theory and applications."
   abstract: "Restricted Boltzmann Machines (RBM) form a family of probability distributions simple yet powerful for modeling high-dimensional, complex data sets. Besides learning a generative model, they also extract features, producing a graded and distributed representation of data. However, not all variants of RBM perform equally well, and little theoretical arguments exist for these empirical observations. By analyzing an ensemble of RBMs with random weights using statistical physics tools, we characterize the structural conditions (statistics of weights, choice of non-linearity…) allowing the emergence of such efficient representations.
-  
+
   Lastly, we present a new application of RBMs: the analysis of protein sequences alignments. We show that RBMs extract high-order patterns of coevolution that arise from the structural and functional constraints of the protein family. These patterns can be recombined to generate artificial protein sequences with prescribed chemical properties."
   url: "https://www.lpt.ens.fr/?page=membre&id=708"
 
@@ -86,7 +95,7 @@
   abstract: "Quantum memories are integral to the realization of quantum information networks and quantum information processing. A promising platform is gradient echo memory (GEM) in cold atomic systems with demonstrated efficiencies of ~=87%. We demonstrate the first application of a deep learning algorithm to a cold atomic system in order to increase the optical depth (OD) of our atomic trap and thus increase memory efficiency. We demonstrate an improvement in OD from 530 +- 8 to 970 +- 20 by performing an optimization over 63 experimental parameters. We also observe a physical change in the atomic cloud corresponding to the spatial distribution of the atom cloud and apply the optimization to the GEM protocol."
   url: "https://physics.anu.edu.au/people/profile.php?ID=1984&tab=available_projects"
 
- 
+
 
 - speaker: "Marine Le Morvan"
   date: Mar. 16th, 2018
@@ -128,7 +137,7 @@
   algorithm to compute exact solutions to some particular (computationally
   tractable) instances of such problems (such as in phase retrieval and
   matrix completion).
-  
+
   The work of Shor, Nesterov, Parrilo and Lasserre brought semidefinite
   programming to another level by introducing hierarchies of semidefinite
   programs. In those hierarchies, an original polynomial optimization
