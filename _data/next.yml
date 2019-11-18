@@ -1,23 +1,10 @@
 
 
 - speaker: "Yue M. Lu"
-  date: Sept. 17th, 2019
-  time: 12h00-13h00
-  room: "CONF IV (physic dpt, Rue Lhomond)"
-  affiliation: "Toyota Technological Institute at Chicago"
-  url: "https://ttic.uchicago.edu/~nati/"
-  title: "Optimization's Hidden Gift to Learning: Implicit Regularization"
-  abstract: "It is becoming increasingly clear that implicit regularization
-  afforded by the optimization algorithms play a central role in machine
-  learning, and especially so when using large, deep, neural networks.
-  We have a good understanding of the implicit regularization afforded
-  by stochastic approximation algorithms, such as SGD, for convex problem,
-  and we understand and can characterize the implicit bias of
-  different algorithms, and can design algorithms with specific biases.
-  But in this talk I will focus on implicit biases of local search algorithms
-  for non-convex underdetermined problem, such as deep networks.
-  In an effort to uncover the implicit biases of gradient-based optimization
-  of neural networks, which holds the key to their empirical success, I will discuss recent
-  work on implicit regularization for matrix factorization, linear convolutional networks,
-  and two-layer ReLU networks, as well as a general bottom-up understanding
-  on implicit regularization in terms of optimization geometry."
+  date: Nov. 26th, 2019
+  time: 12h15-13h15
+  room: "Salle Jean Jaures (29 Rue d’Ulm)"
+  affiliation: "John A. Paulson School of Engineering and Applied Sciences, Harvard University"
+  url: "https://lu.seas.harvard.edu/"
+  title: "Exploiting the Blessings of Dimensionality in Big Data"
+  abstract: "The massive datasets being compiled by our society present new challenges and opportunities to the field of signal and information processing. The increasing dimensionality of modern datasets offers many benefits. In particular, the very high-dimensional settings allow one to develop and use powerful asymptotic methods in probability theory and statistical physics to obtain precise characterizations that would otherwise be intractable in moderate dimensions. In this talk, I will present recent work where such blessings of dimensionality are exploited. In particular, I will show (1) the exact characterization of a widely-used spectral method for nonconvex statistical estimation; (2) the fundamental limits of solving the phase retrieval problem via linear programming; and (3) how to use scaling and mean-field limits to analyze nonconvex optimization algorithms for high-dimensional inference and learning. In these problems, asymptotic methods not only clarify some of the fascinating phenomena that emerge with high-dimensional data, they also lead to optimal designs that significantly outperform heuristic choices commonly used in practice."
