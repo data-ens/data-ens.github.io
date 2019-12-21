@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Laplace Postdoc Chair in Data Science"
+title: "Laplace Postdoctoral Chair in Data Science"
 description: "Postdoctoral Program"
 header-img: "img/ens3.png"
 ---
