@@ -5,7 +5,7 @@
   affiliation: "John A. Paulson School of Engineering and Applied Sciences, Harvard University"
   url: "https://lu.seas.harvard.edu/"
   title: "Exploiting the Blessings of Dimensionality in Big Data"
-  abstract: "The massive datasets being compiled by our society present new challenges and opportunities to the field of signal"
+  abstract: "The massive datasets being compiled by our society present new challenges and opportunities to the field of signal and information processing. The increasing dimensionality of modern datasets offers many benefits. In particular, the very high-dimensional settings allow one to develop and use powerful asymptotic methods in probability theory and statistical physics to obtain precise characterizations that would otherwise be intractable in moderate dimensions. In this talk, I will present recent work where such blessings of dimensionality are exploited. In particular, I will show (1) the exact characterization of a widely-used spectral method for nonconvex statistical estimation; (2) the fundamental limits of solving the phase retrieval problem via linear programming; and (3) how to use scaling and mean-field limits to analyze nonconvex optimization algorithms for high-dimensional inference and learning. In these problems, asymptotic methods not only clarify some of the fascinating phenomena that emerge with high-dimensional data, they also lead to optimal designs that significantly outperform heuristic choices commonly used in practice."
   
 - speaker: "Jean-Remi King"
   date: June 11th, 2019
