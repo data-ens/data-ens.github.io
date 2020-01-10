@@ -1,4 +1,16 @@
-- speaker: "Matthew Colbrook"
+- speaker: "Carlo Lucibello"
+  date: Oct. 23rd, 2019
+  time: 15h00-16h00
+  room: "Salle Cartan, -2 floor of Rataud Building (45 rue d'Ulm, 4th floor)"
+  affiliation: "Bocconi University"
+  title: "Approximate Survey Propagation for High-Dimensional Estimation"
+  abstract: "In  Generalized Linear Estimation (GLE) problems, we seek to reconstruct a signal that is observed through a linear transform, possibly followed by a component-wise, nonlinear and noisy operation.
+  In the Bayesian optimal setting, where the statistical properties of the generative process are perfectly known, Approximate Message Passing (AMP) is known to achieve optimal performance for GLE in terms of reconstruction error. However, its performance can significantly degrade whenever the model assumed for inference differs from the true posterior distribution, a situation frequently encountered in practice.
+  Approximate Survey Propagation (ASP) is a message passing algorithm rooted in the statistical physics of glassy systems that shows the potential to address some of these shortcomings while adding little computational complexity.
+  We will substantiate this claim by analyzing the performance of ASP in two archetypical settings: maximum likelihood estimation in the phase retrieval problem and L0 based reconstruction in compressed sensing. "
+  url: "http://didattica.unibocconi.eu/mypage/index.php?IdUte=202443&cognome=LUCIBELLO&nome=CARLO&urlBackMy="
+  
+  - speaker: "Matthew Colbrook"
   date: May 10th, 2019
   time: 11h00-12h00
   room: "W, DMA, ENS (45 rue d'Ulm, 4th floor)"
