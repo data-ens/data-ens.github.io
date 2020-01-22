@@ -2,7 +2,7 @@
 - speaker: "Stefano Sarao Mannelli"
   date: January 29th, 2020
   time: 11h00-12h00
-  room: "Salle L382/L384, 24 rue Lhomond"
+  room: "L382/L384, 24 rue Lhomond"
   affiliation: "IPhT, CEA Saclay"
   title: "Tutorial on Gradient Descent Dynamics"
   abstract: "Descent algorithms, such as (noisy) gradient descent (GD), are ubiquitously used in optimization. While the behaviour of GD optimization under a convex cost function is well understood, the same cannot be said in the non-convex setting. In fact, GD often deceives common intuition and finds deep minima in complex landscapes. So far the theoretical understanding trudge along behind the empirical successes of descent algorithms. In the context of machine learning, we have seen progresses in the seminal works of Saad and Solla in the 90s. The authors focused on the online setting, where the learning dynamics can count on new examples at every update, avoiding the issues of correlation between updates. Although we have seen progresses in this direction over the years, we are still far from a complete understanding. In particular, the problem of the full-batch (noisy) GD, where the dataset is fixed and correlations appear, is open for most of the problems.
