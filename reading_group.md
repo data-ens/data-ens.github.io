@@ -32,4 +32,4 @@ Contact
 ===================
 
 
-If you want to subscribe to (or unsubscribe from) the mailing list please send a mail to [Nicolas Keriven (ENS)](mailto:nicolas.keriven@ens.fr).
+If you want to subscribe to (or unsubscribe from) the mailing list please send a mail to [Luca Saglietti](mailto:luca.saglietti@gmail.com).
