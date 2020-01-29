@@ -1,10 +1,31 @@
-
-
-- speaker: "Yue M. Lu"
-  date: Nov. 26th, 2019
-  time: 12h15-13h15
+- speaker: "Martin Weigt"
+  date: Dec. 6th, 2020
+  time: 12h00-13h00
   room: "Jean Jaures (29 Rue d’Ulm)"
-  affiliation: "John A. Paulson School of Engineering and Applied Sciences, Harvard University"
-  url: "https://lu.seas.harvard.edu/"
-  title: "Exploiting the Blessings of Dimensionality in Big Data"
-  abstract: "The massive datasets being compiled by our society present new challenges and opportunities to the field of signal and information processing. The increasing dimensionality of modern datasets offers many benefits. In particular, the very high-dimensional settings allow one to develop and use powerful asymptotic methods in probability theory and statistical physics to obtain precise characterizations that would otherwise be intractable in moderate dimensions. In this talk, I will present recent work where such blessings of dimensionality are exploited. In particular, I will show (1) the exact characterization of a widely-used spectral method for nonconvex statistical estimation; (2) the fundamental limits of solving the phase retrieval problem via linear programming; and (3) how to use scaling and mean-field limits to analyze nonconvex optimization algorithms for high-dimensional inference and learning. In these problems, asymptotic methods not only clarify some of the fascinating phenomena that emerge with high-dimensional data, they also lead to optimal designs that significantly outperform heuristic choices commonly used in practice."
+  affiliation: "Sorbonne Université"
+  url: "https://sites.google.com/site/martinweigt/"
+  title: "From generative models of protein sequences to evolution-guided protein design"
+  abstract: "Thanks to the sequencing revolution in biology, protein sequence
+databases have been growing exponentially over the last years.
+Data-driven computational approaches are becoming more and more
+popular in exploring this increasing data richness. In my talk, I will
+show that global statistical modeling approaches, like (Restricted)
+Boltzmann Machines are able to accurately capture the natural
+variability of amino-acid sequences across entire families of
+evolutionarily related but distantly diverged proteins. We show that
+these models are biologically interpretable; they allow to extract
+information about the three-dimensional protein structure and about
+protein-protein interactions from sequence data, and they unveil
+distributed sequence motifs. These models can be seen as highly
+performant generative models - they capture the natural sequence
+variability far beyond fitted quantities, and they allow to design
+novel, fully functional proteins by simple MCMC sampling approaches.
+<br/>
+<i>Bio:</i> Martin Weigt is Professor for Computational Biology at Sorbonne
+Université, Paris, where he heads the research team "Statistical
+Genomics and Biological Physics" within the Laboratory of
+Computational and Quantitative Biology (LCQB). Combining his original
+scientific background in theoretical and statistical physics with the
+exploding data richness in genomics and biology, he is particularly
+interested in the development of data-driven modeling approaches for
+biological sequences, their evolution and de novo design."
