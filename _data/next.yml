@@ -1,31 +1,8 @@
-- speaker: "Martin Weigt"
-  date: Feb. 6th, 2020
+- speaker: "Michael Biehl"
+  date: Feb. 27th, 2020
   time: 12h00-13h00
   room: "Jean Jaures (29 Rue d’Ulm)"
-  affiliation: "Sorbonne Université"
-  url: "https://sites.google.com/site/martinweigt/"
-  title: "From generative models of protein sequences to evolution-guided protein design"
-  abstract: "Thanks to the sequencing revolution in biology, protein sequence
-databases have been growing exponentially over the last years.
-Data-driven computational approaches are becoming more and more
-popular in exploring this increasing data richness. In my talk, I will
-show that global statistical modeling approaches, like (Restricted)
-Boltzmann Machines are able to accurately capture the natural
-variability of amino-acid sequences across entire families of
-evolutionarily related but distantly diverged proteins. We show that
-these models are biologically interpretable; they allow to extract
-information about the three-dimensional protein structure and about
-protein-protein interactions from sequence data, and they unveil
-distributed sequence motifs. These models can be seen as highly
-performant generative models - they capture the natural sequence
-variability far beyond fitted quantities, and they allow to design
-novel, fully functional proteins by simple MCMC sampling approaches.
-<br/>
-<i>Bio:</i> Martin Weigt is Professor for Computational Biology at Sorbonne
-Université, Paris, where he heads the research team 'Statistical
-Genomics and Biological Physics' within the Laboratory of
-Computational and Quantitative Biology (LCQB). Combining his original
-scientific background in theoretical and statistical physics with the
-exploding data richness in genomics and biology, he is particularly
-interested in the development of data-driven modeling approaches for
-biological sequences, their evolution and de novo design."
+  affiliation: "University of Groningen"
+  url: "http://www.cs.rug.nl/~biehl/"
+  title: "Prototype-Based Classifiers and Their Application in the Life Science"
+  abstract: "This talk briefly reviews important aspects of prototype based systems in the context of supervised learning. A key issue is the choice of an appropriate distance or similarity measure for the task at hand. The powerful framework of relevance learning will be discussed, in which parameterized distance measures are adapted together with the prototypes in the same data-driven training process. Example applications in the bio-medical domain are presented in order to illustrate the concept: (I) the classification of adrenocortical tumors using steroid metabolomics data, (II) the early diagnosis of rheumatoid arthritis based on cytokine expression and (III) the detection and discrimination of neuro- degenerative diseases in 3D brain images."
