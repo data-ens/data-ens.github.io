@@ -21,9 +21,9 @@ The main activities of the chair are:
 Scientific Committee
 ============================
 
-- [Florent Krzakala](http://krzakala.org/) (ENS and UPMC): director ;
-- [Stéphane Mallat](https://www.di.ens.fr/~mallat/) (ENS) ;
-- [Pascal Mamassian](http://mamassian.free.fr/free/Home.html) (CNRS and ENS) ;
+- [Giulio Biroli](https://www.ipht.fr/Pisp/giulio.biroli/cours.php) (ENS): director ;
+- [Stéphane Mallat](https://www.di.ens.fr/~mallat/) (Collège de France) ;
+- [Christian Lorenzi](https://lsp.dec.ens.fr/fr/member/646/christian-lorenzi) (CNRS and ENS) ;
 - [Gabriel Peyré](http://gpeyre.github.io/) (CNRS and ENS).
 
 Supported by
