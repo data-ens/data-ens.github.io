@@ -1,3 +1,12 @@
+- speaker: "Michael Biehl"
+  date: Feb. 27th, 2020
+  time: 12h00-13h00
+  room: "Jean Jaures (29 Rue d’Ulm)"
+  affiliation: "University of Groningen"
+  url: "http://www.cs.rug.nl/~biehl/"
+  title: "Prototype-Based Classifiers and Their Application in the Life Science"
+  abstract: "This talk briefly reviews important aspects of prototype based systems in the context of supervised learning. A key issue is the choice of an appropriate distance or similarity measure for the task at hand. The powerful framework of relevance learning will be discussed, in which parameterized distance measures are adapted together with the prototypes in the same data-driven training process. Example applications in the bio-medical domain are presented in order to illustrate the concept: (I) the classification of adrenocortical tumors using steroid metabolomics data, (II) the early diagnosis of rheumatoid arthritis based on cytokine expression and (III) the detection and discrimination of neuro- degenerative diseases in 3D brain images."
+  
 - speaker: "Martin Weigt"
   date: Feb. 6th, 2020
   time: 12h00-13h00
