@@ -31,8 +31,9 @@ Organizers
 
 The colloquium is organized by:
 
-- [Florent Krzakala](http://krzakala.org/) (ENS and UPMC),
-- [Stéphane Mallat](https://www.di.ens.fr/~mallat/) (ENS),
+- [Giulio Biroli](https://www.ipht.fr/Pisp/giulio.biroli/cours.php) (ENS): director ;
+- [Stéphane Mallat](https://www.di.ens.fr/~mallat/) (Collège de France) ;
+- [Christian Lorenzi](https://lsp.dec.ens.fr/fr/member/646/christian-lorenzi) (CNRS and ENS) ;
 - [Gabriel Peyré](http://gpeyre.github.io/) (CNRS and ENS).
 
 
