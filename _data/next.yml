@@ -1,10 +1,10 @@
 
 
-- speaker: "Andrew Saxe"
-  date: Oct. 8th, 2020
+- speaker: "Alice Guionnet"
+  date: Nov. 12th, 2020
   time: 11h00-12h00
-  room: "online (<a href='https://global.gotomeeting.com/join/121255757'>link here</a>)"
-  affiliation: "Oxford"
-  url: "https://www.saxelab.org/"
-  title: "The Neural Race Reduction: Dynamics of learning in ReLU networks"
-  abstract: "What is the relationship between task geometry, network architecture, and emergent learning dynamics in nonlinear deep networks? I will describe the neural race reduction, which describes gradient descent learning dynamics in ReLU networks in the feature learning regime for a subset of nonlinear tasks. The reduction reveals a bias in gradient descent dynamics toward exploiting shared structure and abstraction where possible. I will then turn to an fMRI experiment testing predicted representational geometry in a nonlinear context-dependent task. These results provide a new window into learning dynamics in nonlinear neural networks."
+  room: "online (<a href='https://global.gotomeeting.com/join/939398613'>link here</a>)"
+  affiliation: "ENS Lyon"
+  url: "http://perso.ens-lyon.fr/aguionne/"
+  title: "Rare events in Random Matrices and Applications"
+  abstract: "In this talk, I will discuss  recent developements in the  theory of large deviations  in random matrix theory and their applications in statistical learning."

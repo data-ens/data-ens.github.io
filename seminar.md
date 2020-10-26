@@ -13,8 +13,6 @@ backgrounds (including for instance mathematics, computer science,
 physics, chemistry and neuroscience) but a common interest in dealing
 with large scale or high dimensional data.
 
-The seminar takes place, unless exceptionally noted, on the first Tuesday of each month at 12h00 at the [Physics Department of ENS, 24 rue Lhomond](http://www.phys.ens.fr/spip.php?article579&lang=en), in room CONF IV (2nd floor).
-
 The colloquium is followed by an open buffet around which participants can meet and discuss collaborations.
 
 These seminars are made possible by the support of the [CFM-ENS
