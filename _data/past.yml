@@ -1,4 +1,11 @@
-
+- speaker: "Alice Guionnet"
+  date: Nov. 12th, 2020
+  time: 11h00-12h00
+  room: "online (<a href='https://global.gotomeeting.com/join/939398613'>link here</a>)"
+  affiliation: "ENS Lyon"
+  url: "http://perso.ens-lyon.fr/aguionne/"
+  title: "Rare events in Random Matrices and Applications"
+  abstract: "In this talk, I will discuss  recent developements in the  theory of large deviations  in random matrix theory and their applications in statistical learning."
 
 - speaker: "Andrew Saxe"
   date: Oct. 8th, 2020
