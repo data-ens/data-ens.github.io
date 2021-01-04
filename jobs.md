@@ -11,13 +11,13 @@ The Laplace chair aims at recruiting outstanding candidates in all areas of data
 
 Appointments will be for two years with a possible extension for a third year. Salary is competitive and the positions are endowed with travel resources.
 
-The successful candidate will carry out research in ENS, with reduced teaching duties which will be adapted. Applications should consist of a single file and be send before January 31th, 2020 [by email to laplacechair2020@gmail.com](mailto:laplacechair2020@gmail.com).
+The successful candidate will carry out research in ENS, with reduced teaching duties which will be adapted. Applications should consist of a single file and be send before January 31th, 2021 [by email to laplacechair2021@gmail.com](mailto:laplacechair2021@gmail.com).
 
 - A cover letter ;
 - A complete CV including a list of publications ;
 - A research statement (maximum 4 pages in A4 format) taking into account possible interactions with research groups/faculty within the different department of ENS ([Computer science](https://www.di.ens.fr/), [Cognitive sciences](https://cognition.ens.fr/fr), [Mathematics](http://www.math.ens.fr/), [Physics](http://www.phys.ens.fr/?lang=en),[Biology](http://www.biologie.ens.fr/depbio/?lang=fr), etc.) ;
-- Three letters of recommendation from senior scientists, to be sent directly [by email to laplacechair2020@gmail.com](mailto:laplacechair2020@gmail.com).
+- Three letters of recommendation from senior scientists, to be sent directly [by email to laplacechair2021@gmail.com](mailto:laplacechair2021@gmail.com).
 
 More information about the scientific environnement of this program can be found on the webpage of the [Data Science Chair of the ENS at https://data-ens.github.io](https://data-ens.github.io).
 
-Short-listed candidates will be invited for an interview (video conference) in February 2020.
+Short-listed candidates will be invited for an interview (video conference) in February 2021.
