@@ -15,6 +15,7 @@
   url: "https://www.saxelab.org/"
   title: "The Neural Race Reduction: Dynamics of learning in ReLU networks"
   abstract: "What is the relationship between task geometry, network architecture, and emergent learning dynamics in nonlinear deep networks? I will describe the neural race reduction, which describes gradient descent learning dynamics in ReLU networks in the feature learning regime for a subset of nonlinear tasks. The reduction reveals a bias in gradient descent dynamics toward exploiting shared structure and abstraction where possible. I will then turn to an fMRI experiment testing predicted representational geometry in a nonlinear context-dependent task. These results provide a new window into learning dynamics in nonlinear neural networks."
+  video: https://savoirs.ens.fr/expose.php?id=3899
 
 - speaker: "Michael Biehl"
   date: Feb. 27th, 2020
