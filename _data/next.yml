@@ -1,8 +1,8 @@
-- speaker: "Eero Simoncelli"
-  date: Jan. 14th, 2021
-  time: 16h00-17h00
-  room: "online (<a href='https://global.gotomeeting.com/join/445141173'>link here</a>)"
-  affiliation: "New York University"
-  url: "http://www.cns.nyu.edu/~eero/"
-  title: "Sampling and Solving Linear Inverse Problems Using the Prior Implicit in a Denoiser"
-  abstract: "Prior probability models are a central component of many image processing problems, but density estimation is a notoriously difficult problem for high dimensional signals such as photographic images. Deep neural networks have provided impressive solutions for problems such as denoising, which implicitly rely on a prior probability model of natural images. I’ll describe our progress in understanding and using this implicit prior. We rely on a little-known statistical result due to Miyasawa (1961), who showed that the least-squares solution for removing additive Gaussian noise can be written directly in terms of the gradient of the log of the noisy signal density. We use this fact to develop a stochastic coarse-to-fine gradient ascent procedure for drawing high-probability samples from the implicit prior embedded within a CNN trained to perform blind (i.e., unknown noise level) least-squares denoising. A generalization of this algorithm to constrained sampling provides a method for using the implicit prior to solve any linear inverse problem, with no additional training. We demonstrate this general form of transfer learning in multiple applications, using the same algorithm to produce high-quality solutions for deblurring, super-resolution, inpainting, and compressive sensing. Joint work with Zahra Kadkhodaie, Sreyas Mohan, and Carlos Fernandez-Granda"
+- speaker: "Josh McDermott"
+  date: Thurs. Feb. 18th, 2021
+  time: 16h00-17h00 (Paris time)
+  room: "online (<a href='https://global.gotomeeting.com/join/285394885'>link here</a>)"
+  affiliation: "MIT"
+  url: "https://web.mit.edu/jhm/www/"
+  title: "New Models of Human Hearing via Machine Learning"
+  abstract: "Humans derive an enormous amount of information about the world from sound. This talk will describe our recent efforts to leverage contemporary machine learning to build neural network models of our auditory abilities and their instantiation in the brain. Such models have enabled a qualitative step forward in our ability to account for real-world auditory behavior and illuminate function within auditory cortex. But they also exhibit substantial discrepancies with human perceptual systems that we are currently trying to understand and eliminate. "
