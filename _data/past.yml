@@ -1,3 +1,12 @@
+- speaker: "Josh McDermott"
+  date: Thurs. Feb. 18th, 2021
+  time: 16h00-17h00 (Paris time)
+  room: "online (<a href='https://global.gotomeeting.com/join/285394885'>link here</a>)"
+  affiliation: "MIT"
+  url: "https://web.mit.edu/jhm/www/"
+  title: "New Models of Human Hearing via Machine Learning"
+  abstract: "Humans derive an enormous amount of information about the world from sound. This talk will describe our recent efforts to leverage contemporary machine learning to build neural network models of our auditory abilities and their instantiation in the brain. Such models have enabled a qualitative step forward in our ability to account for real-world auditory behavior and illuminate function within auditory cortex. But they also exhibit substantial discrepancies with human perceptual systems that we are currently trying to understand and eliminate. "
+
 - speaker: "Eero Simoncelli"
   date: Jan. 14th, 2021
   time: 16h00-17h00
