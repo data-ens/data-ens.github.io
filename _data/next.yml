@@ -7,6 +7,8 @@
   affiliation: "MIT"
   url: "https://www.carolineuhler.com/"
   title: "Causality and Autoencoders in the Light of Drug Repurposing for COVID-19"
+  slides: nothing
+  video: nothing
   abstract: "Massive data collection holds the promise of a better understanding of complex phenomena and ultimately, of better decisions. An exciting opportunity in this regard stems from the growing availability of perturbation / intervention data (genomics, advertisement, education, etc.). In order to obtain mechanistic insights from such data, a major challenge is the integration of different data modalities (video, audio, interventional, observational, etc.). Using genomics as an example, I will first discuss our recent work on coupling autoencoders to integrate and translate between data of very different modalities such as sequencing and imaging. I will then present a framework for integrating observational and interventional data for causal structure discovery and characterize the causal relationships that are identifiable from such data. We then provide a theoretical analysis of autoencoders linking overparameterization to memorization. In particular, I will characterize the implicit bias of overparameterized autoencoders and show that such networks trained using standard optimization methods implement associative memory. We end by demonstrating how these ideas can be applied for drug repurposing in the current COVID-19 crisis."
 
 - speaker: "Giuseppe Carleo"
@@ -17,3 +19,5 @@
   url: "https://people.epfl.ch/giuseppe.carleo"
   title: "TBA"
   abstract: "TBA"
+  slides: nothing
+  video: nothing

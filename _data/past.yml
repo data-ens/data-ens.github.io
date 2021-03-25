@@ -6,6 +6,8 @@
   url: "https://web.mit.edu/jhm/www/"
   title: "New Models of Human Hearing via Machine Learning"
   abstract: "Humans derive an enormous amount of information about the world from sound. This talk will describe our recent efforts to leverage contemporary machine learning to build neural network models of our auditory abilities and their instantiation in the brain. Such models have enabled a qualitative step forward in our ability to account for real-world auditory behavior and illuminate function within auditory cortex. But they also exhibit substantial discrepancies with human perceptual systems that we are currently trying to understand and eliminate. "
+  slides: nothing
+  video: nothing
 
 - speaker: "Eero Simoncelli"
   date: Jan. 14th, 2021
@@ -15,6 +17,8 @@
   url: "http://www.cns.nyu.edu/~eero/"
   title: "Sampling and Solving Linear Inverse Problems Using the Prior Implicit in a Denoiser"
   abstract: "Prior probability models are a central component of many image processing problems, but density estimation is a notoriously difficult problem for high dimensional signals such as photographic images. Deep neural networks have provided impressive solutions for problems such as denoising, which implicitly rely on a prior probability model of natural images. I’ll describe our progress in understanding and using this implicit prior. We rely on a little-known statistical result due to Miyasawa (1961), who showed that the least-squares solution for removing additive Gaussian noise can be written directly in terms of the gradient of the log of the noisy signal density. We use this fact to develop a stochastic coarse-to-fine gradient ascent procedure for drawing high-probability samples from the implicit prior embedded within a CNN trained to perform blind (i.e., unknown noise level) least-squares denoising. A generalization of this algorithm to constrained sampling provides a method for using the implicit prior to solve any linear inverse problem, with no additional training. We demonstrate this general form of transfer learning in multiple applications, using the same algorithm to produce high-quality solutions for deblurring, super-resolution, inpainting, and compressive sensing. Joint work with Zahra Kadkhodaie, Sreyas Mohan, and Carlos Fernandez-Granda"
+  slides: nothing
+  video: nothing
 
 - speaker: "Alice Guionnet"
   date: Nov. 12th, 2020
@@ -24,6 +28,8 @@
   url: "http://perso.ens-lyon.fr/aguionne/"
   title: "Rare events in Random Matrices and Applications"
   abstract: "In this talk, I will discuss  recent developements in the  theory of large deviations  in random matrix theory and their applications in statistical learning."
+  slides: nothing
+  video: nothing
 
 - speaker: "Andrew Saxe"
   date: Oct. 8th, 2020
@@ -34,6 +40,7 @@
   title: "The Neural Race Reduction: Dynamics of learning in ReLU networks"
   abstract: "What is the relationship between task geometry, network architecture, and emergent learning dynamics in nonlinear deep networks? I will describe the neural race reduction, which describes gradient descent learning dynamics in ReLU networks in the feature learning regime for a subset of nonlinear tasks. The reduction reveals a bias in gradient descent dynamics toward exploiting shared structure and abstraction where possible. I will then turn to an fMRI experiment testing predicted representational geometry in a nonlinear context-dependent task. These results provide a new window into learning dynamics in nonlinear neural networks."
   video: https://savoirs.ens.fr/expose.php?id=3899
+  slides: nothing
 
 - speaker: "Michael Biehl"
   date: Feb. 27th, 2020
@@ -43,6 +50,8 @@
   url: "http://www.cs.rug.nl/~biehl/"
   title: "Prototype-Based Classifiers and Their Application in the Life Science"
   abstract: "This talk briefly reviews important aspects of prototype based systems in the context of supervised learning. A key issue is the choice of an appropriate distance or similarity measure for the task at hand. The powerful framework of relevance learning will be discussed, in which parameterized distance measures are adapted together with the prototypes in the same data-driven training process. Example applications in the bio-medical domain are presented in order to illustrate the concept: (I) the classification of adrenocortical tumors using steroid metabolomics data, (II) the early diagnosis of rheumatoid arthritis based on cytokine expression and (III) the detection and discrimination of neuro- degenerative diseases in 3D brain images."
+  slides: nothing
+  video: nothing
 
 - speaker: "Martin Weigt"
   date: Feb. 6th, 2020
@@ -50,6 +59,8 @@
   room: "Jean Jaures (29 Rue d’Ulm)"
   affiliation: "Sorbonne Université"
   url: "https://sites.google.com/site/martinweigt/"
+  slides: nothing
+  video: nothing
   title: "From generative models of protein sequences to evolution-guided protein design"
   abstract: "Thanks to the sequencing revolution in biology, protein sequence
 databases have been growing exponentially over the last years.
@@ -83,6 +94,8 @@ biological sequences, their evolution and de novo design."
   affiliation: "John A. Paulson School of Engineering and Applied Sciences, Harvard University"
   url: "https://lu.seas.harvard.edu/"
   title: "Exploiting the Blessings of Dimensionality in Big Data"
+  slides: nothing
+  video: nothing
   abstract: "The massive datasets being compiled by our society present new challenges and opportunities to the field of signal and information processing. The increasing dimensionality of modern datasets offers many benefits. In particular, the very high-dimensional settings allow one to develop and use powerful asymptotic methods in probability theory and statistical physics to obtain precise characterizations that would otherwise be intractable in moderate dimensions. In this talk, I will present recent work where such blessings of dimensionality are exploited. In particular, I will show (1) the exact characterization of a widely-used spectral method for nonconvex statistical estimation; (2) the fundamental limits of solving the phase retrieval problem via linear programming; and (3) how to use scaling and mean-field limits to analyze nonconvex optimization algorithms for high-dimensional inference and learning. In these problems, asymptotic methods not only clarify some of the fascinating phenomena that emerge with high-dimensional data, they also lead to optimal designs that significantly outperform heuristic choices commonly used in practice."
 
 - speaker: "Jean-Remi King"
@@ -92,6 +105,8 @@ biological sequences, their evolution and de novo design."
   affiliation: "ENS"
   url: "https://sites.google.com/site/jeanremiking/"
   title: "From brains to algorithms: parsing neuroimaging data to infer the computational architecture of human cognition."
+  slides: nothing
+  video: nothing
   abstract: "While machine learning is an autonomous research field, a number of historical (e.g. artificial neural networks) as well as more recent computational strategies (e.g. attentional gating) have been influenced by cognitive and neuroscientific findings. To what extent can cognitive neuroscience continue to guide and intersect with the development of machine learning? To highlight potential directions to this major issue, I will present three studies that investigate the computational organization of brain processing. For each of them, I will show that we can use non-invasive neuroimaging techniques with high temporal precision to parse the computational stages of visual processing in the healthy human brain. Our results show that the raw visual input that bombards our retina is progressively transformed into meaningful representations by a hierarchical algorithm, distributed both over time and space. Finally, I will briefly show how these methods can now be applied to understand language processing in humans, and thus help us tackle the modern challenges of machine learning."
 
 - speaker: "Matthieu Husson"
@@ -101,6 +116,8 @@ biological sequences, their evolution and de novo design."
   affiliation: "Observatoire de Paris"
   url: "https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson"
   title: "Artificial Intelligence and data sets from the history of astronomy: new opportunities?"
+  slides: nothing
+  video: nothing
   abstract: "The recent development of Digital Humanities and the exigences of publishing research data besides research results transform the availability of historical sources, along with the means to analyse, edit, and relate them.
   In this context, DISHAS relies on a network of international projects in Chinese, Sanskrit, Arabic, Latin and Hebrew sources in the history of astral sciences and aims at providing tools to edit and analyse the different types of sources usually treated in the field, namely, prose and versified texts, iconography and technical/geometrical diagrams, and astronomical tables.
   This leads to the progressive constitution of precisely described datasets that are a promissing field of experimentation for data sciences in general and artificial intelligence in particular. In this presentation we want to introduce our datasets, their characteristics and historical meaning. We will discuss different lines of research that could converge toward data sciences topics, with a specific focus on the understanding of historical actors computations from the analysis of the numerical tables they produced."
@@ -112,6 +129,8 @@ biological sequences, their evolution and de novo design."
   affiliation: "ENS"
   url: "http://chatonsky.net/"
   title: "Art and artificial imagination"
+  slides: nothing
+  video: nothing
   abstract: "Contemporary media are fascinated by the applications of neural networks in creation. They regularly highlight moments when artificial artistic productions have \"deceived\" humans and \"replaced\" artists. All this seems to confirm that AI would have conquered up to the last ramparts of humanity: interiority and creativity.  The dialogue between an art historian, invested in the digital humanities, and an artist who is himself familiar with deep learning, invites us to change our perspective. A historical and materialistic approach makes it possible to better distinguish what is new in the apparent emergence of AI in the arts and to better grasp the implicit conception of art that develops there: the change of purpose of a new technique, which generates surprising results, is also a way of thwarting the assumptions of the contemporary economic system. It suggest criticism of it as much as it opens up new possibilities.
     <div align=\"center\">
     <img src=\"../img/mue3.jpg\" width=\"60%\" alt=\"Grégory Chatonsky, Mue (2018), Image générée en BIGGAN\">
@@ -129,6 +148,8 @@ biological sequences, their evolution and de novo design."
   affiliation: "EHESS"
   url: "http://www.lscp.net/persons/dupoux/"
   title: "Towards developmental AI"
+  slides: nothing
+  video: nothing
   abstract: "Even though current machine learning techniques yield systems that achieve parity with humans on several high level tasks, the learning algorithms themselves are orders of magnitude less data efficient than those used by humans, as evidenced by the speed and resilience with which infants learn language and common sense. I review some of our recent attempts to reverse engineer such abilities in the area of unsupervised or weakly supervised learning of speech representations, the segmentation of speech terms, and the learning the laws of intuitive physics by observation of videos. I argue that a triple effort in data collection, algorithm development and fine grained human/machine comparisons is needed to uncover these developmental algorithms.
 
   <b>Bio:</b>E. Dupoux is full professor at the Ecole des Hautes Etudes en Sciences Sociales (EHESS), and directs the Cognitive Machine Learning team at the Ecole Normale Supérieure (ENS) in Paris and INRIA (www.syntheticlearner.com).  His education includes a PhD in Cognitive Science (EHESS), a MA in Computer Science (Orsay University) and a BA in Applied Mathematics (Pierre & Marie Curie University, ENS). His research mixes developmental science, cognitive neuroscience, and machine learning, with a focus on the reverse engineering of infant language and cognitive development using unsupervised or weakly supervised learning. He is the recipient of an Advanced ERC grant, the organizer of the Zero Ressource Speech Challenge (2015, 2017), the Intuitive Physics Benchmark (2017) and led in 2017 a Jelinek Summer Workshop at CMU on multimodal speech learning. He has authored 150 articles in various peer reviewed outlets."
@@ -139,6 +160,8 @@ biological sequences, their evolution and de novo design."
   room: "Salle Jean Jaurès, 29 rue d’Ulm (sous-sol)"
   affiliation: "New York University"
   url: "https://cims.nyu.edu/~bruna/"
+  slides: nothing
+  video: nothing
   title: "Learning Graph Inverse Problems with Neural Networks"
   abstract: "Inverse Problems on graphs encompass many areas of physics, algorithms and statistics,
 and are a confluence of powerful methods, ranging from computational harmonic analysis and high-dimensional statistics to statistical physics.
@@ -156,6 +179,8 @@ extension of Convolutional Neural Networks on graphs. I will present recent work
   affiliation: "Université Paris Saclay"
   url: "https://www.universite-paris-saclay.fr/en/recherche/portraits-de-chercheurs/balazs-kegl"
   title: "Machine learning in scientific workflows"
+  slides: nothing
+  video: nothing
   abstract: "I will describe our contributions to scientific ML workflow building and optimization, which we have carried out within the Paris-Saclay Center for Data Science. I will start by mapping out the different use cases of machine learning in sciences (data collection, inference, simulation, hypothesis generation). Then I will detail some of the particular challenges of ML/science collaborations and the solutions we built to solve these challenges. I will briefly describe the open code submission RAMP tool that we built for collaborative prototyping, detail some of the workflows (e.g., the Higgs boson discovery pipeline, El Nino forecasting, detecting Mars craters on satellite images), and present results on rapidly optimizing machine learning solutions.<br>
 
   <b>Bio:</b> Balázs Kégl received the Ph.D. degree in computer science from Concordia University, Montreal, in 1999. From January to December 2000 he was a Postdoctoral Fellow at the Department of Mathematics and Statistics at Queen's University, Kingston, Canada, receiving NSERC Postdoctoral Fellowship. He was in the Department of Computer Science and Operations Research at the University of Montreal, as an Assistant Professor from 2001 to 2006. Since 2006 he has been a research scientist in the Linear Accelerator Laboratory of the CNRS. He has published more than hundred papers on unsupervised and supervised learning (principal curves, intrinsic dimensionality estimation, boosting), large-scale Bayesian inference and optimization, and on various applications ranging from music and image processing to systems biology and experimental physics. At his current position he has been the head of the AppStat team working on machine learning and statistical inference problems motivated by applications in high-energy particle and astroparticle physics. Since 2014, he has been the head of the Center for Data Science of the University of Paris Saclay. In 2016 he is co-created the RAMP (www.ramp.studio)."
@@ -167,6 +192,8 @@ extension of Convolutional Neural Networks on graphs. I will present recent work
   room: "CONF IV (physic dpt, 24 Rue Lhomond, 2nd floor)"
   affiliation: "Berkeley"
   url: "https://www.stat.berkeley.edu/~epurdom/"
+  slides: nothing
+  video: nothing
   title: "Statistical challenges in analyzing high-dimensional experiments in molecular biology"
   abstract: "Molecular biology experiments frequently measure tens of thousands of measurements on a cell in order to obtain a full snapshot of the activity of the cell. Analysis of these experiments requires the integration of statistical techniques to the unique biological aspects of these experiments. In this talk I will give an overview the data challenges faced in these settings, as well as highlight how the solutions to these problems compare to those used in the wider data science community. I will illustrate these points with examples from my research in developing methods for the analysis of the measurements of mRNA abundance of cells."
 
@@ -177,6 +204,8 @@ extension of Convolutional Neural Networks on graphs. I will present recent work
   affiliation: "INRIA"
   url: "http://www-sop.inria.fr/members/Maureen.Clerc/index.php"
   title: "Brain-computer interfaces: two concurrent learning problems"
+  slides: nothing
+  video: nothing
   abstract: "Brain-Computer Interfaces (BCI) are systems which provide real-time interaction through brain activity, bypassing traditional interfaces such as keyboard or mouse. A target application of BCI is to restore mobility or autonomy to severely disabled patients. In BCI, new modes of perception and interaction come into play, which users must learn, just as infants learn to explore their sensorimotor system. Feedback is central in this learning. From the point of view of the system, features must be extracted from the brain activity, and translated into commands. Feature extraction and classification issues, are important components of a BCI. Adaptive learning strategies, because of the high variability of the brain signals. Moreoever, additional markers may also be extracted to modulate the system's behavior. It is for instance possible to monitor the brain's reaction to the BCI outcome.  In this talk I will present some of the current machine learning methods which are used in BCI, and the adaptation of BCI to users' needs. "
 
 - speaker: "Rémi Monasson"
@@ -185,6 +214,8 @@ extension of Convolutional Neural Networks on graphs. I will present recent work
   room: "CONF IV (physic dpt, Rue Lhomond)"
   affiliation: "ENS"
   url: "http://www.phys.ens.fr/~monasson/"
+  slides: nothing
+  video: nothing
   title: "Searching for interaction networks in proteins: from statistical physics
 to machine learning, and back"
   abstract: "Over the last century, statistical physics was extremely successful to
@@ -205,6 +236,8 @@ statistical mechanics."
   time: 11h30-13h00
   room: "CONF IV (physic dpt, Rue Lhomond)"
   affiliation: "CEA"
+  slides: nothing
+  video: nothing
   url: "http://ece.duke.edu/faculty/guillermo-sapiro"
   title: "Cosmostatistics: Tackling Big Data from the Sky"
   abstract: "Since the dawn of time, humans have been wondering about their place in the Universe.  Over the past century, advances in modern physics, technology and engineering, along with the unique possibilities offered by space missions, have opened new windows to explore the cosmos. All-sky surveys, with observations across the entire electromagnetic spectrum, are the best strategy to fully understand and model the Universe in detail. Major upcoming research facilities, such as the Large Synoptic Survey Telescope (LSST), the Square Kilometer Array (SKA) and the Euclid space telescopes will provide key elements to addressing this challenge, by producing high quality data of petabyte volumes. These surveys prove to be a major 'big data' challenge, which require the development of innovative statistical methods essential both for the data analysis and their physical interpretation. I will present some highlights of this methodology and more specifically show how novel techniques of sparsity and compressed sensing open new perspectives in analysing cosmological data. These enable us to answer fundamental questions about the nature of our Universe with impressive accuracy."
@@ -216,6 +249,8 @@ statistical mechanics."
   affiliation: "Duke University"
   url: "http://ece.duke.edu/faculty/guillermo-sapiro"
   title: "Learning to Succeed while Teaching to Fail: Privacy in Closed Machine Learning Systems"
+  slides: nothing
+  video: nothing
   abstract: "Security, privacy, and fairness have become critical in the era of data science and machine learning. More and more we see that achieving universally secure, private, and fair systems is practically impossible. We have seen for example how generative adversarial networks can be used to learn about the expected private training data; how the exploitation of additional data can reveal private information in the original one; and how what seems as unrelated features can teach us about each other. Confronted with this challenge, in this work we open a new line of research, where the security, privacy, and fairness is in a closed environment. The goal is to ensure that a given entity, trusted to infer certain information with our data, is blocked from inferring protected information from it. For example, a hospital might be allowed to produce diagnosis on the patient (the positive task), without being able to infer the irrelevant gender of the subject (negative task). Similarly, a company can guarantee they internally are not using the provided data for any undesired task, an important goal that is not contradicting the virtually impossible challenge of blocking everybody from the undesired task. We design a system that learns to perform the positive task while simultaneously being trained to fail at the negative one, and illustrate this with challenging cases where the positive task is actually harder than the negative one. The particular framework and examples open to door to security, privacy, and fairness in very important closed scenarios. Joint work with Jure Sokolic and Miguel Rodrigues."
 
 
@@ -224,8 +259,9 @@ statistical mechanics."
   time: 12h
   room: "Salle Jean Jaurès, 29 rue d’Ulm (sous-sol)"
   affiliation: "ENS"
-  video: nothing
   url: "http://iec-lnc.ens.fr/group-for-neural-theory/members-34/faculty-in-alphabetical-order/deneve-sophie/?lang=en"
+  slides: nothing
+  video: nothing
   title: "The brain as an optimal efficient adaptive learner"
   abstract: "Understanding how neural networks can learn to predict and represent time-varying variables is a fundamental challenge in neuroscience. A key complication is the error credit assignment problem: how to determine the local contribution of each synapse to the network’s global output error. Previous work on solving this problem in spiking networks has either been restricted to linear systems (Boerlin, Machens, Deneve 2013; Bourdoukan, Deneve 2015), or to non-local learning rules (FORCE learning; Sussillo, Abbott 2009; Thalmeier et al 2016). Here we show how to learn arbitrary non-linear dynamical systems with local learning rules. Our approach uses tools from adaptive control theory, and applies them to a spiking network with nonlinear dendrites. The spiking network receives its own tracking error through feedback and learns to approximate a nonlinear dynamical systems using a purely local learning rule. The local credit assignment problem is solved because each neuron effectively contains partial information of the error made by the entire network. This error is captured by the tightly balanced voltage of each neuron. Here, a balanced network effectively acts as a predictive auto-encoder that learns to cancel its own error and feedback. The resulting network is extremely efficient in terms of the number of spikes fired, and it is highly robust to noise and neural elimination. It produces asynchronous, irregular spiking activity matching the Poisson-like neural variability observed experimentally. Our framework has several important implications. It suggests that a global learning problem, like learning to implement complex nonlinear dynamics from examples, can be solved with local rules, as long as output errors are fed back as driving input signals. Our approach inherits the analytical tools of control theory such as convergence and stability theorems that can now be applied to learning in spiking networks."
 
@@ -236,6 +272,7 @@ statistical mechanics."
   affiliation: "INRIA"
   video: http://savoirs.ens.fr/expose.php?id=2937
   url: "http://www.di.ens.fr/~fbach/"
+  slides: nothing
   title: "Beyond stochastic gradient descent for large-scale machine learning"
   abstract: "Many machine learning and signal processing problems are traditionally cast as convex optimization problems. A common difficulty in solving these problems is the size of the data, where there are many observations ('large n') and each of these is large ('large p'). In this setting, online algorithms such as stochastic gradient descent which pass over the data only once, are usually preferred over batch algorithms, which require multiple passes over the data. In this talk, I will show how the smoothness of loss functions may be used to design novel algorithms with improved behavior, both in theory and practice: in the ideal infinite-data setting, an efficient novel Newton-based stochastic approximation algorithm leads to a convergence rate of O(1/n) without strong convexity assumptions, while in the practical finite-data setting, an appropriate combination of batch and online algorithms leads to unexpected behaviors, such as a linear convergence rate for strongly convex problems, with an iteration cost similar to stochastic gradient descent. (joint work with Nicolas Le Roux, Eric Moulines and Mark Schmidt)."
 
@@ -245,6 +282,7 @@ statistical mechanics."
   room: "CONF IV (physic dpt)"
   affiliation: "CNRS and Paris-Sud"
   video: nothing
+  slides: nothing
   url: "http://www.yann-ollivier.org/"
   title: "Intelligence artificielle et raisonnement inductif : de la théorie de
 l'information aux réseaux de neurones artificiels"
@@ -280,6 +318,7 @@ l'information aux réseaux de neurones artificiels"
   video: http://savoirs.ens.fr/expose.php?id=2848
   url: "https://team.inria.fr/parietal/bertrand-thirions-page/"
   title: "A big data approach towards functional brain mapping"
+  slides: nothing
   abstract: "Functional neuroimaging offers a unique view on brain functional organization, which is broadly characterized by two features: the   segregation of brain territories into functionally specialized regions, and the integration of these regions into networks of coherent
   activity.  Functional Magnetic Resonance Imaging yields a spatially resolved, yet noisy view of this organization. It also yields useful measurements of brain integrity to compare populations and characterize brain diseases.
   To extract information from these data, a popular strategy is to rely on  supervised classification settings, where signal patterns are used to predict the experimental task performed by the subject during a given  experiment, which is a proxy for the cognitive or mental state of this  subject.  In this talk we will describe how the reliance on large data copora changes the picture: it boosts the generalizability of the results and provides meaningful priors to analyze novel datasets.  We will discuss the challenges posed by these analytic approaches, with an emphasis on computational aspects, and how the use of non-labelled data can be further used to improve the model learned from brain  activity data."
@@ -313,4 +352,5 @@ l'information aux réseaux de neurones artificiels"
   affiliation: Mines ParisTech, Institut Curie and ENS
   url: "http://cbio.mines-paristech.fr/~jvert/"
   title: "Can Big Data cure Cancer?"
+  slides: nothing
   abstract: "As the cost and throughput of genomic technologies reach a point where DNA sequencing is close to becoming a routine exam at the clinics, there is a lot of hope that treatments of diseases like cancer can dramatically improve by a digital revolution in medicine, where smart algorithms analyze « big medical data »  to help doctors take the best decisions for each patient or to suggest new directions for drug development. While artificial intelligence and machine learning-based algorithms have indeed had a great impact on many data-rich fields, their application on genomic data raises numerous computational and mathematical challenges that I will illustrate on a few examples of patient stratification or drug response prediction from genomic data."
