@@ -1,3 +1,14 @@
+- speaker: "Caroline Uhler"
+  date: Thurs. March 25th, 2021
+  time: 16h00-17h00 (Paris time)
+  room: "online (<a href='https://global.gotomeeting.com/join/466861917'>link here</a>)"
+  affiliation: "MIT"
+  url: "https://www.carolineuhler.com/"
+  title: "Causality and Autoencoders in the Light of Drug Repurposing for COVID-19"
+  slides: nothing
+  video: nothing
+  abstract: "Massive data collection holds the promise of a better understanding of complex phenomena and ultimately, of better decisions. An exciting opportunity in this regard stems from the growing availability of perturbation / intervention data (genomics, advertisement, education, etc.). In order to obtain mechanistic insights from such data, a major challenge is the integration of different data modalities (video, audio, interventional, observational, etc.). Using genomics as an example, I will first discuss our recent work on coupling autoencoders to integrate and translate between data of very different modalities such as sequencing and imaging. I will then present a framework for integrating observational and interventional data for causal structure discovery and characterize the causal relationships that are identifiable from such data. We then provide a theoretical analysis of autoencoders linking overparameterization to memorization. In particular, I will characterize the implicit bias of overparameterized autoencoders and show that such networks trained using standard optimization methods implement associative memory. We end by demonstrating how these ideas can be applied for drug repurposing in the current COVID-19 crisis."
+
 - speaker: "Josh McDermott"
   date: Thurs. Feb. 18th, 2021
   time: 16h00-17h00 (Paris time)
