@@ -29,7 +29,7 @@
   title: "Sampling and Solving Linear Inverse Problems Using the Prior Implicit in a Denoiser"
   abstract: "Prior probability models are a central component of many image processing problems, but density estimation is a notoriously difficult problem for high dimensional signals such as photographic images. Deep neural networks have provided impressive solutions for problems such as denoising, which implicitly rely on a prior probability model of natural images. I’ll describe our progress in understanding and using this implicit prior. We rely on a little-known statistical result due to Miyasawa (1961), who showed that the least-squares solution for removing additive Gaussian noise can be written directly in terms of the gradient of the log of the noisy signal density. We use this fact to develop a stochastic coarse-to-fine gradient ascent procedure for drawing high-probability samples from the implicit prior embedded within a CNN trained to perform blind (i.e., unknown noise level) least-squares denoising. A generalization of this algorithm to constrained sampling provides a method for using the implicit prior to solve any linear inverse problem, with no additional training. We demonstrate this general form of transfer learning in multiple applications, using the same algorithm to produce high-quality solutions for deblurring, super-resolution, inpainting, and compressive sensing. Joint work with Zahra Kadkhodaie, Sreyas Mohan, and Carlos Fernandez-Granda"
   slides: nothing
-  video: nothing
+  video: https://savoirs.ens.fr/expose.php?id=3934
 
 - speaker: "Alice Guionnet"
   date: Nov. 12th, 2020
@@ -62,7 +62,7 @@
   title: "Prototype-Based Classifiers and Their Application in the Life Science"
   abstract: "This talk briefly reviews important aspects of prototype based systems in the context of supervised learning. A key issue is the choice of an appropriate distance or similarity measure for the task at hand. The powerful framework of relevance learning will be discussed, in which parameterized distance measures are adapted together with the prototypes in the same data-driven training process. Example applications in the bio-medical domain are presented in order to illustrate the concept: (I) the classification of adrenocortical tumors using steroid metabolomics data, (II) the early diagnosis of rheumatoid arthritis based on cytokine expression and (III) the detection and discrimination of neuro- degenerative diseases in 3D brain images."
   slides: nothing
-  video: nothing
+  video: https://savoirs.ens.fr/expose.php?id=3859
 
 - speaker: "Martin Weigt"
   date: Feb. 6th, 2020
@@ -71,7 +71,7 @@
   affiliation: "Sorbonne Université"
   url: "https://sites.google.com/site/martinweigt/"
   slides: nothing
-  video: nothing
+  video: https://www.youtube.com/watch?v=M31bTO1EOcI
   title: "From generative models of protein sequences to evolution-guided protein design"
   abstract: "Thanks to the sequencing revolution in biology, protein sequence
 databases have been growing exponentially over the last years.
@@ -117,7 +117,7 @@ biological sequences, their evolution and de novo design."
   url: "https://sites.google.com/site/jeanremiking/"
   title: "From brains to algorithms: parsing neuroimaging data to infer the computational architecture of human cognition."
   slides: nothing
-  video: nothing
+  video: https://www.youtube.com/watch?v=Zhu3hSpxLgU
   abstract: "While machine learning is an autonomous research field, a number of historical (e.g. artificial neural networks) as well as more recent computational strategies (e.g. attentional gating) have been influenced by cognitive and neuroscientific findings. To what extent can cognitive neuroscience continue to guide and intersect with the development of machine learning? To highlight potential directions to this major issue, I will present three studies that investigate the computational organization of brain processing. For each of them, I will show that we can use non-invasive neuroimaging techniques with high temporal precision to parse the computational stages of visual processing in the healthy human brain. Our results show that the raw visual input that bombards our retina is progressively transformed into meaningful representations by a hierarchical algorithm, distributed both over time and space. Finally, I will briefly show how these methods can now be applied to understand language processing in humans, and thus help us tackle the modern challenges of machine learning."
 
 - speaker: "Matthieu Husson"
@@ -160,7 +160,7 @@ biological sequences, their evolution and de novo design."
   url: "http://www.lscp.net/persons/dupoux/"
   title: "Towards developmental AI"
   slides: nothing
-  video: nothing
+  video: https://www.youtube.com/watch?v=s9EeozO6fp8
   abstract: "Even though current machine learning techniques yield systems that achieve parity with humans on several high level tasks, the learning algorithms themselves are orders of magnitude less data efficient than those used by humans, as evidenced by the speed and resilience with which infants learn language and common sense. I review some of our recent attempts to reverse engineer such abilities in the area of unsupervised or weakly supervised learning of speech representations, the segmentation of speech terms, and the learning the laws of intuitive physics by observation of videos. I argue that a triple effort in data collection, algorithm development and fine grained human/machine comparisons is needed to uncover these developmental algorithms.
 
   <b>Bio:</b>E. Dupoux is full professor at the Ecole des Hautes Etudes en Sciences Sociales (EHESS), and directs the Cognitive Machine Learning team at the Ecole Normale Supérieure (ENS) in Paris and INRIA (www.syntheticlearner.com).  His education includes a PhD in Cognitive Science (EHESS), a MA in Computer Science (Orsay University) and a BA in Applied Mathematics (Pierre & Marie Curie University, ENS). His research mixes developmental science, cognitive neuroscience, and machine learning, with a focus on the reverse engineering of infant language and cognitive development using unsupervised or weakly supervised learning. He is the recipient of an Advanced ERC grant, the organizer of the Zero Ressource Speech Challenge (2015, 2017), the Intuitive Physics Benchmark (2017) and led in 2017 a Jelinek Summer Workshop at CMU on multimodal speech learning. He has authored 150 articles in various peer reviewed outlets."
