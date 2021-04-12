@@ -329,6 +329,7 @@ l'information aux réseaux de neurones artificiels"
   video: http://savoirs.ens.fr/expose.php?id=2848
   url: "https://team.inria.fr/parietal/bertrand-thirions-page/"
   title: "A big data approach towards functional brain mapping"
+  video: nothing
   slides: nothing
   abstract: "Functional neuroimaging offers a unique view on brain functional organization, which is broadly characterized by two features: the   segregation of brain territories into functionally specialized regions, and the integration of these regions into networks of coherent
   activity.  Functional Magnetic Resonance Imaging yields a spatially resolved, yet noisy view of this organization. It also yields useful measurements of brain integrity to compare populations and characterize brain diseases.
@@ -340,6 +341,7 @@ l'information aux réseaux de neurones artificiels"
   room: "Salle Jaurès, 29 rue d'Ulm"
   affiliation: "-"
   video: nothing
+  slides: nothing
   url: "../conference-2016-12-15"
   title: "Inauguration of the Chair CFM-ENS"
   abstract: "The ENS and CFM organizes the inauguration conference of the Chair 'Modèles et Sciences des Données'."
@@ -348,6 +350,8 @@ l'information aux réseaux de neurones artificiels"
 - speaker: "Cristopher Moore"
   date: Nov. 8th, 2016
   time: 12h-14h
+  video: nothing
+  slides: nothing
   room: "CONF IV (physic dpt)"
   affiliation: Santa Fe Institute
   video: http://savoirs.ens.fr/expose.php?id=2696
