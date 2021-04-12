@@ -172,7 +172,7 @@ biological sequences, their evolution and de novo design."
   affiliation: "New York University"
   url: "https://cims.nyu.edu/~bruna/"
   slides: nothing
-  video: nothing
+  video: https://www.youtube.com/watch?v=zuzO9JqeWN0
   title: "Learning Graph Inverse Problems with Neural Networks"
   abstract: "Inverse Problems on graphs encompass many areas of physics, algorithms and statistics,
 and are a confluence of powerful methods, ranging from computational harmonic analysis and high-dimensional statistics to statistical physics.
@@ -204,7 +204,7 @@ extension of Convolutional Neural Networks on graphs. I will present recent work
   affiliation: "Berkeley"
   url: "https://www.stat.berkeley.edu/~epurdom/"
   slides: nothing
-  video: nothing
+  video: https://www.youtube.com/watch?v=pk7ZHK-W884
   title: "Statistical challenges in analyzing high-dimensional experiments in molecular biology"
   abstract: "Molecular biology experiments frequently measure tens of thousands of measurements on a cell in order to obtain a full snapshot of the activity of the cell. Analysis of these experiments requires the integration of statistical techniques to the unique biological aspects of these experiments. In this talk I will give an overview the data challenges faced in these settings, as well as highlight how the solutions to these problems compare to those used in the wider data science community. I will illustrate these points with examples from my research in developing methods for the analysis of the measurements of mRNA abundance of cells."
 
@@ -216,7 +216,7 @@ extension of Convolutional Neural Networks on graphs. I will present recent work
   url: "http://www-sop.inria.fr/members/Maureen.Clerc/index.php"
   title: "Brain-computer interfaces: two concurrent learning problems"
   slides: nothing
-  video: nothing
+  video: https://www.youtube.com/watch?v=5gOhNV6woT0
   abstract: "Brain-Computer Interfaces (BCI) are systems which provide real-time interaction through brain activity, bypassing traditional interfaces such as keyboard or mouse. A target application of BCI is to restore mobility or autonomy to severely disabled patients. In BCI, new modes of perception and interaction come into play, which users must learn, just as infants learn to explore their sensorimotor system. Feedback is central in this learning. From the point of view of the system, features must be extracted from the brain activity, and translated into commands. Feature extraction and classification issues, are important components of a BCI. Adaptive learning strategies, because of the high variability of the brain signals. Moreoever, additional markers may also be extracted to modulate the system's behavior. It is for instance possible to monitor the brain's reaction to the BCI outcome.  In this talk I will present some of the current machine learning methods which are used in BCI, and the adaptation of BCI to users' needs. "
 
 - speaker: "Rémi Monasson"
@@ -226,7 +226,7 @@ extension of Convolutional Neural Networks on graphs. I will present recent work
   affiliation: "ENS"
   url: "http://www.phys.ens.fr/~monasson/"
   slides: nothing
-  video: nothing
+  video: https://www.youtube.com/watch?v=u-adZWlEdhE
   title: "Searching for interaction networks in proteins: from statistical physics
 to machine learning, and back"
   abstract: "Over the last century, statistical physics was extremely successful to
@@ -248,7 +248,7 @@ statistical mechanics."
   room: "CONF IV (physic dpt, Rue Lhomond)"
   affiliation: "CEA"
   slides: nothing
-  video: nothing
+  video: https://www.youtube.com/watch?v=iWJ9Qee7X5A
   url: "http://ece.duke.edu/faculty/guillermo-sapiro"
   title: "Cosmostatistics: Tackling Big Data from the Sky"
   abstract: "Since the dawn of time, humans have been wondering about their place in the Universe.  Over the past century, advances in modern physics, technology and engineering, along with the unique possibilities offered by space missions, have opened new windows to explore the cosmos. All-sky surveys, with observations across the entire electromagnetic spectrum, are the best strategy to fully understand and model the Universe in detail. Major upcoming research facilities, such as the Large Synoptic Survey Telescope (LSST), the Square Kilometer Array (SKA) and the Euclid space telescopes will provide key elements to addressing this challenge, by producing high quality data of petabyte volumes. These surveys prove to be a major 'big data' challenge, which require the development of innovative statistical methods essential both for the data analysis and their physical interpretation. I will present some highlights of this methodology and more specifically show how novel techniques of sparsity and compressed sensing open new perspectives in analysing cosmological data. These enable us to answer fundamental questions about the nature of our Universe with impressive accuracy."
@@ -272,7 +272,7 @@ statistical mechanics."
   affiliation: "ENS"
   url: "http://iec-lnc.ens.fr/group-for-neural-theory/members-34/faculty-in-alphabetical-order/deneve-sophie/?lang=en"
   slides: nothing
-  video: nothing
+  video: https://www.youtube.com/watch?v=41xH-rmHF6g
   title: "The brain as an optimal efficient adaptive learner"
   abstract: "Understanding how neural networks can learn to predict and represent time-varying variables is a fundamental challenge in neuroscience. A key complication is the error credit assignment problem: how to determine the local contribution of each synapse to the network’s global output error. Previous work on solving this problem in spiking networks has either been restricted to linear systems (Boerlin, Machens, Deneve 2013; Bourdoukan, Deneve 2015), or to non-local learning rules (FORCE learning; Sussillo, Abbott 2009; Thalmeier et al 2016). Here we show how to learn arbitrary non-linear dynamical systems with local learning rules. Our approach uses tools from adaptive control theory, and applies them to a spiking network with nonlinear dendrites. The spiking network receives its own tracking error through feedback and learns to approximate a nonlinear dynamical systems using a purely local learning rule. The local credit assignment problem is solved because each neuron effectively contains partial information of the error made by the entire network. This error is captured by the tightly balanced voltage of each neuron. Here, a balanced network effectively acts as a predictive auto-encoder that learns to cancel its own error and feedback. The resulting network is extremely efficient in terms of the number of spikes fired, and it is highly robust to noise and neural elimination. It produces asynchronous, irregular spiking activity matching the Poisson-like neural variability observed experimentally. Our framework has several important implications. It suggests that a global learning problem, like learning to implement complex nonlinear dynamics from examples, can be solved with local rules, as long as output errors are fed back as driving input signals. Our approach inherits the analytical tools of control theory such as convergence and stability theorems that can now be applied to learning in spiking networks."
 
