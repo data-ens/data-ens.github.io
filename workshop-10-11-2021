@@ -1,0 +1,31 @@
+---
+layout: page
+title: "Data Sciences in ENS"
+description: "Random Matrices, Physics and Machine Learning"
+header-img: "img/ens2.png"
+---
+
+The [CFM](https://www.cfm.fr/)-[ENS](http://www.ens.fr) chair "_Modèles et Sciences des Données_" organize a workshop on Data Sciences on November 10th, from 14:00 to 18:00 in the conference room of the [ENS Center for data sciences, 45 rue d'Ulm](http://www.phys.ens.fr/spip.php?article579&lang=en) (Stair B 3rd floor).
+
+
+When
+============================
+
+Wednesday, November 10th 2021, 14:00-18:00.
+
+Where
+============================
+
+Conference room of the [ENS Center for data sciences, 45 rue d'Ulm](http://www.phys.ens.fr/spip.php?article579&lang=en) (Stair B 3rd floor).
+
+Schedule
+============================
+
+
+* 14h00-14h45: [Romain Couillet](http://polaris.imag.fr/romain.couillet/index.html) (Professor at Grenoble-Alps University) Random matrices could steer the dangerous path taken by AI but even that is pointless
+* 14h45-15h20: Marc Potters (Co-CEO and Research Director of Capital Fund Management) Optimal block size in cross-validation: an example form covariance matrix estimation 
+* 15h20-15h45: Maria Refinetti-Stephane d’Ascoli (PhDs students, Laboratoire de Physique and CDS ENS)   
+* 15h45 16h15: Coffee break
+* 16h15-16h50: [Sylvain Gigan](http://www.lkb.upmc.fr/opticalimaging/sylvain-gigan/) (Professor Sorbonne University)
+* 16h50-17h15: Valentia Ros (CNRS reseracher at the Institute for Theoretical Physics CEA) Counting critical points of random landscapes: Kac- Rice formulas and random matrix theory
+* 17h15-17h40: Rudi Morel (PhDs student, Departement d'Informatique and CDS ENS) Time-scale stationary processes for finance and turbulence
