@@ -1,0 +1,10 @@
+I"ó<p>Next seminars:</p>
+
+<p>
+  Thurs. Oct. 21th, 2021, 10h45-11h45 (Paris time), room Amphi Jaures (29 Rue dâ€™Ulm).<br />
+  <a href="https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/">Eric Vanden-Eijnden</a>  (NYU)<br />
+  <b>Title:</b> <i>Machine learning and applied mathematics</i><br />
+  <b>Abstract:</b> The recent success of machine learning suggests that neural networks may be capable of approximating high-dimensional functions with controllably small errors. As a result, they could outperform standard function interpolation methods that have been the workhorses of scientific computing but do not scale well with dimension. In support of this prospect, here I will review what is known about the trainability and accuracy of shallow neural networks, which offer the simplest instance of nonlinear learning  in functional spaces that are fundamentally different from classic approximation spaces. The dynamics of training in these spaces can be analyzed using tools from optimal transport and statistical mechanics, which reveal when and how shallow neural networks can overcome the curse of dimensionality. I will also discuss how scientific computing problem in high-dimension once thought intractable can be revisited through the lens of these results, focusing on applications related to (i) solving Fokker-Planck equations associated with high-dimensional systems displaying metastability and (ii) sampling Boltzmann-Gibbs distributions using generative models to assist MCMC methods.
+  </p>
+
+:ET
