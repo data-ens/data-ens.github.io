@@ -20,4 +20,4 @@ The successful candidate will carry out research in ENS, with reduced teaching d
 
 More information about the scientific environnement of this program can be found on the webpage of the [Data Science Chair of the ENS at https://data-ens.github.io](https://data-ens.github.io).
 
-Short-listed candidates will be invited for an interview (video conference) in January-February 2021.
+Short-listed candidates will be invited for an interview (video conference) in January-February 2022.
