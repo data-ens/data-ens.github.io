@@ -1,3 +1,14 @@
+- speaker: "Brice Ménard"
+  date: Thurs. Dec. 9th, 2021
+  time: 12h-13h, (Paris time)
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "John Hopkins University"
+  url: "https://menard.pha.jhu.edu/"
+  title: "Data science and science with data"
+  abstract: "The young field of Machine learning has changed the ways we interact with data and neural networks have made us appreciate the potential of working with millions of parameters. Interestingly, the vast majority of scientific discoveries today are not based on these new techniques. I will discuss the contrast between these two regimes and I will show how an intermediate approach, i.e. neural network inspired but mathematically defined statistics (scattering and phase harmonic transforms), can provide the long-awaited tools in scientific research. I will illustrate these points using astrophysics as an example."
+  slides: nothing
+  video: nothing
+
 - speaker: "Eric Vanden-Eijnden"
   date: Thurs. Oct. 21th, 2021
   time: 10h45-11h45 (Paris time)
