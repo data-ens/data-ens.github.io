@@ -5,6 +5,6 @@
   affiliation: "New York University"
   url: "https://www.telecom-paris.fr/florence-dalche-buc"
   title: "Effective dynamics and critical scaling for Stochastic Gradient Descent in high dimensions"
-  abstract: "SGD in high dimension is a workhorse for high dimensional statistics and machine learning, but understanding its behavior in high dimensions is not yet a simple task. We study here the limiting “effective” dynamics of some summary statistics for SGD in high dimensions, and find interesting and new regimes, i.e. not the expected one given by the population gradient flow. We find that a new corrector term is needed and that the phase portrait of these dynamics is substantially different from what would be predicted using the classical approach including for simple tasks. (joint work with Reza Gheissari (UC Berkeley) and Aukosh Jagannath (Waterloo))"
+  abstract: "SGD in high dimension is a workhorse for high dimensional statistics and machine learning, but understanding its behavior in high dimensions is not yet a simple task. We study here the limiting 'effective' dynamics of some summary statistics for SGD in high dimensions, and find interesting and new regimes, i.e. not the expected one given by the population gradient flow. We find that a new corrector term is needed and that the phase portrait of these dynamics is substantially different from what would be predicted using the classical approach including for simple tasks. (joint work with Reza Gheissari (UC Berkeley) and Aukosh Jagannath (Waterloo))"
   slides: nothing
   video: nothing
