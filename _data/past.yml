@@ -1,3 +1,14 @@
+- speaker: "Florence d'Alché-Buc"
+  date: Friday April 8th, 2022
+  time: 11h30-12h30, (Paris time)
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "Telecom ParisTech"
+  url: "https://www.telecom-paris.fr/florence-dalche-buc"
+  title: "Learning to predict complex outputs: a kernel view"
+  abstract: "Motivated by prediction tasks such as molecule identification or functional regression, we propose to leverage the notion of kernel to take into account the nature of output variables whether they be discrete structures or functions. This approach boils down to encode output data as vectors of the Reproducing kernel Hilbert Space associated to the so-called output kernel. We present vector-valued kernel machines to implement it and discuss different learning problems linked with the chosen loss function. Eventually large scale approaches can be developed  using low rank approximations of the outputs. We illustrate the framework on graph prediction and infinite task learning."
+  slides: nothing
+  video: nothing
+
 - speaker: "Brice Ménard"
   date: Thurs. Dec. 9th, 2021
   time: 12h-13h, (Paris time)
