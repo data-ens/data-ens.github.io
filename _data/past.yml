@@ -1,3 +1,28 @@
+- speaker: "Chris Wiggins"
+  date: Thursday June 30th, 2022
+  time: 11h00-12h00, (Paris time)
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "New York Times, Columbia"
+  url: "https://en.wikipedia.org/wiki/Chris_Wiggins_(data_scientist)"
+  title: "DS@NYT"
+  abstract: "The Data Science group at The New York Times develops and deploys machine learning solutions to newsroom and business problems.
+Re-framing real-world questions as machine learning tasks requires not only adapting and extending models and algorithms to new or special cases but also sufficient breadth to know the right method for the right challenge.
+I'll first outline how <br/>
+ - unsupervised, <br/>
+ - supervised, and <br/>
+ - reinforcement learning methods <br/>
+are increasingly used in human applications for <br/>
+ - description, <br/>
+ - prediction, and <br/>
+ - prescription, <br/>
+respectively.
+I'll then focus on the 'prescriptive' cases, showing how methods from the reinforcement learning and causal inference literatures can be of direct impact in <br/>
+ - engineering, <br/>
+ - business, and <br/>
+ - decision-making more generally."
+  slides: nothing
+  video: nothing
+
 - speaker: "Gerard Ben Arous"
   date: Thursday May 12th, 2022
   time: 11h30-12h30, (Paris time)
