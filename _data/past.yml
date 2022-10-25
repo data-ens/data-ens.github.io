@@ -1,3 +1,15 @@
+- speaker: "Freddy Bouchet"
+  date: Tuesday October 4 2022
+  time: 11h30-12h30, (Paris time)
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "ENS Lyon"
+  url: "http://perso.ens-lyon.fr/freddy.bouchet/"
+  title: "Probabilistic forecast of extreme heat waves using convolutional neural networks and rare event simulations"
+  abstract: "Understanding extreme events and their probability is key for the study of climate change impacts, risk assessment, adaptation, and the protection of living beings. Extreme heatwaves are, and likely will be in the future, among the deadliest weather events. Forecasting their occurrence probability a few days, weeks, or months in advance is a primary challenge for risk assessment and attribution, but also for fundamental studies about processes, dataset and model validation, and climate change studies. We will demonstrate that deep neural networks can predict the probability of occurrence of long lasting 14-day heatwaves over France, up to 15 days ahead of time for fast dynamical drivers (500 hPa geopotential height fields), and at much longer lead times for slow physical drivers (soil moisture). This forecast is made seamlessly in time and space, for fast hemispheric and slow local drivers. A key scientific message is that training deep neural networks for predicting extreme heatwaves occurs in a regime of drastic lack of data. We suggest that this is likely the case for most other applications of machine learning to large scale atmosphere and climate phenomena. We discuss perspectives for dealing with this lack of data issue, for instance using rare event simulations. Rare event simulations are a very efficient tool to oversample drastically the statistics of rare events. We will discuss the coupling of machine learning approaches, for instance the analogue method, with rare event simulations, and discuss their efficiency and their future interest for climate simulations."
+  slides: nothing
+  video: nothing
+
+
 - speaker: "Chris Wiggins"
   date: Thursday June 30th, 2022
   time: 11h00-12h00, (Paris time)
