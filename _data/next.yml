@@ -1,10 +1,10 @@
-- speaker: "Andrea Liu"
-  date: Thursday 10th of November
+- speaker: "Wolfram Pernice"
+  date: Thursday December 15
   time: 12h45-13h45 (Paris time)
-  room: "Amphi Jaures (29 Rue d'Ulm)"
-  affiliation: "University of Pennsylvania"
-  url: "https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/andrea-liu"
-  title: "Machine Learning Glassy Dynamics"
-  abstract: "The three-dimensional glass transition is an infamous example of an emergent collective phenomenon in many-body systems that is stubbornly resistant to microscopic understanding using traditional statistical physics approaches.  Establishing the connection between microscopic properties and the glass transition requires reducing vast quantities of microscopic information to a few relevant microscopic variables and their distributions. I will demonstrate how machine learning, designed for dimensional reduction, can provide a natural way forward when standard statistical physics tools fail. We have harnessed machine learning to identify a useful microscopic structural quantity for the glass transition, have applied it to simulation and experimental data, and have used it to build a new model for glassy dynamics."
+  room: "Dussane room (45 rue d'Ulm)"
+  affiliation: "University of Münster"
+  url: "https://www.uni-muenster.de/Cells-in-Motion/people/all/pernice-w.php"
+  title: "Computing beyond Moore's law with photonic hardware"
+  abstract: "Conventional computers are organized around a centralized processing architecture, which is well suited to running sequential, procedure-based programs. Such an architecture is inefficient for computational models that are distributed, massively parallel and adaptive, most notably those used for neural networks in artificial intelligence. In these application domains demand for high throughput, low latency and low energy consumption is driving the development of not only new architectures, but also new platforms for information processing. Photonic circuits are emerging as one promising candidate platform and allow for realizing the underlying computing architectures, which process optical signals in analogy to electronic integrated circuits. Therein electrical connections are replaced with photonic waveguides which guide light to desired locations on chip. Through heterogeneous integration, photonic circuits, which are normally passive in their response, are able to display active functionality and thus provide the means to build neuromorphic systems capable of learning and adaptation. In reconfigurable photonic architectures in-memory computing allows for overcoming separation between memory and central processing unit as a route for designing artificial neural networks, which operate entirely in the optical domain."
   slides: nothing
   video: nothing

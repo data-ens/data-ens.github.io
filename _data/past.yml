@@ -1,3 +1,14 @@
+- speaker: "Andrea Liu"
+  date: Thursday 10th of November
+  time: 12h45-13h45 (Paris time)
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "University of Pennsylvania"
+  url: "https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/andrea-liu"
+  title: "Machine Learning Glassy Dynamics"
+  abstract: "The three-dimensional glass transition is an infamous example of an emergent collective phenomenon in many-body systems that is stubbornly resistant to microscopic understanding using traditional statistical physics approaches.  Establishing the connection between microscopic properties and the glass transition requires reducing vast quantities of microscopic information to a few relevant microscopic variables and their distributions. I will demonstrate how machine learning, designed for dimensional reduction, can provide a natural way forward when standard statistical physics tools fail. We have harnessed machine learning to identify a useful microscopic structural quantity for the glass transition, have applied it to simulation and experimental data, and have used it to build a new model for glassy dynamics."
+  slides: nothing
+  video: nothing
+
 - speaker: "Freddy Bouchet"
   date: Tuesday October 4 2022
   time: 11h30-12h30, (Paris time)
