@@ -1,10 +1,10 @@
-- speaker: "Wolfram Pernice"
-  date: Thursday December 15
+- speaker: "Remi Gribonval"
+  date: Thursday 2nd of February 2022
   time: 12h00-13h00 (Paris time)
-  room: "Dussane room (45 rue d'Ulm)"
-  affiliation: "University of Münster"
-  url: "https://www.uni-muenster.de/Cells-in-Motion/people/all/pernice-w.php"
-  title: "Computing beyond Moore's law with photonic hardware"
-  abstract: "Conventional computers are organized around a centralized processing architecture, which is well suited to running sequential, procedure-based programs. Such an architecture is inefficient for computational models that are distributed, massively parallel and adaptive, most notably those used for neural networks in artificial intelligence. In these application domains demand for high throughput, low latency and low energy consumption is driving the development of not only new architectures, but also new platforms for information processing. Photonic circuits are emerging as one promising candidate platform and allow for realizing the underlying computing architectures, which process optical signals in analogy to electronic integrated circuits. Therein electrical connections are replaced with photonic waveguides which guide light to desired locations on chip. Through heterogeneous integration, photonic circuits, which are normally passive in their response, are able to display active functionality and thus provide the means to build neuromorphic systems capable of learning and adaptation. In reconfigurable photonic architectures in-memory computing allows for overcoming separation between memory and central processing unit as a route for designing artificial neural networks, which operate entirely in the optical domain."
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "INRIA"
+  url: "https://people.irisa.fr/Remi.Gribonval/"
+  title: "Rapture of the deep: highs and lows of sparsity in a world of depths"
+  abstract: ""
   slides: nothing
   video: nothing
