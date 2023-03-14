@@ -1,10 +1,10 @@
-- speaker: "Remi Gribonval"
-  date: Thursday 2nd of February 2022
+- speaker: "Thomas Serre"
+  date: March 2023
   time: 12h00-13h00 (Paris time)
   room: "Amphi Jaures (29 Rue d'Ulm)"
-  affiliation: "INRIA"
-  url: "https://people.irisa.fr/Remi.Gribonval/"
-  title: "Rapture of the deep: highs and lows of sparsity in a world of depths"
-  abstract: "Promoting sparse connections in neural networks is natural to control their complexity. Besides, given its thoroughly documented role in inverse problems and variable selection, sparsity also has the potential to give rise to learning mechanisms endowed with certain interpretability guarantees. Through an overview of recent explorations around this theme, I will compare and contrast classical sparse regularization for inverse problems with multilayer sparse regularization. During our journey, I will notably highlight the role of rescaling-invariances in deep parameterizations. In the process we will also be remembered that there is life beyond gradient descent, as illustrated by an algorithm that brings speedups of up to two orders of magnitude when learning certain fast transforms via multilayer sparse factorization."
+  affiliation: "Brown University"
+  url: "https://serre-lab.clps.brown.edu/person/thomas-serre/"
+  title: "Feedforward and feedback processes in visual processing"
+  abstract: "Progress in deep learning has spawned great successes in many engineering applications. As a prime example, convolutional neural networks, a type of feedforward neural networks, are now approaching – and sometimes even surpassing – human accuracy on a variety of visual recognition tasks. In this talk, however, I will show that these neural networks (and recent extensions) exhibit a limited ability to solve seemingly simple visual reasoning problems. Our group has developed a computational neuroscience model of the feedback circuitry found in the visual cortex. The model was  constrained by the anatomy and physiology of the visual cortex and shown to account for diverse visual illusions – providing computational evidence for a novel canonical circuit that is shared across visual modalities. I will show that this computational neuroscience model can be turned into a modern end-to-end trainable deep recurrent network architecture that addresses some of the shortcomings exhibited by state-of-the-art feedforward networks for visual reasoning. This suggests that neuroscience may contribute powerful new ideas and approaches to computer science and artificial intelligence."
   slides: nothing
   video: nothing

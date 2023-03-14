@@ -1,3 +1,14 @@
+- speaker: "Remi Gribonval"
+  date: Thursday 2nd of February 2022
+  time: 12h00-13h00 (Paris time)
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "INRIA"
+  url: "https://people.irisa.fr/Remi.Gribonval/"
+  title: "Rapture of the deep: highs and lows of sparsity in a world of depths"
+  abstract: "Promoting sparse connections in neural networks is natural to control their complexity. Besides, given its thoroughly documented role in inverse problems and variable selection, sparsity also has the potential to give rise to learning mechanisms endowed with certain interpretability guarantees. Through an overview of recent explorations around this theme, I will compare and contrast classical sparse regularization for inverse problems with multilayer sparse regularization. During our journey, I will notably highlight the role of rescaling-invariances in deep parameterizations. In the process we will also be remembered that there is life beyond gradient descent, as illustrated by an algorithm that brings speedups of up to two orders of magnitude when learning certain fast transforms via multilayer sparse factorization."
+  slides: nothing
+  video: nothing
+
 - speaker: "Wolfram Pernice"
   date: Thursday December 15 2022
   time: 12h00-13h00 (Paris time)
