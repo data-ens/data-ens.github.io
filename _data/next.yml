@@ -1,10 +1,12 @@
-- speaker: "Julia Kempe"
-  date: 04 October 2023
+- speaker: "Lénaïc Chizat"
+  date: 11 January 2024
   time: 12h30-13h30 (Paris time)
   room: "Amphi Jaures (29 Rue d'Ulm)"
-  affiliation: "NYU Centre for Data Science and Courant Institute"
-  url: "https://cims.nyu.edu/~kempe/"
-  title: "Towards Understanding Adversarial Robustness"
-  abstract: "Adversarial vulnerability of neural nets, their failure under small, imperceptible perturbations, and subsequent techniques to create robust models have attracted significant attention; yet we still lack a full understanding of this phenomenon. In this talk I will introduce the problem and current defenses and then explore how tools and insights coming from statistical physics, in particular certain infinite-width limits of neural nets, help shed more light on the origins of the interplay between models and adversarial perturbations, and how these tools can help us devise strategies to circumvent them."
+  affiliation: "EPFL"
+  url: "https://lchizat.github.io/"
+  title: "Steering Deep Feature Learning with Backward Aligned Feature Updates"
+  abstract: "Deep learning succeeds by doing hierarchical feature learning... but tuning Hyper-Parameters (HP) such as initialization scales, learning rates, etc., only give indirect control over this behavior. In the first part of the talk, I will review some theoretical approaches — often based on complicated infinite width dynamics — that have been proposed to predict feature learning and its relation to HP scalings. I will then propose a simpler and more flexible approach: it uses the alignment between the feature updates and the backward pass as a pivotal notion to predict, measure and control feature learning. Our key finding is that, when alignment holds, the magnitude of feature updates after one SGD step is related to the magnitude of the forward and backward passes by a simple and general formula. As illustration of these ideas, I will discuss the feature learning behavior of ReLU MLPs and ResNets in the infinite width and depth limit.
+
+  Talk based on: https://arxiv.org/abs/2311.18718 (jt work with Praneeth Netrapalli)"
   slides: nothing
   video: nothing

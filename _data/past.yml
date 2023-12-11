@@ -1,3 +1,14 @@
+- speaker: "Julia Kempe"
+  date: 04 October 2023
+  time: 12h30-13h30 (Paris time)
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "NYU Centre for Data Science and Courant Institute"
+  url: "https://cims.nyu.edu/~kempe/"
+  title: "Towards Understanding Adversarial Robustness"
+  abstract: "Adversarial vulnerability of neural nets, their failure under small, imperceptible perturbations, and subsequent techniques to create robust models have attracted significant attention; yet we still lack a full understanding of this phenomenon. In this talk I will introduce the problem and current defenses and then explore how tools and insights coming from statistical physics, in particular certain infinite-width limits of neural nets, help shed more light on the origins of the interplay between models and adversarial perturbations, and how these tools can help us devise strategies to circumvent them."
+  slides: nothing
+  video: nothing
+
 - speaker: "Valentin De Bortoli"
   date: 25 May 2023
   time: 13h00-14h00 (Paris time)
