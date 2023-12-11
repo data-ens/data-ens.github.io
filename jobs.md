@@ -11,8 +11,10 @@ The Laplace chair aims at recruiting outstanding candidates in all areas of data
 
 Appointments will be for two years with a possible extension for a third year. Salary is competitive and the positions are endowed with travel resources.
 
-The successful candidate will carry out research in ENS. Candidates [should apply through AcademicJobsOnline](https://academicjobsonline.org/ajo/jobs/23897).
+The successful candidate will carry out research in ENS. Candidates [should apply through AcademicJobsOnline](https://academicjobsonline.org/ajo/jobs/26795).
+
+The deadline for application is the 20th of January 2024.
 
 More information about the scientific environnement of this program can be found on the webpage of the [Data Science Chair of the ENS at https://data-ens.github.io](https://data-ens.github.io).
 
-Short-listed candidates will be invited for an interview (video conference) in End of January-Beginning of February 2023.
+Short-listed candidates will be invited for an interview (video conference) in End of January-Beginning of February 2024.
