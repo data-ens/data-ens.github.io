@@ -1,12 +1,10 @@
-- speaker: "Noah A. Smith"
-  date: 29 February 2024
+- speaker: "Antoine Georges"
+  date: 21 Mars 2024
   time: 12h00-13h00 (Paris time)
-  room: "Amphi Jaures (29 Rue d'Ulm)"
-  affiliation: "University of Washington"
-  url: "https://nasmith.github.io/"
-  title: "Breaking Down Language Models"
-  abstract: "Language models are the only thing we have in natural language processing that could be considered scientific.”  A collaborator of mine said this more than a decade ago, long before LMs emerged as the single most important technology to come out of our field.  In these exciting times, I seek both to make the study of LMs more scientific, and to make LMs more practically beneficial.  In this talk, I’ll first draw from recent work from my UW group that starts to tackle questions about LMs that could help “break them down” for a deeper scientific understanding.  Then I’ll turn to some developments that try to broaden the usefulness of language models by literally “breaking them down” into more modular components.  Finally, I’ll shamelessly advertise some newly delivered artifacts that I believe will help the research community make progress on both of these directions and more"
-
-  Talk based on:
+  room: "Salle conf IV (Physics Department 24 rue Lhomond)"
+  affiliation: "Collège de France, Paris and Flatiron Institute, New York"
+  url: "https://www.college-de-france.fr/fr/chaire/antoine-georges-physique-de-la-matiere-condensee-chaire-statutaire"
+  title: "Applications of Machine Learning and Neural Networks to Quantum Systems"
+  abstract: "Applications of learning algorithms using deep neural networks have developed considerably recently, often with spectacular results. The physics of complex quantum systems is no exception, with multiple applications that constitute a new field of research. Examples include the representation and optimization of wave functions of quantum systems with large numbers of degrees of freedom (neural quantum states), the determination of wave functions from measurements (quantum tomography), and applications to the electronic structure of materials, such as the determination of more precise density functionals or the learning of force fields to accelerate molecular dynamics simulations. I will survey some of these applications, with an emphasis on neural quantum states. "
   slides: nothing
   video: nothing
