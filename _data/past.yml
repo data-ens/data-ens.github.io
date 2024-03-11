@@ -6,10 +6,8 @@
   url: "https://nasmith.github.io/"
   title: "Breaking Down Language Models"
   abstract: "Language models are the only thing we have in natural language processing that could be considered scientific.”  A collaborator of mine said this more than a decade ago, long before LMs emerged as the single most important technology to come out of our field.  In these exciting times, I seek both to make the study of LMs more scientific, and to make LMs more practically beneficial.  In this talk, I’ll first draw from recent work from my UW group that starts to tackle questions about LMs that could help “break them down” for a deeper scientific understanding.  Then I’ll turn to some developments that try to broaden the usefulness of language models by literally “breaking them down” into more modular components.  Finally, I’ll shamelessly advertise some newly delivered artifacts that I believe will help the research community make progress on both of these directions and more"
-  Talk based on:
   slides: nothing
   video: nothing
-
 
 - speaker: "Julia Kempe"
   date: 04 October 2023
