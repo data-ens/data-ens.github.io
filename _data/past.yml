@@ -1,3 +1,15 @@
+- speaker: "Antoine Georges"
+  date: 21 Mars 2024
+  time: 12h00-13h00 (Paris time)
+  room: "Salle conf IV (Physics Department 24 rue Lhomond)"
+  affiliation: "Collège de France, Paris and Flatiron Institute, New York"
+  url: "https://www.college-de-france.fr/fr/chaire/antoine-georges-physique-de-la-matiere-condensee-chaire-statutaire"
+  title: "Applications of Machine Learning and Neural Networks to Quantum Systems"
+  abstract: "Applications of learning algorithms using deep neural networks have developed considerably recently, often with spectacular results. The physics of complex quantum systems is no exception, with multiple applications that constitute a new field of research. Examples include the representation and optimization of wave functions of quantum systems with large numbers of degrees of freedom (neural quantum states), the determination of wave functions from measurements (quantum tomography), and applications to the electronic structure of materials, such as the determination of more precise density functionals or the learning of force fields to accelerate molecular dynamics simulations. I will survey some of these applications, with an emphasis on neural quantum states. "
+
+  slides: nothing
+  video: nothing
+
 - speaker: "Noah A. Smith"
   date: 29 February 2024
   time: 12h00-13h00 (Paris time)
