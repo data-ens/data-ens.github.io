@@ -1,11 +1,11 @@
-- speaker: "Lénaïc Chizat"
-  date: 04 Avril 2024
-  time: 11h00-12h00 (Paris time)
+- speaker: "Michael Jordan"
+  date: 02 May 2024
+  time: 12h00-12300 (Paris time)
   room: "Amphi Jaures (29 Rue d'Ulm)"
-  affiliation: "EPFL"
-  url: "https://lchizat.github.io/"
-  title: "A Formula for Feature Learning in Large Neural Networks"
-  abstract: "Deep learning succeeds by doing hierarchical feature learning, but tuning hyperparameters such as initialization scales, learning rates, etc., only give indirect control over this behavior. This calls for theoretical tools to predict, measure and control feature learning.  In this talk, we will first review various theoretical advances (signal propagation, infinite width dynamics, etc) that have led to a better understanding of the subtle impact of hyperparameters and architectural choices on the training dynamics. We will then introduce a formula which, in any architecture, quantifies feature learning in terms of more tractable quantities: statistics of the forward and backward passes, and a notion of alignment between the feature updates and the backward pass which captures an important aspect of the nature of feature learning. This formula suggests normalization rules for the forward and backward passes and for the layer-wise learning rates. To illustrate these ideas, I will discuss the feature learning behavior of ReLU MLPs and ResNets in the infinite width and depth limit."
+  affiliation: "UC Berkeley and INRIA Paris"
+  url: "https://people.eecs.berkeley.edu/~jordan/"
+  title: "Collaborative Learning, Information Asymmetries, and Incentives"
+  abstract:
 
   slides: nothing
   video: nothing
