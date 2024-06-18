@@ -1,3 +1,15 @@
+- speaker: "Michael Jordan"
+  date: 02 May 2024
+  time: 12h00-13h00 (Paris time)
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "UC Berkeley and INRIA Paris"
+  url: "https://people.eecs.berkeley.edu/~jordan/"
+  title: "Collaborative Learning, Information Asymmetries, and Incentives"
+  abstract:
+
+  slides: nothing
+  video: nothing
+
 - speaker: "Lénaïc Chizat"
   date: 04 Avril 2024
   time: 11h00-12h00 (Paris time)

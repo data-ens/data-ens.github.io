@@ -1,10 +1,10 @@
-- speaker: "Michael Jordan"
-  date: 02 May 2024
-  time: 12h00-13h00 (Paris time)
+- speaker: "Andrea Montanari"
+  date: 27 June 2024
+  time: 11h30-12h30 (Paris time)
   room: "Amphi Jaures (29 Rue d'Ulm)"
-  affiliation: "UC Berkeley and INRIA Paris"
-  url: "https://people.eecs.berkeley.edu/~jordan/"
-  title: "Collaborative Learning, Information Asymmetries, and Incentives"
+  affiliation: "Stanford University"
+  url: "https://web.stanford.edu/~montanar/"
+  title: "TBC"
   abstract:
 
   slides: nothing
