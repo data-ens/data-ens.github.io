@@ -23,7 +23,7 @@ Scientific Committee
 
 - [Giulio Biroli](https://www.ipht.fr/Pisp/giulio.biroli/cours.php) (ENS): director ;
 - [Stéphane Mallat](https://www.di.ens.fr/~mallat/) (Collège de France) ;
-- [Christian Lorenzi](https://lsp.dec.ens.fr/fr/member/646/christian-lorenzi) (CNRS and ENS) ;
+- [Alex Cayco Gajic](https://sites.google.com/view/caycogajic/home) (ENS) ;
 - [Gabriel Peyré](http://gpeyre.github.io/) (CNRS and ENS).
 
 Supported by
