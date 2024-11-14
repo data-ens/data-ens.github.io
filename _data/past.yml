@@ -1,3 +1,27 @@
+- speaker: "Andrea Montanari"
+  date: 27 June 2024
+  time: 11h30-12h30 (Paris time)
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "Stanford University"
+  url: "https://web.stanford.edu/~montanar/"
+  title: "Statistical phenomena in data selection and data enrichment"
+  abstract: "Building powerful machine learning models and training them has
+become increasingly possible thanks to new architecture, software infrastructure,
+and the prevalence of foundation models.
+
+Nowadays, developing a high-quality dataset for a specific use case of
+interest is often the key bottleneck to successful machine learning applications.
+I will discuss two approaches towards alleviating this problem: selecting highly informative
+samples from a large dataset, and merging a small data sat with surrogate data from
+a different source. In will overview some of the ideas in the literature on
+this problem, and present some findings arising from the analysis of simple statistical
+models.
+[Based on joint work with Germain Kolossov, Ayush Jain, Eren Sasoglu, Pulkit Tandon]"
+
+slides: nothing
+video: nothing
+
+
 - speaker: "Michael Jordan"
   date: 02 May 2024
   time: 12h00-13h00 (Paris time)

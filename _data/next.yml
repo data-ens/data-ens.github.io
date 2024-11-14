@@ -1,22 +1,13 @@
-- speaker: "Andrea Montanari"
-  date: 27 June 2024
-  time: 11h30-12h30 (Paris time)
-  room: "Amphi Jaures (29 Rue d'Ulm)"
-  affiliation: "Stanford University"
-  url: "https://web.stanford.edu/~montanar/"
-  title: "Statistical phenomena in data selection and data enrichment"
-  abstract: "Building powerful machine learning models and training them has
-become increasingly possible thanks to new architecture, software infrastructure,
-and the prevalence of foundation models.
+- speaker: "Luca Biferale"
+  date: 14 November 2024
+  time: 12h45-13h45 (Paris time)
+  room: "Salle de conférence IV (24 Rue Lhomond)"
+  affiliation: "Università degli Studi di Roma Tor Vergata"
+  url: "https://biferale.web.roma2.infn.it/"
+  title: "Data driven tools for Lagrangian Turbulence"
+  abstract: "We present a stochastic method for generating and reconstructing complex signals along the trajectories of small objects passively advected by turbulent flows [1]. Our approach makes use of generative Diffusion Models, a recently proposed data-driven machine learning technique. We show applications to 3D tracers and inertial particles in highly turbulent flows,  2D trajectories from NOAA’s Global Drifter Program and dynamics of charged particles in astrophysics. Supremacy against linear decomposition and Gaussian Regression Processes is analyzed in terms of statistical and point-wise metrics concerning intermittency and multi-scale properties.
 
-Nowadays, developing a high-quality dataset for a specific use case of
-interest is often the key bottleneck to successful machine learning applications.
-I will discuss two approaches towards alleviating this problem: selecting highly informative
-samples from a large dataset, and merging a small data sat with surrogate data from
-a different source. In will overview some of the ideas in the literature on
-this problem, and present some findings arising from the analysis of simple statistical
-models.
-[Based on joint work with Germain Kolossov, Ayush Jain, Eren Sasoglu, Pulkit Tandon]"
+[1] Li, T., Biferale, L., Bonaccorso, F. et al. Synthetic Lagrangian turbulence by generative diffusion models. Nat Mach Intell 6, 393–403 (2024)."
 
   slides: nothing
   video: nothing
