@@ -4,8 +4,8 @@
     room: "Salle Dussane (45 Rue d'Ulm)"
     affiliation: "CNRS, ENS & Meta AI"
     url: "https://kingjr.github.io/"
-    title: "TBC"
-    abstract: "TBC"
+    title: "AI and Neuroscience: in search of the laws of intelligence"
+    abstract: "In just a few years, AI has transitioned from a specialized field into a transformative force for industries and society. Beyond this technical progress, the development of AI provides a new paradigm to understand the intricate workings of the human brain. To illustrate this, we will delve into a series of experiments that systematically compare deep learning algorithms with the human brain in response to images, sounds, and texts. These comparisons consistently show a partial convergence between the representations learned by AI algorithms and those effectively instantiated in our cortex. These results -- largely unexpected by both the AI and Neuroscience communities -- together provide an operational foundation for uncovering the general principles that govern the acquisition, structuring, and manipulation of knowledge in biological and artificial neural networks."
 
     slides: nothing
     video: nothing
