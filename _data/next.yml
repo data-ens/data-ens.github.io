@@ -1,11 +1,27 @@
-  - speaker: "Jean-Rémi King"
-    date: 05 December 2024
+  - speaker: "Michele Ceriotti"
+    date: 23 January 2025
     time: 12h00-13h00 (Paris time)
-    room: "Salle Dussane (45 Rue d'Ulm)"
-    affiliation: "CNRS, ENS & Meta AI"
-    url: "https://kingjr.github.io/"
-    title: "AI and Neuroscience: in search of the laws of intelligence"
-    abstract: "In just a few years, AI has transitioned from a specialized field into a transformative force for industries and society. Beyond this technical progress, the development of AI provides a new paradigm to understand the intricate workings of the human brain. To illustrate this, we will delve into a series of experiments that systematically compare deep learning algorithms with the human brain in response to images, sounds, and texts. These comparisons consistently show a partial convergence between the representations learned by AI algorithms and those effectively instantiated in our cortex. These results -- largely unexpected by both the AI and Neuroscience communities -- together provide an operational foundation for uncovering the general principles that govern the acquisition, structuring, and manipulation of knowledge in biological and artificial neural networks."
+    room: "Amphi Jaures (29 Rue d'Ulm)"
+    affiliation: "EPFL"
+    url: "https://people.epfl.ch/michele.ceriotti?lang=en"
+    title: "Between physics and scaling: inductive biases in atomistic machine learning"
+    abstract: "Machine-learning techniques are often applied to perform "end-to-end" predictions, making black-box estimates
+of a property of interest using only a coarse description of the corresponding inputs.
+In contrast, atomic-scale modeling of matter is most useful when it allows one to gather a mechanistic insight
+into the microscopic processes that underlie the behavior of molecules and materials.
+In this talk I will provide an overview of the progress that has been made combining these two philosophies,
+using data-driven techniques to build surrogate models of the quantum mechanical behavior of atoms, enabling
+"bottom-up" simulations that reveal the behavior of matter in realistic conditions with uncompromising accuracy.
+I will critically discuss two ways by which physical-chemical ideas can be integrated into a machine-learning
+framework. One way involves using physical priors, such as smoothness or symmetry of the structure-property
+relations, to inform the mathematical structure of a generic ML approximation - an approach that has become
+ubiquitous in the field, but that is increasingly challenged by the emergence of unconstrained models that can
+directly learn physical constraints from large amounts of data. The other entails a deeper level of integration,
+in which explicit physics-based models and approximations are built into the model architecture.
+I will discuss several examples of the application of these ideas, from the calculation of electronic excitations
+to the design of solid-state electrolyte materials for batteries and high-entropy alloys for catalysis, emphasizing
+both the accuracy and the interpretability that can be achieved with a hybrid modeling approach, and providing an
+overview of the exciting research directions that are made available by these new modeling tools."
 
     slides: nothing
     video: nothing
