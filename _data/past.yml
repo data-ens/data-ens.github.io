@@ -18,7 +18,7 @@
   affiliation: "EPFL"
   url: "https://people.epfl.ch/michele.ceriotti?lang=en"
   title: "Between physics and scaling: inductive biases in atomistic machine learning"
-  abstract: "Machine-learning techniques are often applied to perform "end-to-end" predictions, making black-box estimates
+  abstract: "Machine-learning techniques are often applied to perform end-to-end predictions, making black-box estimates
   of a property of interest using only a coarse description of the corresponding inputs.
   In contrast, atomic-scale modeling of matter is most useful when it allows one to gather a mechanistic insight
   into the microscopic processes that underlie the behavior of molecules and materials.
