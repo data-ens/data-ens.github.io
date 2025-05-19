@@ -6,9 +6,8 @@
   url: "https://sml.inf.ethz.ch/group/fannyy/"
   title: "Robustness of machine learning against test and training time attacks"
   abstract: "When machine learning models are deployed in the real world, they need to satisfy many different types of robustness requirements against attacks both during test and training time.
-In the first part of the talk, we discuss prediction models that should be robust against worst-case distribution shifts during test time. Invariance-based algorithms can provably take advantage of structural assumptions on the shifts when the training distributions are heterogeneous enough to identify the robust risk. However, in practice, such identifiability conditions are rarely satisfied – a scenario so far underexplored in the theoretical literature. We show how we can (empirically and theoretically) analyze the more general setting when the robust risk is only partially known during training.
-In the second half of the talk, we turn to the problem of robustly estimating the means of well-separated mixtures when an adversary may add arbitrary outliers to the training data. While strong guarantees are available when the outlier fraction is significantly smaller than the minimum mixing weight, much less is known when outliers may crowd out low-weight clusters. In this setting, the list of estimated means needs to be larger than the number of (true) components - a setting we refer to as list-decodable mixture learning (LD-ML). We propose the first algorithm that obtains order-optimal error guarantees for each mixture mean with a minimal list-size overhead for LD-ML."
-
+  In the first part of the talk, we discuss prediction models that should be robust against worst-case distribution shifts during test time. Invariance-based algorithms can provably take advantage of structural assumptions on the shifts when the training distributions are heterogeneous enough to identify the robust risk. However, in practice, such identifiability conditions are rarely satisfied – a scenario so far underexplored in the theoretical literature. We show how we can (empirically and theoretically) analyze the more general setting when the robust risk is only partially known during training.
+  In the second half of the talk, we turn to the problem of robustly estimating the means of well-separated mixtures when an adversary may add arbitrary outliers to the training data. While strong guarantees are available when the outlier fraction is significantly smaller than the minimum mixing weight, much less is known when outliers may crowd out low-weight clusters. In this setting, the list of estimated means needs to be larger than the number of (true) components - a setting we refer to as list-decodable mixture learning (LD-ML). We propose the first algorithm that obtains order-optimal error guarantees for each mixture mean with a minimal list-size overhead for LD-ML."
   slides: nothing
   video: nothing
 
@@ -20,23 +19,22 @@ In the second half of the talk, we turn to the problem of robustly estimating th
   url: "https://people.epfl.ch/michele.ceriotti?lang=en"
   title: "Between physics and scaling: inductive biases in atomistic machine learning"
   abstract: "Machine-learning techniques are often applied to perform "end-to-end" predictions, making black-box estimates
-of a property of interest using only a coarse description of the corresponding inputs.
-In contrast, atomic-scale modeling of matter is most useful when it allows one to gather a mechanistic insight
-into the microscopic processes that underlie the behavior of molecules and materials.
-In this talk I will provide an overview of the progress that has been made combining these two philosophies,
-using data-driven techniques to build surrogate models of the quantum mechanical behavior of atoms, enabling
-"bottom-up" simulations that reveal the behavior of matter in realistic conditions with uncompromising accuracy.
-I will critically discuss two ways by which physical-chemical ideas can be integrated into a machine-learning
-framework. One way involves using physical priors, such as smoothness or symmetry of the structure-property
-relations, to inform the mathematical structure of a generic ML approximation - an approach that has become
-ubiquitous in the field, but that is increasingly challenged by the emergence of unconstrained models that can
-directly learn physical constraints from large amounts of data. The other entails a deeper level of integration,
-in which explicit physics-based models and approximations are built into the model architecture.
-I will discuss several examples of the application of these ideas, from the calculation of electronic excitations
-to the design of solid-state electrolyte materials for batteries and high-entropy alloys for catalysis, emphasizing
-both the accuracy and the interpretability that can be achieved with a hybrid modeling approach, and providing an
-overview of the exciting research directions that are made available by these new modeling tools."
-
+  of a property of interest using only a coarse description of the corresponding inputs.
+  In contrast, atomic-scale modeling of matter is most useful when it allows one to gather a mechanistic insight
+  into the microscopic processes that underlie the behavior of molecules and materials.
+  In this talk I will provide an overview of the progress that has been made combining these two philosophies,
+  using data-driven techniques to build surrogate models of the quantum mechanical behavior of atoms, enabling
+  "bottom-up" simulations that reveal the behavior of matter in realistic conditions with uncompromising accuracy.
+  I will critically discuss two ways by which physical-chemical ideas can be integrated into a machine-learning
+  framework. One way involves using physical priors, such as smoothness or symmetry of the structure-property
+  relations, to inform the mathematical structure of a generic ML approximation - an approach that has become
+  ubiquitous in the field, but that is increasingly challenged by the emergence of unconstrained models that can
+  directly learn physical constraints from large amounts of data. The other entails a deeper level of integration,
+  in which explicit physics-based models and approximations are built into the model architecture.
+  I will discuss several examples of the application of these ideas, from the calculation of electronic excitations
+  to the design of solid-state electrolyte materials for batteries and high-entropy alloys for catalysis, emphasizing
+  both the accuracy and the interpretability that can be achieved with a hybrid modeling approach, and providing an
+  overview of the exciting research directions that are made available by these new modeling tools."
   slides: nothing
   video: nothing
 
@@ -48,7 +46,6 @@ overview of the exciting research directions that are made available by these ne
   url: "https://kingjr.github.io/"
   title: "AI and Neuroscience: in search of the laws of intelligence"
   abstract: "In just a few years, AI has transitioned from a specialized field into a transformative force for industries and society. Beyond this technical progress, the development of AI provides a new paradigm to understand the intricate workings of the human brain. To illustrate this, we will delve into a series of experiments that systematically compare deep learning algorithms with the human brain in response to images, sounds, and texts. These comparisons consistently show a partial convergence between the representations learned by AI algorithms and those effectively instantiated in our cortex. These results -- largely unexpected by both the AI and Neuroscience communities -- together provide an operational foundation for uncovering the general principles that govern the acquisition, structuring, and manipulation of knowledge in biological and artificial neural networks."
-
   slides: nothing
   video: nothing
 
@@ -62,7 +59,6 @@ overview of the exciting research directions that are made available by these ne
   abstract: "We present a stochastic method for generating and reconstructing complex signals along the trajectories of small objects passively advected by turbulent flows [1]. Our approach makes use of generative Diffusion Models, a recently proposed data-driven machine learning technique. We show applications to 3D tracers and inertial particles in highly turbulent flows,  2D trajectories from NOAA’s Global Drifter Program and dynamics of charged particles in astrophysics. Supremacy against linear decomposition and Gaussian Regression Processes is analyzed in terms of statistical and point-wise metrics concerning intermittency and multi-scale properties.
 
   [1] Li, T., Biferale, L., Bonaccorso, F. et al. Synthetic Lagrangian turbulence by generative diffusion models. Nat Mach Intell 6, 393–403 (2024)."
-
   slides: nothing
   video: nothing
 
@@ -85,7 +81,6 @@ overview of the exciting research directions that are made available by these ne
   this problem, and present some findings arising from the analysis of simple statistical
   models.
   [Based on joint work with Germain Kolossov, Ayush Jain, Eren Sasoglu, Pulkit Tandon]"
-
   slides: nothing
   video: nothing
 
@@ -97,8 +92,7 @@ overview of the exciting research directions that are made available by these ne
   affiliation: "UC Berkeley and INRIA Paris"
   url: "https://people.eecs.berkeley.edu/~jordan/"
   title: "Collaborative Learning, Information Asymmetries, and Incentives"
-  abstract:
-
+  abstract: ""
   slides: nothing
   video: nothing
 
@@ -110,7 +104,6 @@ overview of the exciting research directions that are made available by these ne
   url: "https://lchizat.github.io/"
   title: "A Formula for Feature Learning in Large Neural Networks"
   abstract: "Deep learning succeeds by doing hierarchical feature learning, but tuning hyperparameters such as initialization scales, learning rates, etc., only give indirect control over this behavior. This calls for theoretical tools to predict, measure and control feature learning.  In this talk, we will first review various theoretical advances (signal propagation, infinite width dynamics, etc) that have led to a better understanding of the subtle impact of hyperparameters and architectural choices on the training dynamics. We will then introduce a formula which, in any architecture, quantifies feature learning in terms of more tractable quantities: statistics of the forward and backward passes, and a notion of alignment between the feature updates and the backward pass which captures an important aspect of the nature of feature learning. This formula suggests normalization rules for the forward and backward passes and for the layer-wise learning rates. To illustrate these ideas, I will discuss the feature learning behavior of ReLU MLPs and ResNets in the infinite width and depth limit."
-
   slides: nothing
   video: nothing
 
