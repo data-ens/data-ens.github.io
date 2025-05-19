@@ -1,4 +1,4 @@
-  - speaker: "Fanny Yang"
+- speaker: "Fanny Yang"
     date: 13 February 2025
     time: 12h00-13h00 (Paris time)
     room: "Salle Dussane (45 Rue d'Ulm)"
@@ -12,7 +12,7 @@ In the second half of the talk, we turn to the problem of robustly estimating th
     slides: nothing
     video: nothing
 
-  - speaker: "Michele Ceriotti"
+- speaker: "Michele Ceriotti"
     date: 23 January 2025
     time: 12h00-13h00 (Paris time)
     room: "Amphi Jaures (29 Rue d'Ulm)"
@@ -40,7 +40,7 @@ overview of the exciting research directions that are made available by these ne
     slides: nothing
     video: nothing
 
-  - speaker: "Jean-Rémi King"
+- speaker: "Jean-Rémi King"
     date: 05 December 2024
     time: 12h00-13h00 (Paris time)
     room: "Salle Dussane (45 Rue d'Ulm)"
