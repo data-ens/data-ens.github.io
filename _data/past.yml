@@ -5,11 +5,7 @@
   affiliation: "ETHZ"
   url: "https://sml.inf.ethz.ch/group/fannyy/"
   title: "Robustness of machine learning against test and training time attacks"
-  abstract: |
-    When machine learning models are deployed in the real world, they need to satisfy many different types of robustness requirements against attacks both during test and training time.
-
-    In the first part of the talk, we discuss prediction models that should be robust against worst-case distribution shifts during test time. Invariance-based algorithms can provably take advantage of structural assumptions on the shifts when the training distributions are heterogeneous enough to identify the robust risk. However, in practice, such identifiability conditions are rarely satisfied – a scenario so far underexplored in the theoretical literature. We show how we can (empirically and theoretically) analyze the more general setting when the robust risk is only partially known during training.
-    In the second half of the talk, we turn to the problem of robustly estimating the means of well-separated mixtures when an adversary may add arbitrary outliers to the training data. While strong guarantees are available when the outlier fraction is significantly smaller than the minimum mixing weight, much less is known when outliers may crowd out low-weight clusters. In this setting, the list of estimated means needs to be larger than the number of (true) components - a setting we refer to as list-decodable mixture learning (LD-ML). We propose the first algorithm that obtains order-optimal error guarantees for each mixture mean with a minimal list-size overhead for LD-ML.
+  abstract: "When machine learning models are deployed in the real world, they need to satisfy many different types of robustness requirements against attacks both during test and training time. In the first part of the talk, we discuss prediction models that should be robust against worst-case distribution shifts during test time. Invariance-based algorithms can provably take advantage of structural assumptions on the shifts when the training distributions are heterogeneous enough to identify the robust risk. However, in practice, such identifiability conditions are rarely satisfied – a scenario so far underexplored in the theoretical literature. We show how we can (empirically and theoretically) analyze the more general setting when the robust risk is only partially known during training. In the second half of the talk, we turn to the problem of robustly estimating the means of well-separated mixtures when an adversary may add arbitrary outliers to the training data. While strong guarantees are available when the outlier fraction is significantly smaller than the minimum mixing weight, much less is known when outliers may crowd out low-weight clusters. In this setting, the list of estimated means needs to be larger than the number of (true) components - a setting we refer to as list-decodable mixture learning (LD-ML). We propose the first algorithm that obtains order-optimal error guarantees for each mixture mean with a minimal list-size overhead for LD-ML."
   slides: nothing
   video: nothing
 
@@ -20,25 +16,7 @@
   affiliation: "EPFL"
   url: "https://people.epfl.ch/michele.ceriotti?lang=en"
   title: "Between physics and scaling: inductive biases in atomistic machine learning"
-  abstract: |
-    Machine-learning techniques are often applied to perform end-to-end predictions, making black-box estimates
-
-    of a property of interest using only a coarse description of the corresponding inputs.
-    In contrast, atomic-scale modeling of matter is most useful when it allows one to gather a mechanistic insight
-    into the microscopic processes that underlie the behavior of molecules and materials.
-    In this talk I will provide an overview of the progress that has been made combining these two philosophies,
-    using data-driven techniques to build surrogate models of the quantum mechanical behavior of atoms, enabling
-    "bottom-up" simulations that reveal the behavior of matter in realistic conditions with uncompromising accuracy.
-    I will critically discuss two ways by which physical-chemical ideas can be integrated into a machine-learning
-    framework. One way involves using physical priors, such as smoothness or symmetry of the structure-property
-    relations, to inform the mathematical structure of a generic ML approximation - an approach that has become
-    ubiquitous in the field, but that is increasingly challenged by the emergence of unconstrained models that can
-    directly learn physical constraints from large amounts of data. The other entails a deeper level of integration,
-    in which explicit physics-based models and approximations are built into the model architecture.
-    I will discuss several examples of the application of these ideas, from the calculation of electronic excitations
-    to the design of solid-state electrolyte materials for batteries and high-entropy alloys for catalysis, emphasizing
-    both the accuracy and the interpretability that can be achieved with a hybrid modeling approach, and providing an
-    overview of the exciting research directions that are made available by these new modeling tools.
+  abstract: "Machine-learning techniques are often applied to perform end-to-end predictions, making black-box estimates of a property of interest using only a coarse description of the corresponding inputs. In contrast, atomic-scale modeling of matter is most useful when it allows one to gather a mechanistic insight into the microscopic processes that underlie the behavior of molecules and materials. In this talk I will provide an overview of the progress that has been made combining these two philosophies, using data-driven techniques to build surrogate models of the quantum mechanical behavior of atoms, enabling bottom-up simulations that reveal the behavior of matter in realistic conditions with uncompromising accuracy. I will critically discuss two ways by which physical-chemical ideas can be integrated into a machine-learning framework. One way involves using physical priors, such as smoothness or symmetry of the structure-property relations, to inform the mathematical structure of a generic ML approximation - an approach that has become ubiquitous in the field, but that is increasingly challenged by the emergence of unconstrained models that can directly learn physical constraints from large amounts of data. The other entails a deeper level of integration, in which explicit physics-based models and approximations are built into the model architecture. I will discuss several examples of the application of these ideas, from the calculation of electronic excitations to the design of solid-state electrolyte materials for batteries and high-entropy alloys for catalysis, emphasizing both the accuracy and the interpretability that can be achieved with a hybrid modeling approach, and providing an overview of the exciting research directions that are made available by these new modeling tools."
   slides: nothing
   video: nothing
 
@@ -60,11 +38,9 @@
   affiliation: "Università degli Studi di Roma Tor Vergata"
   url: "https://biferale.web.roma2.infn.it/"
   title: "Data driven tools for Lagrangian Turbulence"
-  abstract: |
-    We present a stochastic method for generating and reconstructing complex signals along the trajectories of small objects passively advected by turbulent flows [1]. Our approach makes use of generative Diffusion Models, a recently proposed data-driven machine learning technique. We show applications to 3D tracers and inertial particles in highly turbulent flows,  2D trajectories from NOAA’s Global Drifter Program and dynamics of charged particles in astrophysics. Supremacy against linear decomposition and Gaussian Regression Processes is analyzed in terms of statistical and point-wise metrics concerning intermittency and multi-scale properties.
+  abstract: "We present a stochastic method for generating and reconstructing complex signals along the trajectories of small objects passively advected by turbulent flows [1]. Our approach makes use of generative Diffusion Models, a recently proposed data-driven machine learning technique. We show applications to 3D tracers and inertial particles in highly turbulent flows,  2D trajectories from NOAA’s Global Drifter Program and dynamics of charged particles in astrophysics. Supremacy against linear decomposition and Gaussian Regression Processes is analyzed in terms of statistical and point-wise metrics concerning intermittency and multi-scale properties.
 
-    
-    [1] Li, T., Biferale, L., Bonaccorso, F. et al. Synthetic Lagrangian turbulence by generative diffusion models. Nat Mach Intell 6, 393–403 (2024).
+  [1] Li, T., Biferale, L., Bonaccorso, F. et al. Synthetic Lagrangian turbulence by generative diffusion models. Nat Mach Intell 6, 393–403 (2024)."
   slides: nothing
   video: nothing
 
@@ -75,20 +51,18 @@
   affiliation: "Stanford University"
   url: "https://web.stanford.edu/~montanar/"
   title: "Statistical phenomena in data selection and data enrichment"
-  abstract: |
-    Building powerful machine learning models and training them has
+  abstract: "Building powerful machine learning models and training them has
+  become increasingly possible thanks to new architecture, software infrastructure,
+  and the prevalence of foundation models.
 
-    become increasingly possible thanks to new architecture, software infrastructure,
-    and the prevalence of foundation models.
-    
-    Nowadays, developing a high-quality dataset for a specific use case of
-    interest is often the key bottleneck to successful machine learning applications.
-    I will discuss two approaches towards alleviating this problem: selecting highly informative
-    samples from a large dataset, and merging a small data sat with surrogate data from
-    a different source. In will overview some of the ideas in the literature on
-    this problem, and present some findings arising from the analysis of simple statistical
-    models.
-    [Based on joint work with Germain Kolossov, Ayush Jain, Eren Sasoglu, Pulkit Tandon]
+  Nowadays, developing a high-quality dataset for a specific use case of
+  interest is often the key bottleneck to successful machine learning applications.
+  I will discuss two approaches towards alleviating this problem: selecting highly informative
+  samples from a large dataset, and merging a small data sat with surrogate data from
+  a different source. In will overview some of the ideas in the literature on
+  this problem, and present some findings arising from the analysis of simple statistical
+  models.
+  [Based on joint work with Germain Kolossov, Ayush Jain, Eren Sasoglu, Pulkit Tandon]"
   slides: nothing
   video: nothing
 
@@ -223,23 +197,21 @@
   affiliation: "New York Times, Columbia"
   url: "https://en.wikipedia.org/wiki/Chris_Wiggins_(data_scientist)"
   title: "DS@NYT"
-  abstract: |
-    The Data Science group at The New York Times develops and deploys machine learning solutions to newsroom and business problems.
-
-    Re-framing real-world questions as machine learning tasks requires not only adapting and extending models and algorithms to new or special cases but also sufficient breadth to know the right method for the right challenge.
-    I'll first outline how <br/>
-    - unsupervised, <br/>
-    - supervised, and <br/>
-    - reinforcement learning methods <br/>
-    are increasingly used in human applications for <br/>
-    - description, <br/>
-    - prediction, and <br/>
-    - prescription, <br/>
-    respectively.
-    I'll then focus on the 'prescriptive' cases, showing how methods from the reinforcement learning and causal inference literatures can be of direct impact in <br/>
-    - engineering, <br/>
-    - business, and <br/>
-    - decision-making more generally.
+  abstract: "The Data Science group at The New York Times develops and deploys machine learning solutions to newsroom and business problems.
+Re-framing real-world questions as machine learning tasks requires not only adapting and extending models and algorithms to new or special cases but also sufficient breadth to know the right method for the right challenge.
+I'll first outline how <br/>
+ - unsupervised, <br/>
+ - supervised, and <br/>
+ - reinforcement learning methods <br/>
+are increasingly used in human applications for <br/>
+ - description, <br/>
+ - prediction, and <br/>
+ - prescription, <br/>
+respectively.
+I'll then focus on the 'prescriptive' cases, showing how methods from the reinforcement learning and causal inference literatures can be of direct impact in <br/>
+ - engineering, <br/>
+ - business, and <br/>
+ - decision-making more generally."
   slides: nothing
   video: nothing
 
@@ -295,14 +267,12 @@
   affiliation: "EPFL"
   url: "https://people.epfl.ch/giuseppe.carleo"
   title: "Learning Solutions to the Schrödinger equation with Neural-Network Quantum States"
-  abstract: |
-    The theoretical description of several complex quantum phenomena fundamentally relies on many-particle wave functions and our ability to represent and manipulate them.
-
-    Variational methods in quantum mechanics aim at compact descriptions of many-body wave functions in terms of parameterised ansatz states, and are at present living exciting transformative developments informed by ideas developed in machine learning. In this presentation I will discuss variational representations of quantum states based on artificial neural networks [1] and their use in approximately solving the Schrödinger equation.
-    I will further highlight the general representation properties of such states, the crucial role of physical symmetries, as well as the connection with other known representations based on tensor networks [2]. Finally, I will discuss how some classic ideas in machine learning, such as the Natural Gradient, are being used and re-purposed in quantum computing applications [3]. <br/>
-    [1] Carleo and Troyer, Science 365, 602 (2017)<br/>
-    [2] Sharir, Shashua, and Carleo, arXiv:2103.10293 (2021)<br/>
-    [3] Stokes, Izaac, Killoran, and Carleo, Quantum 4, 269 (2020)
+  abstract: "The theoretical description of several complex quantum phenomena fundamentally relies on many-particle wave functions and our ability to represent and manipulate them.
+Variational methods in quantum mechanics aim at compact descriptions of many-body wave functions in terms of parameterised ansatz states, and are at present living exciting transformative developments informed by ideas developed in machine learning. In this presentation I will discuss variational representations of quantum states based on artificial neural networks [1] and their use in approximately solving the Schrödinger equation.
+I will further highlight the general representation properties of such states, the crucial role of physical symmetries, as well as the connection with other known representations based on tensor networks [2]. Finally, I will discuss how some classic ideas in machine learning, such as the Natural Gradient, are being used and re-purposed in quantum computing applications [3]. <br/>
+[1] Carleo and Troyer, Science 365, 602 (2017)<br/>
+[2] Sharir, Shashua, and Carleo, arXiv:2103.10293 (2021)<br/>
+[3] Stokes, Izaac, Killoran, and Carleo, Quantum 4, 269 (2020)"
   slides: ../slides/2021_04_28_Carleo.pdf
   video: nothing
 
@@ -381,32 +351,30 @@
   slides: nothing
   video: https://www.youtube.com/watch?v=M31bTO1EOcI
   title: "From generative models of protein sequences to evolution-guided protein design"
-  abstract: |
-    Thanks to the sequencing revolution in biology, protein sequence
-
-    databases have been growing exponentially over the last years.
-    Data-driven computational approaches are becoming more and more
-    popular in exploring this increasing data richness. In my talk, I will
-    show that global statistical modeling approaches, like (Restricted)
-    Boltzmann Machines are able to accurately capture the natural
-    variability of amino-acid sequences across entire families of
-    evolutionarily related but distantly diverged proteins. We show that
-    these models are biologically interpretable; they allow to extract
-    information about the three-dimensional protein structure and about
-    protein-protein interactions from sequence data, and they unveil
-    distributed sequence motifs. These models can be seen as highly
-    performant generative models - they capture the natural sequence
-    variability far beyond fitted quantities, and they allow to design
-    novel, fully functional proteins by simple MCMC sampling approaches.
-    <br/>
-    <i>Bio:</i> Martin Weigt is Professor for Computational Biology at Sorbonne
-    Université, Paris, where he heads the research team 'Statistical
-    Genomics and Biological Physics' within the Laboratory of
-    Computational and Quantitative Biology (LCQB). Combining his original
-    scientific background in theoretical and statistical physics with the
-    exploding data richness in genomics and biology, he is particularly
-    interested in the development of data-driven modeling approaches for
-    biological sequences, their evolution and de novo design.
+  abstract: "Thanks to the sequencing revolution in biology, protein sequence
+databases have been growing exponentially over the last years.
+Data-driven computational approaches are becoming more and more
+popular in exploring this increasing data richness. In my talk, I will
+show that global statistical modeling approaches, like (Restricted)
+Boltzmann Machines are able to accurately capture the natural
+variability of amino-acid sequences across entire families of
+evolutionarily related but distantly diverged proteins. We show that
+these models are biologically interpretable; they allow to extract
+information about the three-dimensional protein structure and about
+protein-protein interactions from sequence data, and they unveil
+distributed sequence motifs. These models can be seen as highly
+performant generative models - they capture the natural sequence
+variability far beyond fitted quantities, and they allow to design
+novel, fully functional proteins by simple MCMC sampling approaches.
+<br/>
+<i>Bio:</i> Martin Weigt is Professor for Computational Biology at Sorbonne
+Université, Paris, where he heads the research team 'Statistical
+Genomics and Biological Physics' within the Laboratory of
+Computational and Quantitative Biology (LCQB). Combining his original
+scientific background in theoretical and statistical physics with the
+exploding data richness in genomics and biology, he is particularly
+interested in the development of data-driven modeling approaches for
+biological sequences, their evolution and de novo design."
 
 - speaker: "Yue M. Lu"
   date: Nov. 26th, 2019
@@ -439,11 +407,9 @@
   title: "Artificial Intelligence and data sets from the history of astronomy: new opportunities?"
   slides: nothing
   video: nothing
-  abstract: |
-    The recent development of Digital Humanities and the exigences of publishing research data besides research results transform the availability of historical sources, along with the means to analyse, edit, and relate them.
-
-    In this context, DISHAS relies on a network of international projects in Chinese, Sanskrit, Arabic, Latin and Hebrew sources in the history of astral sciences and aims at providing tools to edit and analyse the different types of sources usually treated in the field, namely, prose and versified texts, iconography and technical/geometrical diagrams, and astronomical tables.
-    This leads to the progressive constitution of precisely described datasets that are a promissing field of experimentation for data sciences in general and artificial intelligence in particular. In this presentation we want to introduce our datasets, their characteristics and historical meaning. We will discuss different lines of research that could converge toward data sciences topics, with a specific focus on the understanding of historical actors computations from the analysis of the numerical tables they produced.
+  abstract: "The recent development of Digital Humanities and the exigences of publishing research data besides research results transform the availability of historical sources, along with the means to analyse, edit, and relate them.
+  In this context, DISHAS relies on a network of international projects in Chinese, Sanskrit, Arabic, Latin and Hebrew sources in the history of astral sciences and aims at providing tools to edit and analyse the different types of sources usually treated in the field, namely, prose and versified texts, iconography and technical/geometrical diagrams, and astronomical tables.
+  This leads to the progressive constitution of precisely described datasets that are a promissing field of experimentation for data sciences in general and artificial intelligence in particular. In this presentation we want to introduce our datasets, their characteristics and historical meaning. We will discuss different lines of research that could converge toward data sciences topics, with a specific focus on the understanding of historical actors computations from the analysis of the numerical tables they produced."
 
 - speaker: "Béatrice Prunel and Gregory Chatonsky"
   date: March 25th, 2019
@@ -454,17 +420,15 @@
   title: "Art and artificial imagination"
   slides: nothing
   video: nothing
-  abstract: |
-    Contemporary media are fascinated by the applications of neural networks in creation. They regularly highlight moments when artificial artistic productions have \"deceived\" humans and \"replaced\" artists. All this seems to confirm that AI would have conquered up to the last ramparts of humanity: interiority and creativity.  The dialogue between an art historian, invested in the digital humanities, and an artist who is himself familiar with deep learning, invites us to change our perspective. A historical and materialistic approach makes it possible to better distinguish what is new in the apparent emergence of AI in the arts and to better grasp the implicit conception of art that develops there: the change of purpose of a new technique, which generates surprising results, is also a way of thwarting the assumptions of the contemporary economic system. It suggest criticism of it as much as it opens up new possibilities.
-
+  abstract: "Contemporary media are fascinated by the applications of neural networks in creation. They regularly highlight moments when artificial artistic productions have \"deceived\" humans and \"replaced\" artists. All this seems to confirm that AI would have conquered up to the last ramparts of humanity: interiority and creativity.  The dialogue between an art historian, invested in the digital humanities, and an artist who is himself familiar with deep learning, invites us to change our perspective. A historical and materialistic approach makes it possible to better distinguish what is new in the apparent emergence of AI in the arts and to better grasp the implicit conception of art that develops there: the change of purpose of a new technique, which generates surprising results, is also a way of thwarting the assumptions of the contemporary economic system. It suggest criticism of it as much as it opens up new possibilities.
     <div align=\"center\">
     <img src=\"../img/mue3.jpg\" width=\"60%\" alt=\"Grégory Chatonsky, Mue (2018), Image générée en BIGGAN\">
     </div>
-    <br/>
-    <b><a href=\"http://chatonsky.net\">Grégory Chatonsky</a> </b> est un artiste franco-canadien dont le travail pour sur Internet et l’imagination artificielle. Il a participé à de nombreuses expositions en France, au Canada et à l’étranger dont France Electronique à Toulouse, Terre/mer/signal au Rua Red de Dublin, Imprimer le monde en 2017 au Centre Pompidou, Capture : Submersion en 2016 à Arts Santa Mònica Barcelone, La condition post-photographique à Montréal, Walkers: Hollywood afterlives in art en 2015 au Museum of the Moving Image de New York, Telofossils en 2013 au Musée d’art contemporain de Taipei, Erreur d’impression en 2012 au Jeu de Paume. Il a été en résidence à Abou Dhabi (2017), en Amazonie à Taluen (2017), Colab à Auckland (2016), Hangar à Barcelone (2016), IMAL (2015), Villa Kujoyama (2014), CdA Enghein-les-Bains (2013), MOCA Taipei (2012), 3331 Arts Chiyoda (2012), Xiyitang, Shanghai, (2011), Les Inclassables à Montréal (2003), Abbaye royale de Fontevraud (2002). Il a reçu le prix Audi Talents en 2018 et est résident à la Cité Internationale des Arts de Paris en 2019-2020. Il a fondé en 1994 Incident.net, l’un des premiers collectifs de Netart en France. Il a été professeur-invité au Fresnoy (2004-2005), à l’UQAM (2007-2014), aété récipiendaire d’une chaire internationale de recherche à l’Université de Paris VIII (2015) et poursuit ses recherches à l’Ecole normale supérieure de Paris.
-    <br/>
-    <b><a href=\"http://www.dhta.ens.fr/-Beatrice-JOYEUX-PRUNEL-.html\">Béatrice Joyeux-Prunel</a> </b> est maître de conférences HDR en histoire de l’art contemporain à l’Ecole normale supérieure de Paris. Elle travaille sur l’histoire des arts dans une perspective mondiale, transnationale et sociologique, tout en coordonnant à l’ENS l’enseignement de l’histoire de l’art contemporain et des humanités numériques. Spécialiste de la mondialisation culturelle, elle s’intéresse également à l’histoire culturelle et visuelle du pétrole, et à l’imaginaire des technologies numériques. Béatrice Joyeux-Prunel a fondé et dirige le projet <a href=\"http://www.dhta.huma-num.fr\">ARTL@S</a>. Elle coordonne avec Grégory Chatonsky le projet <a href=\"http://www.postdigital.ens.fr\">Postdigital</a>. Parmi ses publications : Les avant-gardes artistiques – une histoire transnationale 1848-1918, Paris, Gallimard Folio histoire (inédit poche), 2016 ; volume 2 (1918-1945), paru en 2017 ; et volume 3 (1945-1970), à paraître en 2019.
-    
+<br/>
+  <b><a href=\"http://chatonsky.net\">Grégory Chatonsky</a> </b> est un artiste franco-canadien dont le travail pour sur Internet et l’imagination artificielle. Il a participé à de nombreuses expositions en France, au Canada et à l’étranger dont France Electronique à Toulouse, Terre/mer/signal au Rua Red de Dublin, Imprimer le monde en 2017 au Centre Pompidou, Capture : Submersion en 2016 à Arts Santa Mònica Barcelone, La condition post-photographique à Montréal, Walkers: Hollywood afterlives in art en 2015 au Museum of the Moving Image de New York, Telofossils en 2013 au Musée d’art contemporain de Taipei, Erreur d’impression en 2012 au Jeu de Paume. Il a été en résidence à Abou Dhabi (2017), en Amazonie à Taluen (2017), Colab à Auckland (2016), Hangar à Barcelone (2016), IMAL (2015), Villa Kujoyama (2014), CdA Enghein-les-Bains (2013), MOCA Taipei (2012), 3331 Arts Chiyoda (2012), Xiyitang, Shanghai, (2011), Les Inclassables à Montréal (2003), Abbaye royale de Fontevraud (2002). Il a reçu le prix Audi Talents en 2018 et est résident à la Cité Internationale des Arts de Paris en 2019-2020. Il a fondé en 1994 Incident.net, l’un des premiers collectifs de Netart en France. Il a été professeur-invité au Fresnoy (2004-2005), à l’UQAM (2007-2014), aété récipiendaire d’une chaire internationale de recherche à l’Université de Paris VIII (2015) et poursuit ses recherches à l’Ecole normale supérieure de Paris.
+<br/>
+  <b><a href=\"http://www.dhta.ens.fr/-Beatrice-JOYEUX-PRUNEL-.html\">Béatrice Joyeux-Prunel</a> </b> est maître de conférences HDR en histoire de l’art contemporain à l’Ecole normale supérieure de Paris. Elle travaille sur l’histoire des arts dans une perspective mondiale, transnationale et sociologique, tout en coordonnant à l’ENS l’enseignement de l’histoire de l’art contemporain et des humanités numériques. Spécialiste de la mondialisation culturelle, elle s’intéresse également à l’histoire culturelle et visuelle du pétrole, et à l’imaginaire des technologies numériques. Béatrice Joyeux-Prunel a fondé et dirige le projet <a href=\"http://www.dhta.huma-num.fr\">ARTL@S</a>. Elle coordonne avec Grégory Chatonsky le projet <a href=\"http://www.postdigital.ens.fr\">Postdigital</a>. Parmi ses publications : Les avant-gardes artistiques – une histoire transnationale 1848-1918, Paris, Gallimard Folio histoire (inédit poche), 2016 ; volume 2 (1918-1945), paru en 2017 ; et volume 3 (1945-1970), à paraître en 2019.
+"
 
 - speaker: "Emmanuel Dupoux"
   date: October 17th, 2018
@@ -475,11 +439,9 @@
   title: "Towards developmental AI"
   slides: nothing
   video: https://www.youtube.com/watch?v=s9EeozO6fp8
-  abstract: |
-    Even though current machine learning techniques yield systems that achieve parity with humans on several high level tasks, the learning algorithms themselves are orders of magnitude less data efficient than those used by humans, as evidenced by the speed and resilience with which infants learn language and common sense. I review some of our recent attempts to reverse engineer such abilities in the area of unsupervised or weakly supervised learning of speech representations, the segmentation of speech terms, and the learning the laws of intuitive physics by observation of videos. I argue that a triple effort in data collection, algorithm development and fine grained human/machine comparisons is needed to uncover these developmental algorithms.
+  abstract: "Even though current machine learning techniques yield systems that achieve parity with humans on several high level tasks, the learning algorithms themselves are orders of magnitude less data efficient than those used by humans, as evidenced by the speed and resilience with which infants learn language and common sense. I review some of our recent attempts to reverse engineer such abilities in the area of unsupervised or weakly supervised learning of speech representations, the segmentation of speech terms, and the learning the laws of intuitive physics by observation of videos. I argue that a triple effort in data collection, algorithm development and fine grained human/machine comparisons is needed to uncover these developmental algorithms.
 
-    
-    <b>Bio:</b>E. Dupoux is full professor at the Ecole des Hautes Etudes en Sciences Sociales (EHESS), and directs the Cognitive Machine Learning team at the Ecole Normale Supérieure (ENS) in Paris and INRIA (www.syntheticlearner.com).  His education includes a PhD in Cognitive Science (EHESS), a MA in Computer Science (Orsay University) and a BA in Applied Mathematics (Pierre & Marie Curie University, ENS). His research mixes developmental science, cognitive neuroscience, and machine learning, with a focus on the reverse engineering of infant language and cognitive development using unsupervised or weakly supervised learning. He is the recipient of an Advanced ERC grant, the organizer of the Zero Ressource Speech Challenge (2015, 2017), the Intuitive Physics Benchmark (2017) and led in 2017 a Jelinek Summer Workshop at CMU on multimodal speech learning. He has authored 150 articles in various peer reviewed outlets.
+  <b>Bio:</b>E. Dupoux is full professor at the Ecole des Hautes Etudes en Sciences Sociales (EHESS), and directs the Cognitive Machine Learning team at the Ecole Normale Supérieure (ENS) in Paris and INRIA (www.syntheticlearner.com).  His education includes a PhD in Cognitive Science (EHESS), a MA in Computer Science (Orsay University) and a BA in Applied Mathematics (Pierre & Marie Curie University, ENS). His research mixes developmental science, cognitive neuroscience, and machine learning, with a focus on the reverse engineering of infant language and cognitive development using unsupervised or weakly supervised learning. He is the recipient of an Advanced ERC grant, the organizer of the Zero Ressource Speech Challenge (2015, 2017), the Intuitive Physics Benchmark (2017) and led in 2017 a Jelinek Summer Workshop at CMU on multimodal speech learning. He has authored 150 articles in various peer reviewed outlets."
 
 - speaker: "Joan Bruna"
   date: June 12th, 2018
@@ -490,15 +452,13 @@
   slides: nothing
   video: https://www.youtube.com/watch?v=zuzO9JqeWN0
   title: "Learning Graph Inverse Problems with Neural Networks"
-  abstract: |
-    Inverse Problems on graphs encompass many areas of physics, algorithms and statistics,
+  abstract: "Inverse Problems on graphs encompass many areas of physics, algorithms and statistics,
+and are a confluence of powerful methods, ranging from computational harmonic analysis and high-dimensional statistics to statistical physics.
+Similarly as with inverse problems in signal processing, learning has emerged as an intriguing alternative to regularization and other computationally tractable relaxations, opening up new questions in which high-dimensional optimization, neural networks and data play a prominent role.
+In this talk, I will argue that several tasks that are ‘geometrically stable’ can be well approximated with Graph Neural Networks, a natural
+extension of Convolutional Neural Networks on graphs. I will present recent work on supervised community detection, quadratic assignment, neutrino detection and beyond showing the flexibility of GNNs to extend classic algorithms such as Belief Propagation.<br>
 
-    and are a confluence of powerful methods, ranging from computational harmonic analysis and high-dimensional statistics to statistical physics.
-    Similarly as with inverse problems in signal processing, learning has emerged as an intriguing alternative to regularization and other computationally tractable relaxations, opening up new questions in which high-dimensional optimization, neural networks and data play a prominent role.
-    In this talk, I will argue that several tasks that are ‘geometrically stable’ can be well approximated with Graph Neural Networks, a natural
-    extension of Convolutional Neural Networks on graphs. I will present recent work on supervised community detection, quadratic assignment, neutrino detection and beyond showing the flexibility of GNNs to extend classic algorithms such as Belief Propagation.<br>
-    
-    <b>Bio:</b> Joan Bruna is an Assistant Professor of Computer Science, Data Science and Mathematics (affiliated) at the Courant Institute of Mathematical Sciences, New York University, and at the Center for Data Science. His research interests touch several areas of Machine Learning, Signal Processing and High-Dimensional Statistics. In particular, in the past few years he has been working on Convolutional Neural Networks, studying some of its theoretical properties, extensions to more general geometries, and applications to physical sciences and statistics. Before that, he worked at FAIR (Facebook AI Research) in New York. Prior to that, he was a postdoctoral researcher at Courant Institute, NYU. He completed his PhD in 2013 at Ecole Polytechnique, France. He is the recipient of an Alfred. P. Sloan Fellowship (2018), and he has organized multiple tutorials and workshops on geometric deep learning, including NIPS and CVPR in 2017.
+  <b>Bio:</b> Joan Bruna is an Assistant Professor of Computer Science, Data Science and Mathematics (affiliated) at the Courant Institute of Mathematical Sciences, New York University, and at the Center for Data Science. His research interests touch several areas of Machine Learning, Signal Processing and High-Dimensional Statistics. In particular, in the past few years he has been working on Convolutional Neural Networks, studying some of its theoretical properties, extensions to more general geometries, and applications to physical sciences and statistics. Before that, he worked at FAIR (Facebook AI Research) in New York. Prior to that, he was a postdoctoral researcher at Courant Institute, NYU. He completed his PhD in 2013 at Ecole Polytechnique, France. He is the recipient of an Alfred. P. Sloan Fellowship (2018), and he has organized multiple tutorials and workshops on geometric deep learning, including NIPS and CVPR in 2017."
 
 
 - speaker: "Balázs Kégl"
@@ -510,11 +470,9 @@
   title: "Machine learning in scientific workflows"
   slides: nothing
   video: https://www.youtube.com/watch?v=oo5QmKKwS3U
-  abstract: |
-    I will describe our contributions to scientific ML workflow building and optimization, which we have carried out within the Paris-Saclay Center for Data Science. I will start by mapping out the different use cases of machine learning in sciences (data collection, inference, simulation, hypothesis generation). Then I will detail some of the particular challenges of ML/science collaborations and the solutions we built to solve these challenges. I will briefly describe the open code submission RAMP tool that we built for collaborative prototyping, detail some of the workflows (e.g., the Higgs boson discovery pipeline, El Nino forecasting, detecting Mars craters on satellite images), and present results on rapidly optimizing machine learning solutions.<br>
+  abstract: "I will describe our contributions to scientific ML workflow building and optimization, which we have carried out within the Paris-Saclay Center for Data Science. I will start by mapping out the different use cases of machine learning in sciences (data collection, inference, simulation, hypothesis generation). Then I will detail some of the particular challenges of ML/science collaborations and the solutions we built to solve these challenges. I will briefly describe the open code submission RAMP tool that we built for collaborative prototyping, detail some of the workflows (e.g., the Higgs boson discovery pipeline, El Nino forecasting, detecting Mars craters on satellite images), and present results on rapidly optimizing machine learning solutions.<br>
 
-    
-    <b>Bio:</b> Balázs Kégl received the Ph.D. degree in computer science from Concordia University, Montreal, in 1999. From January to December 2000 he was a Postdoctoral Fellow at the Department of Mathematics and Statistics at Queen's University, Kingston, Canada, receiving NSERC Postdoctoral Fellowship. He was in the Department of Computer Science and Operations Research at the University of Montreal, as an Assistant Professor from 2001 to 2006. Since 2006 he has been a research scientist in the Linear Accelerator Laboratory of the CNRS. He has published more than hundred papers on unsupervised and supervised learning (principal curves, intrinsic dimensionality estimation, boosting), large-scale Bayesian inference and optimization, and on various applications ranging from music and image processing to systems biology and experimental physics. At his current position he has been the head of the AppStat team working on machine learning and statistical inference problems motivated by applications in high-energy particle and astroparticle physics. Since 2014, he has been the head of the Center for Data Science of the University of Paris Saclay. In 2016 he is co-created the RAMP (www.ramp.studio).
+  <b>Bio:</b> Balázs Kégl received the Ph.D. degree in computer science from Concordia University, Montreal, in 1999. From January to December 2000 he was a Postdoctoral Fellow at the Department of Mathematics and Statistics at Queen's University, Kingston, Canada, receiving NSERC Postdoctoral Fellowship. He was in the Department of Computer Science and Operations Research at the University of Montreal, as an Assistant Professor from 2001 to 2006. Since 2006 he has been a research scientist in the Linear Accelerator Laboratory of the CNRS. He has published more than hundred papers on unsupervised and supervised learning (principal curves, intrinsic dimensionality estimation, boosting), large-scale Bayesian inference and optimization, and on various applications ranging from music and image processing to systems biology and experimental physics. At his current position he has been the head of the AppStat team working on machine learning and statistical inference problems motivated by applications in high-energy particle and astroparticle physics. Since 2014, he has been the head of the Center for Data Science of the University of Paris Saclay. In 2016 he is co-created the RAMP (www.ramp.studio)."
 
 
 - speaker: "Elizabeth Purdom"
@@ -549,20 +507,18 @@
   video: https://www.youtube.com/watch?v=u-adZWlEdhE
   title: "Searching for interaction networks in proteins: from statistical physics
 to machine learning, and back"
-  abstract: |
-    Over the last century, statistical physics was extremely successful to
-
-    predict the collective behaviour of many physical systems from detailed
-    knowledge about their microscopic components. However, complex systems,
-    whose properties result from the delicate interplay of many strong and
-    heterogenous interactions, are notoriously difficult to tackle with
-    first-principle approaches. It is therefore tempting to use data to infer
-    adequate  microscopic models. I will present some efforts made along this
-    direction for proteins, based on the well-known Potts model of statistical
-    mechanics, with an emphasis on computational and theoretical aspects. I
-    will then show how machine learning, whose unsupervised models encompass
-    the Potts model, can be an inspiring source of new questions for
-    statistical mechanics.
+  abstract: "Over the last century, statistical physics was extremely successful to
+predict the collective behaviour of many physical systems from detailed
+knowledge about their microscopic components. However, complex systems,
+whose properties result from the delicate interplay of many strong and
+heterogenous interactions, are notoriously difficult to tackle with
+first-principle approaches. It is therefore tempting to use data to infer
+adequate  microscopic models. I will present some efforts made along this
+direction for proteins, based on the well-known Potts model of statistical
+mechanics, with an emphasis on computational and theoretical aspects. I
+will then show how machine learning, whose unsupervised models encompass
+the Potts model, can be an inspiring source of new questions for
+statistical mechanics."
 
 - speaker: "Jean-Luc Starck"
   date: Oct. 3rd, 2017
@@ -619,31 +575,29 @@ to machine learning, and back"
   url: "http://www.yann-ollivier.org/"
   title: "Intelligence artificielle et raisonnement inductif : de la théorie de
 l'information aux réseaux de neurones artificiels"
-  abstract: |
-    Les problèmes de raisonnement inductif ou d'extrapolation comme \"deviner
-
-    la suite d'une série de nombres\", ou plus généralement, \"comprendre la
-    structure cachée dans des observations\", sont fondamentaux si l'on veut
-    un jour construire une intelligence artificielle. On a parfois
-    l'impression que ces problèmes ne sont pas mathématiquement bien définis.
-    Or il existe une théorie mathématique rigoureuse du raisonnement inductif
-    et de l'extrapolation, basée sur la théorie de l'information. Cette
-    théorie est très élégante, mais difficile à appliquer.
-    <br/>
-    En pratique aujourd'hui, ce sont les réseaux de neurones qui donnent les
-    meilleurs résultats sur toute une série de problèmes concrets d'induction
-    et d'apprentissage (vision, reconnaissance de la parole, récemment le jeu
-    de Go ou les voitures sans pilote...) Je ferai le point sur quelques-uns
-    des principes mathématiques sous-jacents et sur leur lien avec la théorie
-    de l'information.
-    <br/>
-    <i>Short bio:</i> Yann Ollivier is a researcher in computer science and
-    mathematics at the CNRS, LRI, Université Paris-Saclay. After starting his
-    career in pure mathematics, with topics ranging from probability to group
-    theory, he decided to move to artificial intelligence, with an emphasis
-    on artificial neural network training, deep learning, and their links
-    with information theory. In 2011 he was awarded the bronze medal of the
-    CNRS for his work.
+  abstract: "Les problèmes de raisonnement inductif ou d'extrapolation comme \"deviner
+            la suite d'une série de nombres\", ou plus généralement, \"comprendre la
+            structure cachée dans des observations\", sont fondamentaux si l'on veut
+            un jour construire une intelligence artificielle. On a parfois
+            l'impression que ces problèmes ne sont pas mathématiquement bien définis.
+            Or il existe une théorie mathématique rigoureuse du raisonnement inductif
+            et de l'extrapolation, basée sur la théorie de l'information. Cette
+            théorie est très élégante, mais difficile à appliquer.
+            <br/>
+            En pratique aujourd'hui, ce sont les réseaux de neurones qui donnent les
+            meilleurs résultats sur toute une série de problèmes concrets d'induction
+            et d'apprentissage (vision, reconnaissance de la parole, récemment le jeu
+            de Go ou les voitures sans pilote...) Je ferai le point sur quelques-uns
+            des principes mathématiques sous-jacents et sur leur lien avec la théorie
+            de l'information.
+            <br/>
+            <i>Short bio:</i> Yann Ollivier is a researcher in computer science and
+            mathematics at the CNRS, LRI, Université Paris-Saclay. After starting his
+            career in pure mathematics, with topics ranging from probability to group
+            theory, he decided to move to artificial intelligence, with an emphasis
+            on artificial neural network training, deep learning, and their links
+            with information theory. In 2011 he was awarded the bronze medal of the
+            CNRS for his work."
 
 - speaker: "Bertrand Thirion"
   date: Jan. 10th, 2017
@@ -655,11 +609,9 @@ l'information aux réseaux de neurones artificiels"
   title: "A big data approach towards functional brain mapping"
   video: nothing
   slides: nothing
-  abstract: |
-    Functional neuroimaging offers a unique view on brain functional organization, which is broadly characterized by two features: the   segregation of brain territories into functionally specialized regions, and the integration of these regions into networks of coherent
-
-    activity.  Functional Magnetic Resonance Imaging yields a spatially resolved, yet noisy view of this organization. It also yields useful measurements of brain integrity to compare populations and characterize brain diseases.
-    To extract information from these data, a popular strategy is to rely on  supervised classification settings, where signal patterns are used to predict the experimental task performed by the subject during a given  experiment, which is a proxy for the cognitive or mental state of this  subject.  In this talk we will describe how the reliance on large data copora changes the picture: it boosts the generalizability of the results and provides meaningful priors to analyze novel datasets.  We will discuss the challenges posed by these analytic approaches, with an emphasis on computational aspects, and how the use of non-labelled data can be further used to improve the model learned from brain  activity data.
+  abstract: "Functional neuroimaging offers a unique view on brain functional organization, which is broadly characterized by two features: the   segregation of brain territories into functionally specialized regions, and the integration of these regions into networks of coherent
+  activity.  Functional Magnetic Resonance Imaging yields a spatially resolved, yet noisy view of this organization. It also yields useful measurements of brain integrity to compare populations and characterize brain diseases.
+  To extract information from these data, a popular strategy is to rely on  supervised classification settings, where signal patterns are used to predict the experimental task performed by the subject during a given  experiment, which is a proxy for the cognitive or mental state of this  subject.  In this talk we will describe how the reliance on large data copora changes the picture: it boosts the generalizability of the results and provides meaningful priors to analyze novel datasets.  We will discuss the challenges posed by these analytic approaches, with an emphasis on computational aspects, and how the use of non-labelled data can be further used to improve the model learned from brain  activity data."
 
 - speaker: "Special Inauguration Conference"
   date: Dec. 15th, 2016
