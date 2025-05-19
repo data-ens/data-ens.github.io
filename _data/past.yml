@@ -1,25 +1,25 @@
 - speaker: "Fanny Yang"
-    date: 13 February 2025
-    time: 12h00-13h00 (Paris time)
-    room: "Salle Dussane (45 Rue d'Ulm)"
-    affiliation: "ETHZ"
-    url: "https://sml.inf.ethz.ch/group/fannyy/"
-    title: "Robustness of machine learning against test and training time attacks"
-    abstract: "When machine learning models are deployed in the real world, they need to satisfy many different types of robustness requirements against attacks both during test and training time.
+  date: 13 February 2025
+  time: 12h00-13h00 (Paris time)
+  room: "Salle Dussane (45 Rue d'Ulm)"
+  affiliation: "ETHZ"
+  url: "https://sml.inf.ethz.ch/group/fannyy/"
+  title: "Robustness of machine learning against test and training time attacks"
+  abstract: "When machine learning models are deployed in the real world, they need to satisfy many different types of robustness requirements against attacks both during test and training time.
 In the first part of the talk, we discuss prediction models that should be robust against worst-case distribution shifts during test time. Invariance-based algorithms can provably take advantage of structural assumptions on the shifts when the training distributions are heterogeneous enough to identify the robust risk. However, in practice, such identifiability conditions are rarely satisfied – a scenario so far underexplored in the theoretical literature. We show how we can (empirically and theoretically) analyze the more general setting when the robust risk is only partially known during training.
 In the second half of the talk, we turn to the problem of robustly estimating the means of well-separated mixtures when an adversary may add arbitrary outliers to the training data. While strong guarantees are available when the outlier fraction is significantly smaller than the minimum mixing weight, much less is known when outliers may crowd out low-weight clusters. In this setting, the list of estimated means needs to be larger than the number of (true) components - a setting we refer to as list-decodable mixture learning (LD-ML). We propose the first algorithm that obtains order-optimal error guarantees for each mixture mean with a minimal list-size overhead for LD-ML."
 
-    slides: nothing
-    video: nothing
+  slides: nothing
+  video: nothing
 
 - speaker: "Michele Ceriotti"
-    date: 23 January 2025
-    time: 12h00-13h00 (Paris time)
-    room: "Amphi Jaures (29 Rue d'Ulm)"
-    affiliation: "EPFL"
-    url: "https://people.epfl.ch/michele.ceriotti?lang=en"
-    title: "Between physics and scaling: inductive biases in atomistic machine learning"
-    abstract: "Machine-learning techniques are often applied to perform "end-to-end" predictions, making black-box estimates
+  date: 23 January 2025
+  time: 12h00-13h00 (Paris time)
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "EPFL"
+  url: "https://people.epfl.ch/michele.ceriotti?lang=en"
+  title: "Between physics and scaling: inductive biases in atomistic machine learning"
+  abstract: "Machine-learning techniques are often applied to perform "end-to-end" predictions, making black-box estimates
 of a property of interest using only a coarse description of the corresponding inputs.
 In contrast, atomic-scale modeling of matter is most useful when it allows one to gather a mechanistic insight
 into the microscopic processes that underlie the behavior of molecules and materials.
@@ -37,20 +37,20 @@ to the design of solid-state electrolyte materials for batteries and high-entrop
 both the accuracy and the interpretability that can be achieved with a hybrid modeling approach, and providing an
 overview of the exciting research directions that are made available by these new modeling tools."
 
-    slides: nothing
-    video: nothing
+  slides: nothing
+  video: nothing
 
 - speaker: "Jean-Rémi King"
-    date: 05 December 2024
-    time: 12h00-13h00 (Paris time)
-    room: "Salle Dussane (45 Rue d'Ulm)"
-    affiliation: "CNRS, ENS & Meta AI"
-    url: "https://kingjr.github.io/"
-    title: "AI and Neuroscience: in search of the laws of intelligence"
-    abstract: "In just a few years, AI has transitioned from a specialized field into a transformative force for industries and society. Beyond this technical progress, the development of AI provides a new paradigm to understand the intricate workings of the human brain. To illustrate this, we will delve into a series of experiments that systematically compare deep learning algorithms with the human brain in response to images, sounds, and texts. These comparisons consistently show a partial convergence between the representations learned by AI algorithms and those effectively instantiated in our cortex. These results -- largely unexpected by both the AI and Neuroscience communities -- together provide an operational foundation for uncovering the general principles that govern the acquisition, structuring, and manipulation of knowledge in biological and artificial neural networks."
+  date: 05 December 2024
+  time: 12h00-13h00 (Paris time)
+  room: "Salle Dussane (45 Rue d'Ulm)"
+  affiliation: "CNRS, ENS & Meta AI"
+  url: "https://kingjr.github.io/"
+  title: "AI and Neuroscience: in search of the laws of intelligence"
+  abstract: "In just a few years, AI has transitioned from a specialized field into a transformative force for industries and society. Beyond this technical progress, the development of AI provides a new paradigm to understand the intricate workings of the human brain. To illustrate this, we will delve into a series of experiments that systematically compare deep learning algorithms with the human brain in response to images, sounds, and texts. These comparisons consistently show a partial convergence between the representations learned by AI algorithms and those effectively instantiated in our cortex. These results -- largely unexpected by both the AI and Neuroscience communities -- together provide an operational foundation for uncovering the general principles that govern the acquisition, structuring, and manipulation of knowledge in biological and artificial neural networks."
 
-    slides: nothing
-    video: nothing
+  slides: nothing
+  video: nothing
 
 - speaker: "Luca Biferale"
   date: 14 November 2024
