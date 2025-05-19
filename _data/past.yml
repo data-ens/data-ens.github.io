@@ -1,3 +1,17 @@
+  - speaker: "Fanny Yang"
+    date: 13 February 2025
+    time: 12h00-13h00 (Paris time)
+    room: "Salle Dussane (45 Rue d'Ulm)"
+    affiliation: "ETHZ"
+    url: "https://sml.inf.ethz.ch/group/fannyy/"
+    title: "Robustness of machine learning against test and training time attacks"
+    abstract: "When machine learning models are deployed in the real world, they need to satisfy many different types of robustness requirements against attacks both during test and training time.
+In the first part of the talk, we discuss prediction models that should be robust against worst-case distribution shifts during test time. Invariance-based algorithms can provably take advantage of structural assumptions on the shifts when the training distributions are heterogeneous enough to identify the robust risk. However, in practice, such identifiability conditions are rarely satisfied – a scenario so far underexplored in the theoretical literature. We show how we can (empirically and theoretically) analyze the more general setting when the robust risk is only partially known during training.
+In the second half of the talk, we turn to the problem of robustly estimating the means of well-separated mixtures when an adversary may add arbitrary outliers to the training data. While strong guarantees are available when the outlier fraction is significantly smaller than the minimum mixing weight, much less is known when outliers may crowd out low-weight clusters. In this setting, the list of estimated means needs to be larger than the number of (true) components - a setting we refer to as list-decodable mixture learning (LD-ML). We propose the first algorithm that obtains order-optimal error guarantees for each mixture mean with a minimal list-size overhead for LD-ML."
+
+    slides: nothing
+    video: nothing
+
   - speaker: "Michele Ceriotti"
     date: 23 January 2025
     time: 12h00-13h00 (Paris time)
