@@ -1,3 +1,15 @@
+- speaker: "Eric Vanden-Eijnden"
+  date: 22 May 2025
+  time: 12h00-13h00 (Paris time)
+  room: "Amphi Jaures (29 Rue d'Ulm)"
+  affiliation: "CFM & NYU"
+  url: "https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/"
+  title: "Generative modeling with flows and diffusions"
+  abstract: "Dynamical transport-based generative models have revolutionized unsupervised learning. These models construct maps between probability distributions, transforming samples from one into samples from another. While initially developed for image generation, they also show promise in previously intractable high-dimensional problems across scientific computing domains. This talk explores the mathematical foundations of flow and diffusion-based generative models, demonstrating how deeper understanding of their mechanisms improves design. I'll present methods for structuring transport to efficiently reach complex target distributions while optimizing both learning and sampling. Applications in scientific computing will be highlighted in two key areas where significant potential exists, though substantial work remains: Monte Carlo sampling for statistical mechanics and Bayesian inference, and probabilistic forecasting for fluid dynamics and atmosphere/ocean science."
+
+  slides: nothing
+  video: nothing
+
 - speaker: "Fanny Yang"
   date: 13 February 2025
   time: 12h00-13h00 (Paris time)
