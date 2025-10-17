@@ -48,3 +48,24 @@ Next seminars
   <b>Abstract:</b> {{ oneitem.abstract }}
   </p>
 {% endfor %}
+
+
+
+Supported by
+===========================
+
+
+<p align="center">
+
+<a href="http://www.ens.fr">
+<img width="200" src="img/logo-ens.jpg"/>
+</a>
+<a href="https://www.cfm.fr">
+<img width="200" src="img/logo-cfm.png"/>
+</a>
+<a href="https://sites.google.com/view/ellis-paris">
+<img width="300" src="img/ellis-logo.png"/>
+</a>
+
+
+</p>
