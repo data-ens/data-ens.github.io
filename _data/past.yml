@@ -1,3 +1,15 @@
+- speaker: "David Louapre"
+  date: 12 June 2025
+  time: 12h00-13h00 (Paris time)
+  room: "Salle Galois (45 Rue d'Ulm)"
+  affiliation: "Ubisoft"
+  url: "https://scienceetonnante.com/"
+  title: "What modern AI and neuroscience can bring to non-playing characters in video games"
+  abstract: "Until recently, non-playable characters (NPCs) in video games, whether allies, enemies, or bystanders, have mostly relied on traditional AI techniques such as finite state machines and behavior trees. With the rise of deep learning and large language models, new opportunities have emerged to enhance the believability and autonomy of NPCs. However, these advances introduce challenges that call for a more holistic model of the NPC mind, one inspired by neuroscience and agent-based approaches in modern AI."
+
+  slides: nothing
+  video: nothing
+
 - speaker: "Eric Vanden-Eijnden"
   date: 22 May 2025
   time: 12h00-13h00 (Paris time)
