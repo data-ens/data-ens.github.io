@@ -1,3 +1,15 @@
+- speaker: "Eva Dyer"
+  date: 21 October 2025
+  time: 12h00-13h00 (Paris time)
+  room: "Amphi Jaurès (29 Rue d'Ulm)"
+  affiliation: "University of Pennsylvania"
+  url: "https://nerdslab.github.io/"
+  title: "Large-scale pretraining on neural data allows for transfer across individuals, tasks and species"
+  abstract: "The brain is incredibly complex, with diverse functions that emerge from the coordinated activity of billions of neurons. These functions vary across brain regions and adapt dynamically as we engage in different tasks, process sensory information, or generate behavior. Yet, each neural recording captures only a small glimpse of this immense complexity, offering a limited view of the broader system. This motivates the need for an algorithmic approach to stitch together diverse datasets, integrating neural activity across brain regions, cell types, and individuals. In this talk, I will present our work on building scalable models pretrained on a broad corpus of neural recordings. Our findings demonstrate positive transfer across tasks, cell types, regions, and individuals, effectively bridging gaps between isolated studies. This unified framework opens new possibilities for brain-machine interfaces and cross-species neuroscience, and offers a path toward more generalizable models of brain function."
+
+  slides: nothing
+  video: nothing
+
 - speaker: "David Louapre"
   date: 12 June 2025
   time: 12h00-13h00 (Paris time)
