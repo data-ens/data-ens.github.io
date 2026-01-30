@@ -1,3 +1,15 @@
+- speaker: "Nathan Srebro"
+  date: 08 January 2026
+  time: 12h00-13h00 (Paris time)
+  room: "Amphi Jaurès (29 Rue d'Ulm)"
+  affiliation: "Toyota Technological Institute at Chicago"
+  url: "https://nati.ttic.edu/"
+  title: "Learning to Answer from Correct Demonstrations"
+  abstract: "We study the problem of learning to generate an answer (or completion) to a question (or prompt), where there could be multiple correct answers, any one of which is acceptable at test time. Learning is based on demonstrations of some correct answer to each training question, as in Supervised Fine Tuning (SFT).  Current standard practice focuses on maximum likelihood (ie log loss minimization) approaches, but we argue that likelihood-maximization methods can fail even in simple settings.  Instead, we view the problem as apprenticeship learning (i.e., imitation learning) in contextual bandits, with offline demonstrations from some expert (optimal, or very good) policy, and suggest alternative simple approaches with strong guarantees. Joint work with Nirmit Joshi, Gene Li, Siddharth Bhandari, Shiva Kasiviswanathan, and Cong Ma"
+
+  slides: nothing
+  video: nothing
+
 - speaker: "Étienne Ollion"
   date: 18 November 2025
   time: 12h00-13h00 (Paris time)

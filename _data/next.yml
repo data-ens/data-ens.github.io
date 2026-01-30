@@ -1,11 +1,11 @@
-  - speaker: "Nathan Srebro"
-    date: 08 January 2026
+  - speaker: "Alessandro Laio"
+    date: 12 February 2026
     time: 12h00-13h00 (Paris time)
-    room: "Amphi Jaurès (29 Rue d'Ulm)"
-    affiliation: "Toyota Technological Institute at Chicago"
-    url: "https://nati.ttic.edu/"
-    title: "Learning to Answer from Correct Demonstrations"
-    abstract: "We study the problem of learning to generate an answer (or completion) to a question (or prompt), where there could be multiple correct answers, any one of which is acceptable at test time. Learning is based on demonstrations of some correct answer to each training question, as in Supervised Fine Tuning (SFT).  Current standard practice focuses on maximum likelihood (ie log loss minimization) approaches, but we argue that likelihood-maximization methods can fail even in simple settings.  Instead, we view the problem as apprenticeship learning (i.e., imitation learning) in contextual bandits, with offline demonstrations from some expert (optimal, or very good) policy, and suggest alternative simple approaches with strong guarantees. Joint work with Nirmit Joshi, Gene Li, Siddharth Bhandari, Shiva Kasiviswanathan, and Cong Ma"
+    room: "Salle Dussane (45 Rue d'Ulm)"
+    affiliation: "SISSA"
+    url: "https://people.sissa.it/~laio/"
+    title: "Identifying informative distance measures in high-dimensional feature spaces"
+    abstract: "Real-world data  typically contain a large number of features that are often heterogeneous in nature, relevance, and also units of measure. When assessing the similarity between data points, one can build various distance measures using subsets of these features. Finding a small set of features that still retains sufficient information about the dataset is important for the successful application of many statistical learning approaches. We introduce an approach that can assess the relative information retained when using two different distance measures, and determine if they are equivalent, independent, or if one is more informative than the other. This test can be used to identify the most informative distance measure  out of a pool of candidates, to compare the representations in deep neural networks,  and to infer causality in high-dimensional dynamic processes and time series."
 
     slides: nothing
     video: nothing
