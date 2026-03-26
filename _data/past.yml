@@ -1,3 +1,14 @@
+- speaker: "Julien Mairal"
+  date: 17 March 2026
+  time: 12h00-13h00 (Paris time)
+  room: "Salle Dussane (45 Rue d'Ulm)"
+  affiliation: "INRIA Grenoble"
+  url: "https://lear.inrialpes.fr/people/mairal/index.html"
+  title: "Physical Models and Machine Learning for Scientific Imaging"
+  abstract: "In this presentation, we will present a few scientific imaging problems where hybrid approaches that combine physical models of image formation and deep learning are highly successful. We will then address a fundamental challenge in image restoration: the choice of estimator, as perceptual quality often does not align with traditional objective criteria such as minimizing the mean squared error. Finally, we will show how algorithms related to diffusion---highly successful in generative image modeling---can provide an effective solution to this problem."
+  slides: nothing
+  video: nothing
+
 - speaker: "Alessandro Laio"
   date: 12 February 2026
   time: 12h00-13h00 (Paris time)

@@ -1,10 +1,10 @@
-  - speaker: "Julien Mairal"
-    date: 17 March 2026
-    time: 12h00-13h00 (Paris time)
-    room: "Salle Dussane (45 Rue d'Ulm)"
-    affiliation: "INRIA Grenoble"
-    url: "https://lear.inrialpes.fr/people/mairal/index.html"
-    title: "Physical Models and Machine Learning for Scientific Imaging"
-    abstract: "In this presentation, we will present a few scientific imaging problems where hybrid approaches that combine physical models of image formation and deep learning are highly successful. We will then address a fundamental challenge in image restoration: the choice of estimator, as perceptual quality often does not align with traditional objective criteria such as minimizing the mean squared error. Finally, we will show how algorithms related to diffusion---highly successful in generative image modeling---can provide an effective solution to this problem."
+  - speaker: "Michael Chertkov"
+    date: 9 April 2026
+    time: 12h45-13h45 (Paris time)
+    room: "Salle de Conference IV (24, rue Lhomond)"
+    affiliation: "University of Arizona"
+    url: "https://sites.google.com/site/mchertkov/"
+    title: "Samples That Cooperate, Samples That Remember: Two Exactly Solvable Bridge Diffusions"
+    abstract: "Diffusion-based generative models treat samples as independent and memoryless. I will show that relaxing each assumption leads to rich, exactly solvable physics — with no neural networks anywhere. Giving samples a present — coupling them through their evolving mean field — produces a McKean–Vlasov optimal transport problem whose self-consistent guidance is provably the linear interpolant between endpoint means, for arbitrary distributions and any interaction schedule; applied to building-fleet demand response, this saves 20%+ in actuation energy. Giving samples a past produces a continual-learning agent whose memory is a Bridge Diffusion and whose forgetting — arising from a single lossy temporal coarse-graining step — obeys a universal linear capacity law with a Shannon-like constant. Both constructions live in the world of Riccati equations, hyperbolic functions, and mixture linear algebra; the physics of the bridge — not the expressivity of a network — controls what is achievable."
     slides: nothing
     video: nothing
