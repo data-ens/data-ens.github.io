@@ -1,10 +1,10 @@
-  - speaker: "Michael Chertkov"
-    date: 9 April 2026
-    time: 12h45-13h45 (Paris time)
-    room: "Salle de Conference IV (24, rue Lhomond)"
-    affiliation: "University of Arizona"
-    url: "https://sites.google.com/site/mchertkov/"
-    title: "Samples That Cooperate, Samples That Remember: Two Exactly Solvable Bridge Diffusions"
-    abstract: "Diffusion-based generative models treat samples as independent and memoryless. I will show that relaxing each assumption leads to rich, exactly solvable physics — with no neural networks anywhere. Giving samples a present — coupling them through their evolving mean field — produces a McKean–Vlasov optimal transport problem whose self-consistent guidance is provably the linear interpolant between endpoint means, for arbitrary distributions and any interaction schedule; applied to building-fleet demand response, this saves 20%+ in actuation energy. Giving samples a past produces a continual-learning agent whose memory is a Bridge Diffusion and whose forgetting — arising from a single lossy temporal coarse-graining step — obeys a universal linear capacity law with a Shannon-like constant. Both constructions live in the world of Riccati equations, hyperbolic functions, and mixture linear algebra; the physics of the bridge — not the expressivity of a network — controls what is achievable."
-    slides: nothing
-    video: nothing
+- speaker: "Rebecca Willett"
+  date: 2 June 2026
+  time: 12h00-13h00 (Paris time)
+  room: "Amphi Jaurès (29 Rue d'Ulm)"
+  affiliation: "University of Chicago"
+  url: "https://willett.psd.uchicago.edu/"
+  title: "How do simple rotations affect the implicit bias of Adam?"
+  abstract: "Adaptive gradient methods such as Adam and Adagrad are widely used in machine learning, yet their effect on the generalization of learned models – relative to methods like gradient descent – remains poorly understood. Prior work on binary classification suggests that Adam exhibits a “richness bias,” which can help it learn nonlinear decision boundaries closer to the Bayes-optimal decision boundary relative to gradient descent. However, the coordinate-wise preconditioning scheme employed by Adam renders the overall method sensitive to orthogonal transformations of feature space. We show that this sensitivity can manifest as a reversal of Adam’s competitive advantage: even small rotations of the underlying data distribution can make Adam forfeit its richness bias and converge to a linear decision boundary that is farther from the Bayes-optimal decision boundary than the one learned by gradient descent. To alleviate this issue, we show that a recently proposed reparameterization method – which applies an orthogonal transformation to the optimization objective – endows any first-order method with equivariance to data rotations, and we empirically demonstrate its ability to restore Adam’s bias towards rich decision boundaries. This is joint work with Adela DePavia and Vasileios Charisopoulos."
+  slides: nothing
+  video: nothing
