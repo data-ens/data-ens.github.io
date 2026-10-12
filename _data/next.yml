@@ -1,10 +1,10 @@
-- speaker: "Rebecca Willett"
-  date: 2 June 2026
+- speaker: "Marc Lelarge"
+  date: 29 October 2026
   time: 12h00-13h00 (Paris time)
   room: "Amphi Jaurès (29 Rue d'Ulm)"
-  affiliation: "University of Chicago"
-  url: "https://willett.psd.uchicago.edu/"
-  title: "How do simple rotations affect the implicit bias of Adam?"
-  abstract: "Adaptive gradient methods such as Adam and Adagrad are widely used in machine learning, yet their effect on the generalization of learned models – relative to methods like gradient descent – remains poorly understood. Prior work on binary classification suggests that Adam exhibits a “richness bias,” which can help it learn nonlinear decision boundaries closer to the Bayes-optimal decision boundary relative to gradient descent. However, the coordinate-wise preconditioning scheme employed by Adam renders the overall method sensitive to orthogonal transformations of feature space. We show that this sensitivity can manifest as a reversal of Adam’s competitive advantage: even small rotations of the underlying data distribution can make Adam forfeit its richness bias and converge to a linear decision boundary that is farther from the Bayes-optimal decision boundary than the one learned by gradient descent. To alleviate this issue, we show that a recently proposed reparameterization method – which applies an orthogonal transformation to the optimization objective – endows any first-order method with equivariance to data rotations, and we empirically demonstrate its ability to restore Adam’s bias towards rich decision boundaries. This is joint work with Adela DePavia and Vasileios Charisopoulos."
+  affiliation: "INRIA & DIENS"
+  url: "https://www.di.ens.fr/~lelarge/"
+  title: "Mathematics as an experimental science"
+  abstract: "AI is transforming the field of mathematics. In this talk, I will present some on-going experiments that we are conducting with Large Language Models, proof assistants and an unusual large number of colleagues. These experiments would not have been possible a few months ago and could possibly be outdated on the day of the talk… I still hope to discuss relevant ways to enjoy and contribute to mathematics."
   slides: nothing
   video: nothing
