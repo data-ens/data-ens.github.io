@@ -1,10 +1,10 @@
 - speaker: "Marc Lelarge"
-  date: 29 October 2026
+  date: 09 November 2026
   time: 12h00-13h00 (Paris time)
   room: "Amphi Jaurès (29 Rue d'Ulm)"
-  affiliation: "INRIA & DIENS"
-  url: "https://www.di.ens.fr/~lelarge/"
-  title: "Mathematics as an experimental science"
-  abstract: "AI is transforming the field of mathematics. In this talk, I will present some on-going experiments that we are conducting with Large Language Models, proof assistants and an unusual large number of colleagues. These experiments would not have been possible a few months ago and could possibly be outdated on the day of the talk… I still hope to discuss relevant ways to enjoy and contribute to mathematics."
+  affiliation: "Columbia University"
+  url: "https://gentinelab.eee.columbia.edu/home"
+  title: "Lost in latent land"
+  abstract: "Machine learning and artificial intelligence have been revolutionizing weather and climate modeling and data analysis over the past few years. However, it remains unclear how much understanding has been gained from those models, even though they are reaching unprecedented accuracy. Through the study and analysis of carefully chosen latent spaces, I will demonstrate how we can get new understanding on the terrestrial water and carbon cycle as well as on atmospheric processes, specifically on convection. Those latent spaces can also be used to better characterize complex stochastic processes such as turbulence and combined with data assimilation in order to achieve improved performance in those models."
   slides: nothing
   video: nothing
